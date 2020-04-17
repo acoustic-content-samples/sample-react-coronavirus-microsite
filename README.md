@@ -31,6 +31,8 @@ To see the dynamic pages of the site in action, try this after you've installed 
 - On the home page, your new update should appear at the top of the list of updates (since it’s the most recent).
 - From the Updates page, your new article should be listed, and you can filter by category and tag to find your update.
 
+For additional details on how to customize the sample site, see the following article:
+[Guide to starting your COVID-19 Response Center](https://help.goacoustic.com/hc/en-us/articles/360046808053)
 
 ## Installing the Sample
 
