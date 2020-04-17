@@ -2,7 +2,7 @@
 
 This is an example of how to create a modern website using the headless CMS features of Acoustic Content in combination with a Single Page Application (SPA) for the website. This sample is a React-based site, though the same concepts and content can be used with any web application or other delivery channel. That’s the great benefit of a headless CMS: the content and images are completely independent of the delivery channel. Your business users can manage all the content in one place and have it delivered across all channels - websites, mobile apps, emails, or any other channel. 
 
-![Coronavirus Response Website Sample - Home Page](docs/images/homepageSS)
+![Coronavirus Response Website Sample - Home Page](docs/images/homepageSS.png)
 
 ### Combining the React SPA with content and assets managed by business users
 
