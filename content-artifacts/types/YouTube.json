@@ -1,6 +1,6 @@
 {
   "id": "1ddf8b42-f1b3-43bd-9b56-41256c31fd3f",
-  "rev": "1-023935337bb54b7e5dc6d2559a4d0638",
+  "rev": "4-29ab8ca234b18f875a4574d2df67f2dd",
   "name": "YouTube",
   "classification": "content-type",
   "kind": [],
@@ -15,9 +15,6 @@
   ],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
-  ],
-  "categories": [
-    "Social Media/Social Media"
   ],
   "elements": [
     {

@@ -1,8 +1,8 @@
 {
   "id": "38f8dea6-5055-4e3f-9093-3306c6831bde",
-  "rev": "1-de7900f17c87381030f15fa9b72f4f94",
+  "rev": "2-ef0dcdd51761f7495dcb0dca0ec458d0",
   "name": "Fonts",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "creator": "David Klages",
   "classification": "taxonomy",
   "firstClassFor": [
@@ -16,7 +16,6 @@
       "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
     }
   },
-  "created": "2020-04-17T15:22:52.346Z",
-  "lastModified": "2020-04-17T15:22:52.346Z",
-  "code": 201
+  "created": "2020-04-08T19:40:29.413Z",
+  "lastModified": "2020-04-08T19:40:32.724Z"
 }

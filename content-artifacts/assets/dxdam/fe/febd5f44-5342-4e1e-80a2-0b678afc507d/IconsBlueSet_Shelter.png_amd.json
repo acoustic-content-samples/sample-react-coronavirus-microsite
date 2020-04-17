@@ -5,58 +5,35 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "8cab9482-ae29-44ef-9781-a676afacf2d7",
+  "mediaId": "99a7897b-4599-49d7-b7a8-0ff2ef8c95d1",
   "path": "/dxdam/fe/febd5f44-5342-4e1e-80a2-0b678afc507d/IconsBlueSet_Shelter.png",
   "digest": "T2VQsn3vIW2F8R4r9/TMZw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=5a5cc379-bdce-47a6-b856-50e9dea90295&a=febd5f44-5342-4e1e-80a2-0b678afc507d",
       "source": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/febd5f44-5342-4e1e-80a2-0b678afc507d"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/febd5f44-5342-4e1e-80a2-0b678afc507d/status/retire"
-    }
-  },
   "id": "febd5f44-5342-4e1e-80a2-0b678afc507d",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:37.591Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:02:10.598Z",
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "tile",
-      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -72,9 +49,7 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "block",
-      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -90,9 +65,7 @@
     },
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-      "profileName": "Update Article Profile",
       "key": "article",
-      "label": "Article",
       "transform": {
         "scale": 0.41229,
         "crop": {
@@ -107,18 +80,26 @@
       "height": 320
     }
   ],
-  "rev": "1-44e48c020b5984452806f50d8c6841e9",
-  "creator": "David Klages",
+  "rev": "4-3b8c49bde0dfd601a19deb687656f5dd",
   "altText": "",
   "resource": "5a5cc379-bdce-47a6-b856-50e9dea90295",
-  "created": "2020-04-17T15:23:37.559Z",
+  "created": "2020-04-10T17:21:08.223Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:blue color",
+      "classification:convex polygon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:octagon",
+      "classification:ultramarine color"
+    ],
     "declined": [
       "classification:blue color",
       "classification:convex polygon",
@@ -132,16 +113,31 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "blue color",
+      "convex polygon",
+      "polygon",
+      "figure",
+      "octagon",
+      "ultramarine color"
+    ],
+    "colors": {
+      "lightMuted": "#027696",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#68dcfc",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
   },
   "fileSize": 29246,
   "name": "IconsBlueSet_Shelter.png",
-  "lastModified": "2020-04-17T15:23:37.591Z",
+  "lastModified": "2020-04-15T18:02:10.598Z",
   "status": "ready"
 }

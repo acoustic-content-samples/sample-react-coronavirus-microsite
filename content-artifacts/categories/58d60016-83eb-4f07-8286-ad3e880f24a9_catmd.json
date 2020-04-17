@@ -1,8 +1,8 @@
 {
   "id": "58d60016-83eb-4f07-8286-ad3e880f24a9",
-  "rev": "1-e6ebed0137cae119a9799d68662a73c1",
+  "rev": "1-17756cba0cd6f9b629befcf149c8f1b1",
   "name": "Montserrat",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -27,7 +27,6 @@
       "href": "/authoring/v1/categories/8e8ecad2-11e2-42c5-87da-d0642381af3a"
     }
   },
-  "created": "2020-04-17T15:22:54.598Z",
-  "lastModified": "2020-04-17T15:22:54.598Z",
-  "code": 201
+  "created": "2020-04-14T23:08:52.807Z",
+  "lastModified": "2020-04-14T23:08:52.807Z"
 }

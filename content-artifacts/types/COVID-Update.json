@@ -1,6 +1,6 @@
 {
   "id": "14b10af1-f907-43eb-8acd-504761b38097",
-  "rev": "1-0756099ed994bd038eb59cb7e7d69ab5",
+  "rev": "28-146779b894343ebbaed270956ec5baa7",
   "name": "COVID Update",
   "classification": "content-type",
   "kind": [
@@ -23,7 +23,7 @@
     },
     {
       "elementType": "category",
-      "label": "articleCategories",
+      "label": "Article Categories",
       "key": "articleCategories",
       "restrictedParents": [
         "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"

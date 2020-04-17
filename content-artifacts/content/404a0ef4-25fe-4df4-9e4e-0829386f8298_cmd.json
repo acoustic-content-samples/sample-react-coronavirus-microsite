@@ -1,15 +1,12 @@
 {
-  "rev": "1-1f04eb45dd940a246f51075bd5aaa25a",
-  "creator": "David Klages",
+  "rev": "2-55526f8fbd67f4bf06543f081c0a1dec",
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:27.915Z",
+  "created": "2020-04-15T00:43:58.027Z",
   "libraryId": "default",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "Resource",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -27,27 +24,10 @@
     }
   },
   "name": "WHO information",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "c022bb52-919e-4c3c-ab92-119914ed70c6",
-  "links": {
-    "createDraft": {
-      "href": "/authoring/v1/content/404a0ef4-25fe-4df4-9e4e-0829386f8298/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/404a0ef4-25fe-4df4-9e4e-0829386f8298/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/404a0ef4-25fe-4df4-9e4e-0829386f8298"
-    },
-    "type": {
-      "href": "/authoring/v1/types/c022bb52-919e-4c3c-ab92-119914ed70c6"
-    }
-  },
   "id": "404a0ef4-25fe-4df4-9e4e-0829386f8298",
-  "lastModified": "2020-04-17T15:24:27.915Z",
-  "systemModified": "2020-04-17T15:24:27.915Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T03:41:47.344Z",
+  "systemModified": "2020-04-15T03:41:47.344Z",
   "status": "ready"
 }

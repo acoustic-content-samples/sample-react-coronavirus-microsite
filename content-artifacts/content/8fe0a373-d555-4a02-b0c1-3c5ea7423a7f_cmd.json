@@ -1,15 +1,12 @@
 {
-  "rev": "1-56bdbe4ba82a45a692feaaa67a78c2a2",
-  "creator": "David Klages",
+  "rev": "20-673c5ef075d63d2b09b0bd19e02cd6d7",
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:28.737Z",
+  "created": "2020-04-08T19:44:31.914Z",
   "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "Style Guide",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -33,9 +30,6 @@
       "categoryIds": [
         "7c6a52fc-1d17-4e67-b626-43cf6687838a"
       ],
-      "categories": [
-        "Fonts/Google Fonts/Open Sans"
-      ],
       "elementType": "category"
     },
     "link": {
@@ -48,27 +42,10 @@
     }
   },
   "name": "Style Guide",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "typeId": "f6a9e593-895d-4738-9618-9b611177e2f6",
-  "links": {
-    "createDraft": {
-      "href": "/authoring/v1/content/8fe0a373-d555-4a02-b0c1-3c5ea7423a7f/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/8fe0a373-d555-4a02-b0c1-3c5ea7423a7f/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/8fe0a373-d555-4a02-b0c1-3c5ea7423a7f"
-    },
-    "type": {
-      "href": "/authoring/v1/types/f6a9e593-895d-4738-9618-9b611177e2f6"
-    }
-  },
   "id": "8fe0a373-d555-4a02-b0c1-3c5ea7423a7f",
-  "lastModified": "2020-04-17T15:24:28.737Z",
-  "systemModified": "2020-04-17T15:24:28.737Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T01:22:55.871Z",
+  "systemModified": "2020-04-15T01:22:55.871Z",
   "status": "ready"
 }

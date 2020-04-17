@@ -1,9 +1,9 @@
 {
   "id": "431db788-41ac-4c21-91cf-392cab835dfb",
-  "rev": "1-9aadce7bd00c04d07440557ad6936f3a",
+  "rev": "1-403935e80554e80f553dd21af8e5e8ec",
   "name": "Customer Service",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
-  "creator": "David Klages",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,7 +25,6 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-17T15:22:51.562Z",
-  "lastModified": "2020-04-17T15:22:51.562Z",
-  "code": 201
+  "created": "2020-04-09T14:26:28.064Z",
+  "lastModified": "2020-04-09T14:26:28.064Z"
 }

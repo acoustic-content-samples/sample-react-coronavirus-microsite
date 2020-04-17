@@ -1,19 +1,15 @@
 {
-  "rev": "1-40690cad4c74038e9d531c102ef063e8",
-  "creator": "David Klages",
+  "rev": "4-9393c2ad8dec56af7a67fc7d18057875",
   "thumbnail": {
-    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc",
-    "url": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:28.669Z",
+  "created": "2020-04-15T01:34:21.908Z",
   "libraryId": "default",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "FAQ Item",
   "locale": "en",
   "tags": [
     "user:Branch"
@@ -36,11 +32,6 @@
         "2f650b9a-5e08-474a-861a-a4c7e0e8b71d",
         "19f57336-3e2d-4948-9200-5d91aed618f0"
       ],
-      "categories": [
-        "Content Categories/Safeguards",
-        "Content Categories/Service Hours",
-        "Content Categories/Services"
-      ],
       "elementType": "category"
     },
     "topItem": {
@@ -49,30 +40,10 @@
     }
   },
   "name": "Sample: Visit a branch",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/180015f4-3b4c-4d1a-ab47-81539b5c8927/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/180015f4-3b4c-4d1a-ab47-81539b5c8927/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/180015f4-3b4c-4d1a-ab47-81539b5c8927"
-    },
-    "type": {
-      "href": "/authoring/v1/types/d8dae096-118a-49e3-8321-cbbb7482f8f7"
-    }
-  },
   "id": "180015f4-3b4c-4d1a-ab47-81539b5c8927",
-  "lastModified": "2020-04-17T15:24:28.669Z",
-  "systemModified": "2020-04-17T15:24:28.669Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T13:50:01.002Z",
+  "systemModified": "2020-04-15T13:50:01.002Z",
   "status": "ready"
 }

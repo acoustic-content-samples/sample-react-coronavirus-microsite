@@ -5,62 +5,54 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "97b3338c-3e46-4aa7-8947-b438ca9d21fa",
+  "mediaId": "484b5f77-6050-4edd-9f45-6c4abe6f7153",
   "path": "/dxdam/6f/6f8add84-5ed3-4abb-a332-88c1e4987434/IconsYellowSet_News.png",
   "digest": "wk8eUdeQCiFHnU2uCsLkjg==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "renditions": {
     "default": {
       "id": "r=5d18efec-2513-4c89-8368-33384728306c&a=6f8add84-5ed3-4abb-a332-88c1e4987434",
       "source": "/authoring/v1/resources/5d18efec-2513-4c89-8368-33384728306c"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/6f8add84-5ed3-4abb-a332-88c1e4987434"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/5d18efec-2513-4c89-8368-33384728306c.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/5d18efec-2513-4c89-8368-33384728306c?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/6f8add84-5ed3-4abb-a332-88c1e4987434/status/retire"
-    }
-  },
   "id": "6f8add84-5ed3-4abb-a332-88c1e4987434",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:25.517Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-10T17:23:09.313Z",
   "profileRenditions": [],
-  "rev": "1-508a650927f2a0eaf2633290f64437a9",
-  "creator": "David Klages",
+  "rev": "1-31bd796f10004e1b4a6a87ef4163887f",
   "altText": "",
   "resource": "5d18efec-2513-4c89-8368-33384728306c",
-  "created": "2020-04-17T15:23:25.512Z",
+  "created": "2020-04-10T17:00:12.691Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:L-plate (learners plate for car)",
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:yellow color",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:tool",
+      "classification:push button"
+    ],
     "declined": [
       "classification:L-plate (learners plate for car)",
       "classification:quadrate",
@@ -78,16 +70,36 @@
       "user:yellow",
       "user:news"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "L-plate (learners plate for car)",
+      "quadrate",
+      "polygon",
+      "figure",
+      "yellow color",
+      "fluorescent lamp",
+      "lamp",
+      "electric switch",
+      "controller",
+      "tool",
+      "push button"
+    ],
+    "colors": {
+      "lightMuted": "#958203",
+      "darkMuted": "#967302",
+      "lightVibrant": "#fcec80",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 21750,
   "name": "IconsYellowSet_News.png",
-  "lastModified": "2020-04-17T15:23:25.517Z",
+  "lastModified": "2020-04-10T17:23:09.313Z",
   "status": "ready"
 }

@@ -1,18 +1,14 @@
 {
-  "rev": "1-7019e2d361106e12b1578b593f25fec0",
-  "creator": "David Klages",
+  "rev": "4-95cf9cca5a68db185b5c6dc3bce5e991",
   "thumbnail": {
-    "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d",
-    "url": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9?fit=inside%7C220:145"
+    "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:28.719Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-15T02:50:04.901Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Mobile",
@@ -25,36 +21,8 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
-      "renditions": {
-        "article": {
-          "source": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9?resize=825px:1237px&crop=825:320;0,734",
-          "width": 825,
-          "height": 320,
-          "transform": {
-            "scale": 0.24984857662023016,
-            "crop": {
-              "x": 0,
-              "y": 734,
-              "width": 825,
-              "height": 320
-            }
-          }
-        },
-        "default": {
-          "width": 3302,
-          "source": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9",
-          "height": 4953
-        }
-      },
       "asset": {
-        "fileName": "remote_customer_service_sample.jpg",
-        "altText": "",
-        "fileSize": 1908671,
-        "width": 3302,
-        "mediaType": "image/jpeg",
-        "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d",
-        "resourceUri": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9",
-        "height": 4953
+        "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d"
       },
       "elementType": "image"
     },
@@ -67,11 +35,6 @@
         "431db788-41ac-4c21-91cf-392cab835dfb",
         "208fb064-20f3-4cb7-8b4b-435609fa482c",
         "dbc5f62e-763c-4787-9975-128054ee5761"
-      ],
-      "categories": [
-        "Content Categories/Customer Service",
-        "Content Categories/Appointments",
-        "Content Categories/Safeguards"
       ],
       "elementType": "category"
     },
@@ -95,50 +58,8 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
-      "renditions": {
-        "tile": {
-          "source": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2?resize=510px:510px&crop=510:192;0,159",
-          "width": 510,
-          "height": 192,
-          "transform": {
-            "scale": 0.25487,
-            "crop": {
-              "x": 0,
-              "y": 159,
-              "width": 510,
-              "height": 192
-            }
-          }
-        },
-        "block": {
-          "source": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2?resize=350px:350px&crop=350:240;0,55",
-          "width": 350,
-          "height": 240,
-          "transform": {
-            "scale": 0.17491,
-            "crop": {
-              "x": 0,
-              "y": 55,
-              "width": 350,
-              "height": 240
-            }
-          }
-        },
-        "default": {
-          "width": 2001,
-          "source": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2",
-          "height": 2001
-        }
-      },
       "asset": {
-        "fileName": "IconsBlueSet_Connection.png",
-        "altText": "",
-        "fileSize": 31365,
-        "width": 2001,
-        "mediaType": "image/png",
-        "id": "1aa7bef0-40ba-433d-93de-6d3dd5697fcc",
-        "resourceUri": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2",
-        "height": 2001
+        "id": "1aa7bef0-40ba-433d-93de-6d3dd5697fcc"
       },
       "elementType": "image"
     },
@@ -150,30 +71,10 @@
     }
   },
   "name": "Sample: Remote customer service",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/5886986f-757c-43e4-95b7-4c425f1ddbaa/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/5886986f-757c-43e4-95b7-4c425f1ddbaa/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/5886986f-757c-43e4-95b7-4c425f1ddbaa"
-    },
-    "type": {
-      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
-    }
-  },
   "id": "5886986f-757c-43e4-95b7-4c425f1ddbaa",
-  "lastModified": "2020-04-17T15:24:28.719Z",
-  "systemModified": "2020-04-17T15:24:28.719Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T12:54:42.826Z",
+  "systemModified": "2020-04-15T12:54:42.826Z",
   "status": "ready"
 }

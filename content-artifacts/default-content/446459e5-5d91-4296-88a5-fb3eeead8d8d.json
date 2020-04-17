@@ -1,17 +1,13 @@
 {
-  "rev": "1-1d26e03c1f1899b238a7483469cc93d0",
-  "creator": "David Klages",
+  "rev": "5-bd21d392ec0951f003844740441098d1",
   "thumbnail": {
-    "id": "62abf398-8fcf-4c16-a3f6-5d8535997df0",
-    "url": "/authoring/v1/resources/a25a11b1-7b5e-404d-a453-e56d7504234c"
+    "id": "62abf398-8fcf-4c16-a3f6-5d8535997df0"
   },
   "keywords": [],
-  "created": "2020-04-17T15:24:27.123Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-10T07:23:30.260Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "default-content",
-  "type": "Medium",
   "locale": "en",
   "tags": [
     "user:Medium"
@@ -19,18 +15,8 @@
   "elements": {
     "socialIcon": {
       "mode": "shared",
-      "renditions": {
-        "default": {
-          "source": "/authoring/v1/resources/a25a11b1-7b5e-404d-a453-e56d7504234c"
-        }
-      },
       "asset": {
-        "fileName": "ME_Color.svg",
-        "altText": "",
-        "fileSize": 584,
-        "mediaType": "image/svg+xml",
-        "id": "62abf398-8fcf-4c16-a3f6-5d8535997df0",
-        "resourceUri": "/authoring/v1/resources/a25a11b1-7b5e-404d-a453-e56d7504234c"
+        "id": "62abf398-8fcf-4c16-a3f6-5d8535997df0"
       },
       "elementType": "image"
     },
@@ -40,20 +26,10 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "typeId": "3544c726-68bf-47f7-95e2-b4733d4a9ae5",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/a25a11b1-7b5e-404d-a453-e56d7504234c"
-    },
-    "self": {
-      "href": "/authoring/v1/default-content/446459e5-5d91-4296-88a5-fb3eeead8d8d"
-    },
-    "type": {
-      "href": "/authoring/v1/types/3544c726-68bf-47f7-95e2-b4733d4a9ae5"
-    }
-  },
   "id": "446459e5-5d91-4296-88a5-fb3eeead8d8d",
-  "lastModified": "2020-04-17T15:24:27.123Z",
-  "systemModified": "2020-04-17T15:24:27.123Z"
+  "lastModified": "2020-04-10T07:24:08.356Z",
+  "systemModified": "2020-04-10T07:24:08.356Z",
+  "status": "ready"
 }

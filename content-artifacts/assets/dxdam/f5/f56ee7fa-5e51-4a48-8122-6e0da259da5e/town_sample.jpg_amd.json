@@ -4,49 +4,28 @@
     "width": 4000,
     "height": 6000
   },
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "39769758-5b08-4085-b8bc-63bd58f8b9f3",
+  "mediaId": "6ab9f9e3-785f-40b2-8ac4-ce2b28a21b97",
   "path": "/dxdam/f5/f56ee7fa-5e51-4a48-8122-6e0da259da5e/town_sample.jpg",
   "digest": "ZOWYKYz7+W34XjDM8/2JBA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "renditions": {
     "default": {
       "id": "r=7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a&a=f56ee7fa-5e51-4a48-8122-6e0da259da5e",
       "source": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/f56ee7fa-5e51-4a48-8122-6e0da259da5e"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a.jpg"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/f56ee7fa-5e51-4a48-8122-6e0da259da5e/status/retire"
-    }
-  },
   "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e",
-  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-17T15:23:34.745Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T02:47:09.007Z",
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-      "profileName": "Update Article Profile",
       "key": "article",
-      "label": "Article",
       "transform": {
         "scale": 0.20625,
         "crop": {
@@ -61,17 +40,26 @@
       "height": 320
     }
   ],
-  "rev": "1-640cfb41f5259c8d42f24a1a8bbf3a03",
-  "creator": "David Klages",
+  "rev": "1-741ff2374b561345a572eec8941a0be3",
   "altText": "",
   "resource": "7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a",
-  "created": "2020-04-17T15:23:34.736Z",
+  "created": "2020-04-15T02:46:13.600Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:street",
+      "classification:road",
+      "classification:Fleet Street building",
+      "classification:medium",
+      "classification:building",
+      "classification:gray color",
+      "classification:reddish orange color"
+    ],
     "declined": [],
     "values": [
       "classification:street",
@@ -82,16 +70,32 @@
       "classification:gray color",
       "classification:reddish orange color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "street",
+      "road",
+      "Fleet Street building",
+      "medium",
+      "building",
+      "gray color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#d3bdaf",
+      "darkMuted": "#564641",
+      "lightVibrant": "#ecbc8c",
+      "vibrant": "#d2a177",
+      "muted": "#ab8366",
+      "darkVibrant": "#145c64"
+    },
+    "status": "complete"
   },
   "fileSize": 3984770,
   "name": "town_sample.jpg",
-  "lastModified": "2020-04-17T15:23:34.745Z",
+  "lastModified": "2020-04-15T02:47:09.007Z",
   "status": "ready"
 }

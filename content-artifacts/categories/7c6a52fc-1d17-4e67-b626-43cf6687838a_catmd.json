@@ -1,8 +1,8 @@
 {
   "id": "7c6a52fc-1d17-4e67-b626-43cf6687838a",
-  "rev": "1-9afa66f8ba96e31c18c68a604b21f1aa",
+  "rev": "1-0e5e1cfa65a6b3b8b588422bddc64276",
   "name": "Open Sans",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -27,7 +27,6 @@
       "href": "/authoring/v1/categories/8e8ecad2-11e2-42c5-87da-d0642381af3a"
     }
   },
-  "created": "2020-04-17T15:22:54.986Z",
-  "lastModified": "2020-04-17T15:22:54.986Z",
-  "code": 201
+  "created": "2020-04-14T23:08:22.894Z",
+  "lastModified": "2020-04-14T23:08:22.894Z"
 }

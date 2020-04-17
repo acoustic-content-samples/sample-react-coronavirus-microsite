@@ -5,62 +5,50 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "d387cdb4-b93a-4b45-81c5-f51062f07dd5",
+  "mediaId": "87047cdc-30ef-4922-bcf1-f282dbe52400",
   "path": "/dxdam/1c/1c55e70a-a5a6-4335-8976-2d39986127f2/IconsYellowSet_Connection.png",
   "digest": "RNuYtawxEBKUEVIIMrUibw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=872ee8c7-904d-444a-afe4-2c338f66b497&a=1c55e70a-a5a6-4335-8976-2d39986127f2",
       "source": "/authoring/v1/resources/872ee8c7-904d-444a-afe4-2c338f66b497"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/1c55e70a-a5a6-4335-8976-2d39986127f2"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/872ee8c7-904d-444a-afe4-2c338f66b497.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/872ee8c7-904d-444a-afe4-2c338f66b497?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/1c55e70a-a5a6-4335-8976-2d39986127f2/status/retire"
-    }
-  },
   "id": "1c55e70a-a5a6-4335-8976-2d39986127f2",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:18.857Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:07:59.662Z",
   "profileRenditions": [],
-  "rev": "1-6b4c658549b28a56ffe8040b4053aaf5",
-  "creator": "David Klages",
+  "rev": "2-66891535afbe71bb0373b0d884002ddf",
   "altText": "",
   "resource": "872ee8c7-904d-444a-afe4-2c338f66b497",
-  "created": "2020-04-17T15:23:18.851Z",
+  "created": "2020-04-10T17:00:09.871Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:round shape",
+      "classification:source of illumination",
+      "classification:lamp",
+      "classification:pale yellow color",
+      "classification:lemon yellow color"
+    ],
     "declined": [
       "classification:sconce (lighting)",
       "classification:light source",
@@ -74,16 +62,32 @@
       "user:yellow",
       "user:connection"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "sconce (lighting)",
+      "light source",
+      "round shape",
+      "source of illumination",
+      "lamp",
+      "pale yellow color",
+      "lemon yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#918007",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f9ea83",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 31357,
   "name": "IconsYellowSet_Connection.png",
-  "lastModified": "2020-04-17T15:23:18.857Z",
+  "lastModified": "2020-04-15T18:07:59.662Z",
   "status": "ready"
 }

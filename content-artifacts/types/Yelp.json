@@ -1,6 +1,6 @@
 {
   "id": "f5da0602-c0de-4186-b98f-4c4ebce11f32",
-  "rev": "1-92e8a8859cbef30ce63a005ae8fd4862",
+  "rev": "4-ce9e672d43f16c2c0810579d04a275c5",
   "name": "Yelp",
   "classification": "content-type",
   "kind": [],
@@ -15,9 +15,6 @@
   ],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
-  ],
-  "categories": [
-    "Social Media/Social Media"
   ],
   "elements": [
     {

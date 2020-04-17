@@ -5,62 +5,55 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "201347bd-d340-40e1-a7f1-541046819eb0",
+  "mediaId": "a3cc81a1-6d4f-445b-b1ec-de9a4f790859",
   "path": "/dxdam/ef/efc02253-93e1-4317-9954-ae4267a86a10/IconsGreenSet_Share.png",
   "digest": "0u195VJttVLESQyj2aqclQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=5bce1e7b-f14f-4e1e-9e0f-c26f59da07e0&a=efc02253-93e1-4317-9954-ae4267a86a10",
       "source": "/authoring/v1/resources/5bce1e7b-f14f-4e1e-9e0f-c26f59da07e0"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/efc02253-93e1-4317-9954-ae4267a86a10"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/5bce1e7b-f14f-4e1e-9e0f-c26f59da07e0.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/5bce1e7b-f14f-4e1e-9e0f-c26f59da07e0?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/efc02253-93e1-4317-9954-ae4267a86a10/status/retire"
-    }
-  },
   "id": "efc02253-93e1-4317-9954-ae4267a86a10",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:35.102Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:11:23.227Z",
   "profileRenditions": [],
-  "rev": "1-022e8c0df28f03a395291cb7ac26a027",
-  "creator": "David Klages",
+  "rev": "2-e4f39573d4098d385245e4e766b3730e",
   "altText": "",
   "resource": "5bce1e7b-f14f-4e1e-9e0f-c26f59da07e0",
-  "created": "2020-04-17T15:23:35.096Z",
+  "created": "2020-04-10T17:18:39.138Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:jack (electrical)",
+      "classification:electrical device",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:socket",
+      "classification:receptacle",
+      "classification:recording",
+      "classification:push button",
+      "classification:emerald color",
+      "classification:blue color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -80,16 +73,37 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "jack (electrical)",
+      "electrical device",
+      "electric switch",
+      "controller",
+      "socket",
+      "receptacle",
+      "recording",
+      "push button",
+      "emerald color",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#059362",
+      "darkMuted": "#049481",
+      "lightVibrant": "#7efad0",
+      "vibrant": "#14f7a9",
+      "muted": "#059362",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
   },
   "fileSize": 33295,
   "name": "IconsGreenSet_Share.png",
-  "lastModified": "2020-04-17T15:23:35.102Z",
+  "lastModified": "2020-04-15T18:11:23.227Z",
   "status": "ready"
 }

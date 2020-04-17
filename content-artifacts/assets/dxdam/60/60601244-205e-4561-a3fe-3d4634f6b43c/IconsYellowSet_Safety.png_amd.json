@@ -5,62 +5,57 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "dd9f9c52-3ae2-4e0e-aed6-53a6e4dd60e5",
+  "mediaId": "2bb7f18f-7e50-4849-a8e6-80c080a2b0dd",
   "path": "/dxdam/60/60601244-205e-4561-a3fe-3d4634f6b43c/IconsYellowSet_Safety.png",
   "digest": "BH4gxDOMgAcicb2ZqnlzBw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1&a=60601244-205e-4561-a3fe-3d4634f6b43c",
       "source": "/authoring/v1/resources/c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/60601244-205e-4561-a3fe-3d4634f6b43c"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/60601244-205e-4561-a3fe-3d4634f6b43c/status/retire"
-    }
-  },
   "id": "60601244-205e-4561-a3fe-3d4634f6b43c",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:24.541Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:11:36.790Z",
   "profileRenditions": [],
-  "rev": "1-7e8054a6adf751cfb54d414ee27e05da",
-  "creator": "David Klages",
+  "rev": "2-3c3f055e42deb2176e2c8d4d424bcac8",
   "altText": "",
   "resource": "c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1",
-  "created": "2020-04-17T15:23:24.536Z",
+  "created": "2020-04-10T17:00:14.667Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:earplug",
+      "classification:plug",
+      "classification:baby bottle cap",
+      "classification:cap",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:safety pin",
+      "classification:pin",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:sash fastener",
+      "classification:lock",
+      "classification:yellow color",
+      "classification:lemon yellow color"
+    ],
     "declined": [
       "classification:earplug",
       "classification:plug",
@@ -81,16 +76,39 @@
       "user:yellow",
       "user:safety"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "earplug",
+      "plug",
+      "baby bottle cap",
+      "cap",
+      "fluorescent lamp",
+      "lamp",
+      "safety pin",
+      "pin",
+      "fastener",
+      "restraint (chains)",
+      "sash fastener",
+      "lock",
+      "yellow color",
+      "lemon yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#917e07",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f8e87f",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 32629,
   "name": "IconsYellowSet_Safety.png",
-  "lastModified": "2020-04-17T15:23:24.541Z",
+  "lastModified": "2020-04-15T18:11:36.790Z",
   "status": "ready"
 }

@@ -1,8 +1,8 @@
 {
   "id": "64b8d949-b6c1-4e81-baf6-721cf6c07b53",
-  "rev": "1-1584f7fc809cca3f8fb2e3d28b2d262c",
+  "rev": "4-5b836239def650840d82f39d13c13846",
   "name": "Courier New, Courier, monospace",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -27,7 +27,6 @@
       "href": "/authoring/v1/categories/3797cd26-a84b-40bf-8d1d-ae8c9fc43696"
     }
   },
-  "created": "2020-04-17T15:22:54.995Z",
-  "lastModified": "2020-04-17T15:22:54.995Z",
-  "code": 201
+  "created": "2020-04-08T19:43:16.367Z",
+  "lastModified": "2020-04-08T21:39:59.807Z"
 }

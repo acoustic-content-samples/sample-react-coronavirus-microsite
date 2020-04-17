@@ -1,18 +1,14 @@
 {
-  "rev": "1-64829b3c17f3625f0d0e3c311b1defe8",
-  "creator": "David Klages",
+  "rev": "5-142757c3efe0877f550d631fea517ef0",
   "thumbnail": {
-    "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae",
-    "url": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24?fit=inside%7C220:145"
+    "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:28.320Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-15T03:01:01.566Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Branch",
@@ -24,36 +20,8 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
-      "renditions": {
-        "article": {
-          "source": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24?resize=825px:1238px&crop=825:320;0,459",
-          "width": 825,
-          "height": 320,
-          "transform": {
-            "scale": 0.20625,
-            "crop": {
-              "x": 0,
-              "y": 459,
-              "width": 825,
-              "height": 320
-            }
-          }
-        },
-        "default": {
-          "width": 4000,
-          "source": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24",
-          "height": 6000
-        }
-      },
       "asset": {
-        "fileName": "open_sample.jpg",
-        "altText": "",
-        "fileSize": 1205545,
-        "width": 4000,
-        "mediaType": "image/jpeg",
-        "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae",
-        "resourceUri": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24",
-        "height": 6000
+        "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae"
       },
       "elementType": "image"
     },
@@ -67,12 +35,6 @@
         "19f57336-3e2d-4948-9200-5d91aed618f0",
         "208fb064-20f3-4cb7-8b4b-435609fa482c",
         "431db788-41ac-4c21-91cf-392cab835dfb"
-      ],
-      "categories": [
-        "Content Categories/Service Hours",
-        "Content Categories/Services",
-        "Content Categories/Appointments",
-        "Content Categories/Customer Service"
       ],
       "elementType": "category"
     },
@@ -96,50 +58,8 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
-      "renditions": {
-        "tile": {
-          "source": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092?resize=510px:510px&crop=510:192;0,159",
-          "width": 510,
-          "height": 192,
-          "transform": {
-            "scale": 0.25487,
-            "crop": {
-              "x": 0,
-              "y": 159,
-              "width": 510,
-              "height": 192
-            }
-          }
-        },
-        "block": {
-          "source": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092?resize=350px:350px&crop=350:240;0,55",
-          "width": 350,
-          "height": 240,
-          "transform": {
-            "scale": 0.17491,
-            "crop": {
-              "x": 0,
-              "y": 55,
-              "width": 350,
-              "height": 240
-            }
-          }
-        },
-        "default": {
-          "width": 2001,
-          "source": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092",
-          "height": 2001
-        }
-      },
       "asset": {
-        "fileName": "IconsBlueSet_Schedule.png",
-        "altText": "",
-        "fileSize": 27430,
-        "width": 2001,
-        "mediaType": "image/png",
-        "id": "869a1bf1-5488-4302-bd4b-9a6c7114c5d8",
-        "resourceUri": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092",
-        "height": 2001
+        "id": "869a1bf1-5488-4302-bd4b-9a6c7114c5d8"
       },
       "elementType": "image"
     },
@@ -151,30 +71,10 @@
     }
   },
   "name": "Sample: service hour update",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/64b1ab72-1622-46fe-97b5-8ca76079cbc5/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/64b1ab72-1622-46fe-97b5-8ca76079cbc5/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/64b1ab72-1622-46fe-97b5-8ca76079cbc5"
-    },
-    "type": {
-      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
-    }
-  },
   "id": "64b1ab72-1622-46fe-97b5-8ca76079cbc5",
-  "lastModified": "2020-04-17T15:24:28.320Z",
-  "systemModified": "2020-04-17T15:24:28.320Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T12:55:42.177Z",
+  "systemModified": "2020-04-15T12:55:42.177Z",
   "status": "ready"
 }

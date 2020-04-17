@@ -5,62 +5,56 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "50f52910-a190-4b95-b4d0-bcbf2b6d5e10",
+  "mediaId": "48f89955-c7c8-4443-8524-bee6e94c508a",
   "path": "/dxdam/da/da1d50b7-595c-405a-9a10-8d64eca8d875/IconsYellowSet_Research.png",
   "digest": "4LeTG6cQ9oHDtgVtzhU/ng==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=0ad5f537-9fbd-49dc-8851-dd5e78a7056f&a=da1d50b7-595c-405a-9a10-8d64eca8d875",
       "source": "/authoring/v1/resources/0ad5f537-9fbd-49dc-8851-dd5e78a7056f"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/da1d50b7-595c-405a-9a10-8d64eca8d875"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/0ad5f537-9fbd-49dc-8851-dd5e78a7056f.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/0ad5f537-9fbd-49dc-8851-dd5e78a7056f?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/da1d50b7-595c-405a-9a10-8d64eca8d875/status/retire"
-    }
-  },
   "id": "da1d50b7-595c-405a-9a10-8d64eca8d875",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:32.931Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:07:23.503Z",
   "profileRenditions": [],
-  "rev": "1-f8ab684ac226b8a61439773c09457a1d",
-  "creator": "David Klages",
+  "rev": "2-c6ce8ef19e561aa940a8ec8571ebfda2",
   "altText": "",
   "resource": "0ad5f537-9fbd-49dc-8851-dd5e78a7056f",
-  "created": "2020-04-17T15:23:32.925Z",
+  "created": "2020-04-10T17:00:12.703Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:doorbell",
+      "classification:push button",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:light source",
+      "classification:floodlight",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:panic button",
+      "classification:bell push (button)",
+      "classification:source of illumination",
+      "classification:lemon yellow color",
+      "classification:yellow color"
+    ],
     "declined": [
       "classification:doorbell",
       "classification:push button",
@@ -80,16 +74,38 @@
       "user:yellow",
       "user:research"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "doorbell",
+      "push button",
+      "electric switch",
+      "controller",
+      "light source",
+      "floodlight",
+      "fluorescent lamp",
+      "lamp",
+      "panic button",
+      "bell push (button)",
+      "source of illumination",
+      "lemon yellow color",
+      "yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#918407",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f9ee85",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 35540,
   "name": "IconsYellowSet_Research.png",
-  "lastModified": "2020-04-17T15:23:32.931Z",
+  "lastModified": "2020-04-15T18:07:23.503Z",
   "status": "ready"
 }

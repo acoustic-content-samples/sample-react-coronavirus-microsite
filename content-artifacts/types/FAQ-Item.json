@@ -1,15 +1,13 @@
 {
   "id": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
-  "rev": "1-f28871489de34ed586fbf06c6c7c8843",
+  "rev": "26-c0d4f5003c86e0342b4794d7877e84c5",
   "name": "FAQ Item",
   "classification": "content-type",
   "kind": [
     "standalone"
   ],
   "thumbnail": {
-    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc",
-    "path": "/dxdam/ff/ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc/Q&A.png",
-    "url": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
   },
   "contentThumbnail": {
     "imageElement": "",

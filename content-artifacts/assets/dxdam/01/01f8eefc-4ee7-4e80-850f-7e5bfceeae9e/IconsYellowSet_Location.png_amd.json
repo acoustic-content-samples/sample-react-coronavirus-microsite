@@ -5,62 +5,53 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "9baf73df-0f73-4b8c-a32c-aca1e4a5c3a1",
+  "mediaId": "e76ce24c-0c3a-4ac2-a43d-d967ef23ad86",
   "path": "/dxdam/01/01f8eefc-4ee7-4e80-850f-7e5bfceeae9e/IconsYellowSet_Location.png",
   "digest": "DDfORZYWjEo1HJwFSaGDFA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=64a1b984-e86c-4eb3-b06d-5e86bd5731b5&a=01f8eefc-4ee7-4e80-850f-7e5bfceeae9e",
       "source": "/authoring/v1/resources/64a1b984-e86c-4eb3-b06d-5e86bd5731b5"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/01f8eefc-4ee7-4e80-850f-7e5bfceeae9e"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/64a1b984-e86c-4eb3-b06d-5e86bd5731b5.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/64a1b984-e86c-4eb3-b06d-5e86bd5731b5?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/01f8eefc-4ee7-4e80-850f-7e5bfceeae9e/status/retire"
-    }
-  },
   "id": "01f8eefc-4ee7-4e80-850f-7e5bfceeae9e",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:17.819Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:06:53.618Z",
   "profileRenditions": [],
-  "rev": "1-0e4b86a06dad5b95c4f72a051bf7e025",
-  "creator": "David Klages",
+  "rev": "2-2c336e56fb7f856e66f6ae03a230c545",
   "altText": "",
   "resource": "64a1b984-e86c-4eb3-b06d-5e86bd5731b5",
-  "created": "2020-04-17T15:23:17.796Z",
+  "created": "2020-04-10T17:00:12.662Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:sash fastener",
+      "classification:lock",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:key",
+      "classification:adhesive plaster",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:lemon yellow color",
+      "classification:yellow color"
+    ],
     "declined": [
       "classification:sash fastener",
       "classification:lock",
@@ -77,16 +68,35 @@
       "user:yellow",
       "user:location"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "sash fastener",
+      "lock",
+      "fastener",
+      "restraint (chains)",
+      "key",
+      "adhesive plaster",
+      "fluorescent lamp",
+      "lamp",
+      "lemon yellow color",
+      "yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#927d06",
+      "darkMuted": "#967302",
+      "lightVibrant": "#fae988",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 34627,
   "name": "IconsYellowSet_Location.png",
-  "lastModified": "2020-04-17T15:23:17.819Z",
+  "lastModified": "2020-04-15T18:06:53.618Z",
   "status": "ready"
 }

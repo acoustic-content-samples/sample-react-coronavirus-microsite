@@ -1,6 +1,6 @@
 {
   "id": "7aa9d5ec-632a-48d2-9d06-04951cf599e6",
-  "rev": "1-8cb6bc2a1c955f119c0acf2290e223b2",
+  "rev": "4-f6d4182c45126efe5872a15513d17c40",
   "name": "Snapchat",
   "classification": "content-type",
   "kind": [],
@@ -15,9 +15,6 @@
   ],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
-  ],
-  "categories": [
-    "Social Media/Social Media"
   ],
   "elements": [
     {

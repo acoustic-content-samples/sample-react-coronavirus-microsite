@@ -5,62 +5,52 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "9951e0ef-e85b-439c-b305-9aec11394daf",
+  "mediaId": "9299e39f-388e-4ee4-b1d5-e208626f2ff7",
   "path": "/dxdam/b4/b42499a4-21a8-43b3-b8c5-510900417c4d/IconsYellowSet_Give.png",
   "digest": "ovBpMy4zJAPndYv3NY6ZsA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=dadcd448-9ba5-4b6d-93c2-a1a313b8c26a&a=b42499a4-21a8-43b3-b8c5-510900417c4d",
       "source": "/authoring/v1/resources/dadcd448-9ba5-4b6d-93c2-a1a313b8c26a"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/b42499a4-21a8-43b3-b8c5-510900417c4d"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/dadcd448-9ba5-4b6d-93c2-a1a313b8c26a.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/dadcd448-9ba5-4b6d-93c2-a1a313b8c26a?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/b42499a4-21a8-43b3-b8c5-510900417c4d/status/retire"
-    }
-  },
   "id": "b42499a4-21a8-43b3-b8c5-510900417c4d",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:30.732Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:10:03.294Z",
   "profileRenditions": [],
-  "rev": "1-e608fd2592140b5df28572bc5b2799df",
-  "creator": "David Klages",
+  "rev": "2-e307a351289666587eade9a83cf41dc7",
   "altText": "",
   "resource": "dadcd448-9ba5-4b6d-93c2-a1a313b8c26a",
-  "created": "2020-04-17T15:23:30.726Z",
+  "created": "2020-04-10T17:00:09.882Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:key",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:lemon yellow color",
+      "classification:earplug",
+      "classification:plug",
+      "classification:light bulb",
+      "classification:electric lamp",
+      "classification:yellow color"
+    ],
     "declined": [
       "classification:key",
       "classification:fluorescent lamp",
@@ -77,16 +67,34 @@
       "user:give",
       "user:donation"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "key",
+      "fluorescent lamp",
+      "lamp",
+      "lemon yellow color",
+      "earplug",
+      "plug",
+      "light bulb",
+      "electric lamp",
+      "yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#948404",
+      "darkMuted": "#967302",
+      "lightVibrant": "#fbee82",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 28926,
   "name": "IconsYellowSet_Give.png",
-  "lastModified": "2020-04-17T15:23:30.732Z",
+  "lastModified": "2020-04-15T18:10:03.294Z",
   "status": "ready"
 }

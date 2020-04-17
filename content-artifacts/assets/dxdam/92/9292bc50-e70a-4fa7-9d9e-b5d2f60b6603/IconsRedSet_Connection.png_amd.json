@@ -5,62 +5,55 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "6e72d99d-3223-4d7f-84fc-26c53b4808bb",
+  "mediaId": "72012c9b-05cc-4b3e-a594-9286ffa99049",
   "path": "/dxdam/92/9292bc50-e70a-4fa7-9d9e-b5d2f60b6603/IconsRedSet_Connection.png",
   "digest": "m4RyZhw9hmaeB+7CcON7TA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=f6f540cf-97d2-4491-9e75-624e26a8288b&a=9292bc50-e70a-4fa7-9d9e-b5d2f60b6603",
       "source": "/authoring/v1/resources/f6f540cf-97d2-4491-9e75-624e26a8288b"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/9292bc50-e70a-4fa7-9d9e-b5d2f60b6603"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/f6f540cf-97d2-4491-9e75-624e26a8288b.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/f6f540cf-97d2-4491-9e75-624e26a8288b?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/9292bc50-e70a-4fa7-9d9e-b5d2f60b6603/status/retire"
-    }
-  },
   "id": "9292bc50-e70a-4fa7-9d9e-b5d2f60b6603",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:27.631Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:08:47.777Z",
   "profileRenditions": [],
-  "rev": "1-10d7e7a13f2fc1b9a4147518f37b956a",
-  "creator": "David Klages",
+  "rev": "2-5cf9b2a5bd16da277b7a2e542e43b0fe",
   "altText": "",
   "resource": "f6f540cf-97d2-4491-9e75-624e26a8288b",
-  "created": "2020-04-17T15:23:27.625Z",
+  "created": "2020-04-10T17:04:17.307Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:funnel",
+      "classification:triangle",
+      "classification:polygon",
+      "classification:figure",
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:heart",
+      "classification:coffee filter",
+      "classification:filter",
+      "classification:flag",
+      "classification:round shape",
+      "classification:alizarine red color"
+    ],
     "declined": [
       "classification:funnel",
       "classification:triangle",
@@ -80,16 +73,37 @@
       "user:connection",
       "user:red color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "funnel",
+      "triangle",
+      "polygon",
+      "figure",
+      "sconce (lighting)",
+      "light source",
+      "heart",
+      "coffee filter",
+      "filter",
+      "flag",
+      "round shape",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#8e0a16",
+      "darkMuted": "#960214",
+      "lightVibrant": "#f78d97",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#cc041c"
+    },
+    "status": "complete"
   },
   "fileSize": 31285,
   "name": "IconsRedSet_Connection.png",
-  "lastModified": "2020-04-17T15:23:27.631Z",
+  "lastModified": "2020-04-15T18:08:47.777Z",
   "status": "ready"
 }

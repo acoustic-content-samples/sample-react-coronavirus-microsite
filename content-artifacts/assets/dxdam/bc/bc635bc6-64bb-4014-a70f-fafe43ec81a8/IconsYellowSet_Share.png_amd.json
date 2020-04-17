@@ -5,62 +5,51 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "24407ee8-e5b4-427c-8ecc-851d83bd3e93",
+  "mediaId": "27498b4a-7ed3-43bd-8a95-5e6a086dc893",
   "path": "/dxdam/bc/bc635bc6-64bb-4014-a70f-fafe43ec81a8/IconsYellowSet_Share.png",
   "digest": "3yz3XVsm7n5eHQTpeGRASQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=fd12fbea-bf2e-45f2-b847-b9baee75c84e&a=bc635bc6-64bb-4014-a70f-fafe43ec81a8",
       "source": "/authoring/v1/resources/fd12fbea-bf2e-45f2-b847-b9baee75c84e"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/bc635bc6-64bb-4014-a70f-fafe43ec81a8"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/fd12fbea-bf2e-45f2-b847-b9baee75c84e.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/fd12fbea-bf2e-45f2-b847-b9baee75c84e?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/bc635bc6-64bb-4014-a70f-fafe43ec81a8/status/retire"
-    }
-  },
   "id": "bc635bc6-64bb-4014-a70f-fafe43ec81a8",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:31.449Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:06:27.728Z",
   "profileRenditions": [],
-  "rev": "1-fc89d4def3dff01748de7fd4f9169323",
-  "creator": "David Klages",
+  "rev": "2-22b657134a5886619813de10e8a36510",
   "altText": "",
   "resource": "fd12fbea-bf2e-45f2-b847-b9baee75c84e",
-  "created": "2020-04-17T15:23:31.429Z",
+  "created": "2020-04-10T17:00:14.724Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:electric switch",
+      "classification:controller",
+      "classification:L-plate (learners plate for car)",
+      "classification:panic button",
+      "classification:push button",
+      "classification:electrical device",
+      "classification:yellow color",
+      "classification:lemon yellow color"
+    ],
     "declined": [
       "classification:electric switch",
       "classification:controller",
@@ -75,16 +64,33 @@
       "user:yellow",
       "user:share"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "electric switch",
+      "controller",
+      "L-plate (learners plate for car)",
+      "panic button",
+      "push button",
+      "electrical device",
+      "yellow color",
+      "lemon yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#938705",
+      "darkMuted": "#967302",
+      "lightVibrant": "#fbf18c",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
   },
   "fileSize": 32529,
   "name": "IconsYellowSet_Share.png",
-  "lastModified": "2020-04-17T15:23:31.449Z",
+  "lastModified": "2020-04-15T18:06:27.728Z",
   "status": "ready"
 }

@@ -5,62 +5,51 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "d39203bc-6355-4188-8e53-e52dbf8a7322",
+  "mediaId": "545f6896-98d5-4785-89d1-6ad481ddecd4",
   "path": "/dxdam/73/7347cd6e-d175-46f3-8eb5-f114487515e4/IconsPurpleSet_Research.png",
   "digest": "vEdXU4pRNEcAoB1M1o/ZFw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=6ec41db7-740a-44c5-b988-466526988e9a&a=7347cd6e-d175-46f3-8eb5-f114487515e4",
       "source": "/authoring/v1/resources/6ec41db7-740a-44c5-b988-466526988e9a"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/7347cd6e-d175-46f3-8eb5-f114487515e4"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/6ec41db7-740a-44c5-b988-466526988e9a.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/6ec41db7-740a-44c5-b988-466526988e9a?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/7347cd6e-d175-46f3-8eb5-f114487515e4/status/retire"
-    }
-  },
   "id": "7347cd6e-d175-46f3-8eb5-f114487515e4",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:26.226Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:13:00.352Z",
   "profileRenditions": [],
-  "rev": "1-4cd883b97a21b8c76617a4386fa45afd",
-  "creator": "David Klages",
+  "rev": "2-435da1606f0dec23a83165ec88787b9c",
   "altText": "",
   "resource": "6ec41db7-740a-44c5-b988-466526988e9a",
-  "created": "2020-04-17T15:23:26.218Z",
+  "created": "2020-04-10T17:07:18.241Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:magnetic disk",
+      "classification:light source",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:source of illumination",
+      "classification:purple color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -75,16 +64,33 @@
       "user:research",
       "user:purple"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "magnetic disk",
+      "light source",
+      "fluorescent lamp",
+      "lamp",
+      "source of illumination",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#8c0c86",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f373ed",
+      "vibrant": "#c43cb0",
+      "muted": "#c484c4",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
   },
   "fileSize": 37617,
   "name": "IconsPurpleSet_Research.png",
-  "lastModified": "2020-04-17T15:23:26.226Z",
+  "lastModified": "2020-04-15T18:13:00.352Z",
   "status": "ready"
 }

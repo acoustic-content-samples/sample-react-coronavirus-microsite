@@ -4,49 +4,28 @@
     "width": 4000,
     "height": 6000
   },
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "844fab7a-2c60-4d28-bb25-97cc7df1a59e",
+  "mediaId": "7b6c5e10-0e38-4e90-8151-d7a136b1c2cf",
   "path": "/dxdam/7a/7ac7727b-5d53-44ff-9cc0-2438a2e798ae/open_sample.jpg",
   "digest": "Tw8Df3INg4p/WZdUGndjRQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "renditions": {
     "default": {
       "id": "r=8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24&a=7ac7727b-5d53-44ff-9cc0-2438a2e798ae",
       "source": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/7ac7727b-5d53-44ff-9cc0-2438a2e798ae"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24.jpg"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/7ac7727b-5d53-44ff-9cc0-2438a2e798ae/status/retire"
-    }
-  },
   "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae",
-  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-17T15:23:26.543Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T03:08:31.325Z",
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-      "profileName": "Update Article Profile",
       "key": "article",
-      "label": "Article",
       "transform": {
         "scale": 0.20625,
         "crop": {
@@ -61,17 +40,32 @@
       "height": 320
     }
   ],
-  "rev": "1-777de0049715ddb981a3259f232598fe",
-  "creator": "David Klages",
+  "rev": "1-0390fe269d9c530bfc382fe3353507a6",
   "altText": "",
   "resource": "8ab03c02-4eb3-4f59-bbbf-6cbefc03ce24",
-  "created": "2020-04-17T15:23:26.537Z",
+  "created": "2020-04-15T03:04:53.532Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:display window",
+      "classification:window",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:cafe",
+      "classification:restaurant",
+      "classification:building",
+      "classification:Hotel Building",
+      "classification:steakhouse",
+      "classification:shop",
+      "classification:retail store",
+      "classification:reddish brown color",
+      "classification:light brown color"
+    ],
     "declined": [],
     "values": [
       "classification:display window",
@@ -88,16 +82,38 @@
       "classification:reddish brown color",
       "classification:light brown color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "display window",
+      "window",
+      "framework",
+      "supporting structure",
+      "cafe",
+      "restaurant",
+      "building",
+      "Hotel Building",
+      "steakhouse",
+      "shop",
+      "retail store",
+      "reddish brown color",
+      "light brown color"
+    ],
+    "colors": {
+      "lightMuted": "#b3b5bc",
+      "darkMuted": "#4e3b2d",
+      "lightVibrant": "#d9b99f",
+      "vibrant": "#845834",
+      "muted": "#ab8f7b",
+      "darkVibrant": "#40301c"
+    },
+    "status": "complete"
   },
   "fileSize": 1205545,
   "name": "open_sample.jpg",
-  "lastModified": "2020-04-17T15:23:26.543Z",
+  "lastModified": "2020-04-15T03:08:31.325Z",
   "status": "ready"
 }

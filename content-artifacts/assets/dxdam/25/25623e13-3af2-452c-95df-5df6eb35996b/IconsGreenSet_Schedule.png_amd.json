@@ -5,62 +5,49 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "ee0ed19a-461f-430a-8b7f-ae9913ff1b58",
+  "mediaId": "79e18ab8-eb58-4f67-8f2d-1d4cc7e2f2df",
   "path": "/dxdam/25/25623e13-3af2-452c-95df-5df6eb35996b/IconsGreenSet_Schedule.png",
   "digest": "wExDJz5rQ7sCtYe6UwoJrQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=c61b3ff7-e7a2-4586-9d6a-50beef5c117b&a=25623e13-3af2-452c-95df-5df6eb35996b",
       "source": "/authoring/v1/resources/c61b3ff7-e7a2-4586-9d6a-50beef5c117b"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/25623e13-3af2-452c-95df-5df6eb35996b"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/c61b3ff7-e7a2-4586-9d6a-50beef5c117b.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/c61b3ff7-e7a2-4586-9d6a-50beef5c117b?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/25623e13-3af2-452c-95df-5df6eb35996b/status/retire"
-    }
-  },
   "id": "25623e13-3af2-452c-95df-5df6eb35996b",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:19.548Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:13:26.012Z",
   "profileRenditions": [],
-  "rev": "1-93d4976e758eac13e6b54d305825bbc2",
-  "creator": "David Klages",
+  "rev": "2-a259ccf7c76e8bb8b77075e8f2a4e0c8",
   "altText": "",
   "resource": "c61b3ff7-e7a2-4586-9d6a-50beef5c117b",
-  "created": "2020-04-17T15:23:19.544Z",
+  "created": "2020-04-10T17:18:36.982Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:spectrum of colors",
+      "classification:magnetic disk",
+      "classification:figure",
+      "classification:emerald color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -74,16 +61,31 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "spectrum of colors",
+      "magnetic disk",
+      "figure",
+      "emerald color"
+    ],
+    "colors": {
+      "lightMuted": "#069263",
+      "darkMuted": "#049481",
+      "lightVibrant": "#79f9ce",
+      "vibrant": "#16fca4",
+      "muted": "#01975e",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
   },
   "fileSize": 27405,
   "name": "IconsGreenSet_Schedule.png",
-  "lastModified": "2020-04-17T15:23:19.548Z",
+  "lastModified": "2020-04-15T18:13:26.012Z",
   "status": "ready"
 }

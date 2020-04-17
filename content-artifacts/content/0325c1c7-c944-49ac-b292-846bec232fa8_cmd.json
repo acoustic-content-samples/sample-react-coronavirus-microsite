@@ -1,19 +1,15 @@
 {
-  "rev": "1-428f059057820e555f1b444b421cb346",
-  "creator": "David Klages",
+  "rev": "4-2812983364d63f3c96ad851c60f8dd8b",
   "thumbnail": {
-    "id": "0625bde9-8974-48e7-a675-38074936a966",
-    "url": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
+    "id": "0625bde9-8974-48e7-a675-38074936a966"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:27.880Z",
+  "created": "2020-04-10T07:33:34.600Z",
   "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "Instagram",
   "locale": "en",
   "tags": [
     "user:Instagram"
@@ -21,18 +17,8 @@
   "elements": {
     "socialIcon": {
       "mode": "shared",
-      "renditions": {
-        "default": {
-          "source": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
-        }
-      },
       "asset": {
-        "fileName": "IG_Color.svg",
-        "altText": "",
-        "fileSize": 279775,
-        "mediaType": "image/svg+xml",
-        "id": "0625bde9-8974-48e7-a675-38074936a966",
-        "resourceUri": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
+        "id": "0625bde9-8974-48e7-a675-38074936a966"
       },
       "elementType": "image"
     },
@@ -43,30 +29,10 @@
     }
   },
   "name": "Instagram",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "170596b8-828d-4321-93a8-bf606b9f9456",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/0325c1c7-c944-49ac-b292-846bec232fa8/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/0325c1c7-c944-49ac-b292-846bec232fa8/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/0325c1c7-c944-49ac-b292-846bec232fa8"
-    },
-    "type": {
-      "href": "/authoring/v1/types/170596b8-828d-4321-93a8-bf606b9f9456"
-    }
-  },
   "id": "0325c1c7-c944-49ac-b292-846bec232fa8",
-  "lastModified": "2020-04-17T15:24:27.880Z",
-  "systemModified": "2020-04-17T15:24:27.880Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T00:24:16.441Z",
+  "systemModified": "2020-04-15T00:24:16.441Z",
   "status": "ready"
 }

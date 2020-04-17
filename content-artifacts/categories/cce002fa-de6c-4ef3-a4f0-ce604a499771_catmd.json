@@ -1,9 +1,9 @@
 {
   "id": "cce002fa-de6c-4ef3-a4f0-ce604a499771",
-  "rev": "1-718f45d18e94f573306a3f5bfdb6151d",
+  "rev": "1-a53c42e04397afa0a83f92c4dfffda88",
   "name": "Events",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
-  "creator": "David Klages",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,7 +25,6 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-17T15:22:52.594Z",
-  "lastModified": "2020-04-17T15:22:52.594Z",
-  "code": 201
+  "created": "2020-04-09T14:27:14.446Z",
+  "lastModified": "2020-04-09T14:27:14.446Z"
 }

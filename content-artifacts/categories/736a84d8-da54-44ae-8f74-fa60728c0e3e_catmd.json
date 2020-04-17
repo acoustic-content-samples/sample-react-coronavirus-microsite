@@ -1,9 +1,9 @@
 {
   "id": "736a84d8-da54-44ae-8f74-fa60728c0e3e",
-  "rev": "1-3dccf9146c729f2576feb5be42b63b5b",
+  "rev": "2-29609d6e47734782c522a56f94cef54c",
   "name": "Social Media",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
-  "creator": "David Klages",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creator": "Ryan Franciscus",
   "classification": "taxonomy",
   "firstClassFor": [
     ""
@@ -16,7 +16,6 @@
       "href": "/authoring/v1/categories/736a84d8-da54-44ae-8f74-fa60728c0e3e"
     }
   },
-  "created": "2020-04-17T15:22:52.282Z",
-  "lastModified": "2020-04-17T15:22:52.282Z",
-  "code": 201
+  "created": "2020-04-10T04:14:48.794Z",
+  "lastModified": "2020-04-10T04:14:59.784Z"
 }

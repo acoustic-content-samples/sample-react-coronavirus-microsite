@@ -5,62 +5,52 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "600b83b1-9a9a-4263-b882-5d6d9eaeb5bf",
+  "mediaId": "9a10eb8a-a7ca-4119-b815-9f224291ba3d",
   "path": "/dxdam/32/32fc6214-8b27-454d-aa6c-0c9ec86021b0/IconsRedSet_Give.png",
   "digest": "GBTbwsmHgPEieHKjTiQ5gg==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=9e7f833c-7b9d-480a-a80d-2ba3c20da71a&a=32fc6214-8b27-454d-aa6c-0c9ec86021b0",
       "source": "/authoring/v1/resources/9e7f833c-7b9d-480a-a80d-2ba3c20da71a"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/32fc6214-8b27-454d-aa6c-0c9ec86021b0"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/9e7f833c-7b9d-480a-a80d-2ba3c20da71a.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/9e7f833c-7b9d-480a-a80d-2ba3c20da71a?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/32fc6214-8b27-454d-aa6c-0c9ec86021b0/status/retire"
-    }
-  },
   "id": "32fc6214-8b27-454d-aa6c-0c9ec86021b0",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:20.336Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:07:36.181Z",
   "profileRenditions": [],
-  "rev": "1-078a022f3546ac16ee3c9c83170136cb",
-  "creator": "David Klages",
+  "rev": "2-b60d8d8842d3d63fa1d1a46f5a07b6e2",
   "altText": "",
   "resource": "9e7f833c-7b9d-480a-a80d-2ba3c20da71a",
-  "created": "2020-04-17T15:23:20.327Z",
+  "created": "2020-04-10T17:04:17.328Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:L-plate (learners plate for car)",
+      "classification:heart",
+      "classification:figure",
+      "classification:magnetic stripe",
+      "classification:memory device",
+      "classification:mouthpiece",
+      "classification:key",
+      "classification:tool",
+      "classification:alizarine red color"
+    ],
     "declined": [
       "classification:L-plate (learners plate for car)",
       "classification:heart",
@@ -78,16 +68,34 @@
       "user:donation",
       "user:red color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "L-plate (learners plate for car)",
+      "heart",
+      "figure",
+      "magnetic stripe",
+      "memory device",
+      "mouthpiece",
+      "key",
+      "tool",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#951503",
+      "darkMuted": "#90080e",
+      "lightVibrant": "#fc8c7c",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#c40c14"
+    },
+    "status": "complete"
   },
   "fileSize": 29896,
   "name": "IconsRedSet_Give.png",
-  "lastModified": "2020-04-17T15:23:20.336Z",
+  "lastModified": "2020-04-15T18:07:36.181Z",
   "status": "ready"
 }

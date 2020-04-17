@@ -5,62 +5,53 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "7a12dc8f-16f2-4d31-b0eb-2e901777590d",
+  "mediaId": "4a9ab49a-4fca-4642-a25d-f028396aa576",
   "path": "/dxdam/81/8127f7cd-a367-4aae-81d0-c58528181ddb/IconsRedSet_Shelter.png",
   "digest": "/hvxxVffqHXSJhWhuMsaag==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=d96f1fc9-427f-494d-8c1f-182f7e648cf6&a=8127f7cd-a367-4aae-81d0-c58528181ddb",
       "source": "/authoring/v1/resources/d96f1fc9-427f-494d-8c1f-182f7e648cf6"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/8127f7cd-a367-4aae-81d0-c58528181ddb"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/d96f1fc9-427f-494d-8c1f-182f7e648cf6.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/d96f1fc9-427f-494d-8c1f-182f7e648cf6?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/8127f7cd-a367-4aae-81d0-c58528181ddb/status/retire"
-    }
-  },
   "id": "8127f7cd-a367-4aae-81d0-c58528181ddb",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:27.256Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:14:18.193Z",
   "profileRenditions": [],
-  "rev": "1-70fc3748ade9956c0e2c8aacb155d131",
-  "creator": "David Klages",
+  "rev": "2-cff720d1a8589e481e6e10d9e5e90f4f",
   "altText": "",
   "resource": "d96f1fc9-427f-494d-8c1f-182f7e648cf6",
-  "created": "2020-04-17T15:23:27.189Z",
+  "created": "2020-04-10T17:04:23.758Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:octagon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:concave polygon",
+      "classification:tetraskelion",
+      "classification:hypotenuse",
+      "classification:L-plate (learners plate for car)",
+      "classification:fire alarm",
+      "classification:alizarine red color",
+      "classification:dark red color"
+    ],
     "declined": [
       "classification:octagon",
       "classification:polygon",
@@ -78,16 +69,35 @@
       "user:red color",
       "user:shelter"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "octagon",
+      "polygon",
+      "figure",
+      "concave polygon",
+      "tetraskelion",
+      "hypotenuse",
+      "L-plate (learners plate for car)",
+      "fire alarm",
+      "alizarine red color",
+      "dark red color"
+    ],
+    "colors": {
+      "lightMuted": "#941804",
+      "darkMuted": "#90080f",
+      "lightVibrant": "#fb8c7a",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#c40c15"
+    },
+    "status": "complete"
   },
   "fileSize": 29370,
   "name": "IconsRedSet_Shelter.png",
-  "lastModified": "2020-04-17T15:23:27.256Z",
+  "lastModified": "2020-04-15T18:14:18.193Z",
   "status": "ready"
 }

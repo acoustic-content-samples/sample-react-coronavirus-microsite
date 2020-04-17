@@ -5,62 +5,55 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "b90422f0-ba36-4d60-a196-511a1e28185b",
+  "mediaId": "63086dea-76a2-41aa-9bdb-bc5c8b12ab0c",
   "path": "/dxdam/ce/ce77f2af-f264-47c8-b684-4dc545338beb/IconsPurpleSet_Give.png",
   "digest": "x7jnLNq6o+pUDDtPbJ2xwA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=2b898017-8504-4406-8997-cc5f0fc2829b&a=ce77f2af-f264-47c8-b684-4dc545338beb",
       "source": "/authoring/v1/resources/2b898017-8504-4406-8997-cc5f0fc2829b"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/ce77f2af-f264-47c8-b684-4dc545338beb"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/2b898017-8504-4406-8997-cc5f0fc2829b.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/2b898017-8504-4406-8997-cc5f0fc2829b?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/ce77f2af-f264-47c8-b684-4dc545338beb/status/retire"
-    }
-  },
   "id": "ce77f2af-f264-47c8-b684-4dc545338beb",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:31.875Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:13:51.194Z",
   "profileRenditions": [],
-  "rev": "1-d1e8123ead92e64d425de6db526ee031",
-  "creator": "David Klages",
+  "rev": "2-43ce31ebdf2a3a428e633af461fa7cdc",
   "altText": "",
   "resource": "2b898017-8504-4406-8997-cc5f0fc2829b",
-  "created": "2020-04-17T15:23:31.870Z",
+  "created": "2020-04-10T17:07:15.458Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:light bulb",
+      "classification:electric lamp",
+      "classification:lamp",
+      "classification:Japanese morning glory",
+      "classification:vine",
+      "classification:plant",
+      "classification:sanitary napkin",
+      "classification:heart",
+      "classification:figure",
+      "classification:light source",
+      "classification:pink color",
+      "classification:rose color"
+    ],
     "declined": [
       "classification:light bulb",
       "classification:electric lamp",
@@ -81,16 +74,37 @@
       "user:purple",
       "user:purple color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "light bulb",
+      "electric lamp",
+      "lamp",
+      "Japanese morning glory",
+      "vine",
+      "plant",
+      "sanitary napkin",
+      "heart",
+      "figure",
+      "light source",
+      "pink color",
+      "rose color"
+    ],
+    "colors": {
+      "lightMuted": "#d8b0d4",
+      "darkMuted": "#9c449c",
+      "lightVibrant": "#f9adf4",
+      "vibrant": "#b44cac",
+      "muted": "#a556a4",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
   },
   "fileSize": 30104,
   "name": "IconsPurpleSet_Give.png",
-  "lastModified": "2020-04-17T15:23:31.875Z",
+  "lastModified": "2020-04-15T18:13:51.194Z",
   "status": "ready"
 }

@@ -5,58 +5,35 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "fa0e06ed-4586-4990-907e-7ec6fe11cc6a",
+  "mediaId": "35b6f166-d94b-4626-ad59-4e310c1a0151",
   "path": "/dxdam/dc/dc0a0720-072f-418f-af71-0598f39a8e8e/IconsBlueSet_Location.png",
   "digest": "bjDmMwFflJVi1S647s5LzQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=cd8941a1-5f1f-498f-a3c1-06299f911951&a=dc0a0720-072f-418f-af71-0598f39a8e8e",
       "source": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/dc0a0720-072f-418f-af71-0598f39a8e8e"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/dc0a0720-072f-418f-af71-0598f39a8e8e/status/retire"
-    }
-  },
   "id": "dc0a0720-072f-418f-af71-0598f39a8e8e",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:33.792Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:01:30.986Z",
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "tile",
-      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -72,9 +49,7 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "block",
-      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -89,17 +64,27 @@
       "height": 240
     }
   ],
-  "rev": "1-13cb88991f5768be5d2c398495a038c4",
-  "creator": "David Klages",
+  "rev": "3-c299a5b682c19eca8b28746d83d8adb4",
   "altText": "",
   "resource": "cd8941a1-5f1f-498f-a3c1-06299f911951",
-  "created": "2020-04-17T15:23:33.675Z",
+  "created": "2020-04-10T17:21:06.141Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:adhesive plaster",
+      "classification:motel",
+      "classification:hotel",
+      "classification:building",
+      "classification:medical dressing",
+      "classification:blue color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -115,16 +100,33 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "adhesive plaster",
+      "motel",
+      "hotel",
+      "building",
+      "medical dressing",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#067592",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#80e0f9",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
   },
   "fileSize": 35350,
   "name": "IconsBlueSet_Location.png",
-  "lastModified": "2020-04-17T15:23:33.792Z",
+  "lastModified": "2020-04-15T18:01:30.986Z",
   "status": "ready"
 }

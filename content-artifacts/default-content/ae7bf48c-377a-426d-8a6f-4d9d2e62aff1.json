@@ -1,34 +1,20 @@
 {
-  "rev": "1-cc2619e3735d672f99a23243417452ae",
-  "creator": "David Klages",
+  "rev": "3-a092b48956bc4d26f2bff16364b13146",
   "thumbnail": {
-    "id": "3d82f6d9-2055-471f-b9c7-baa946109549",
-    "url": "/authoring/v1/resources/c020a7d5-10ce-4f8b-a606-8a837883b96b"
+    "id": "3d82f6d9-2055-471f-b9c7-baa946109549"
   },
   "keywords": [],
-  "created": "2020-04-17T15:24:27.217Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-10T07:25:17.541Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "default-content",
-  "type": "Snapchat",
   "locale": "en",
   "tags": [],
   "elements": {
     "socialIcon": {
       "mode": "shared",
-      "renditions": {
-        "default": {
-          "source": "/authoring/v1/resources/c020a7d5-10ce-4f8b-a606-8a837883b96b"
-        }
-      },
       "asset": {
-        "fileName": "SC_Color.svg",
-        "altText": "",
-        "fileSize": 1475,
-        "mediaType": "image/svg+xml",
-        "id": "3d82f6d9-2055-471f-b9c7-baa946109549",
-        "resourceUri": "/authoring/v1/resources/c020a7d5-10ce-4f8b-a606-8a837883b96b"
+        "id": "3d82f6d9-2055-471f-b9c7-baa946109549"
       },
       "elementType": "image"
     },
@@ -38,20 +24,10 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "typeId": "7aa9d5ec-632a-48d2-9d06-04951cf599e6",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/c020a7d5-10ce-4f8b-a606-8a837883b96b"
-    },
-    "self": {
-      "href": "/authoring/v1/default-content/ae7bf48c-377a-426d-8a6f-4d9d2e62aff1"
-    },
-    "type": {
-      "href": "/authoring/v1/types/7aa9d5ec-632a-48d2-9d06-04951cf599e6"
-    }
-  },
   "id": "ae7bf48c-377a-426d-8a6f-4d9d2e62aff1",
-  "lastModified": "2020-04-17T15:24:27.217Z",
-  "systemModified": "2020-04-17T15:24:27.217Z"
+  "lastModified": "2020-04-10T07:25:32.665Z",
+  "systemModified": "2020-04-10T07:25:32.665Z",
+  "status": "ready"
 }

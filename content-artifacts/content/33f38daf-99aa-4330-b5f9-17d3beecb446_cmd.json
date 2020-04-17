@@ -1,18 +1,14 @@
 {
-  "rev": "1-736ab87c5da9ae53e658a6bf25aec1aa",
-  "creator": "David Klages",
+  "rev": "4-f1eadbd49a886041bd454f6099f3d871",
   "thumbnail": {
-    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc",
-    "url": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:27.883Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-15T01:45:59.036Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "FAQ Item",
   "locale": "en",
   "tags": [
     "user:Loan",
@@ -36,11 +32,6 @@
         "d986c2f3-20dc-4687-bc32-be246bbea885",
         "19f57336-3e2d-4948-9200-5d91aed618f0"
       ],
-      "categories": [
-        "Content Categories/Customer Service",
-        "Content Categories/Products",
-        "Content Categories/Services"
-      ],
       "elementType": "category"
     },
     "topItem": {
@@ -49,30 +40,10 @@
     }
   },
   "name": "Sample: Loan relief",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/33f38daf-99aa-4330-b5f9-17d3beecb446/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/33f38daf-99aa-4330-b5f9-17d3beecb446/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/33f38daf-99aa-4330-b5f9-17d3beecb446"
-    },
-    "type": {
-      "href": "/authoring/v1/types/d8dae096-118a-49e3-8321-cbbb7482f8f7"
-    }
-  },
   "id": "33f38daf-99aa-4330-b5f9-17d3beecb446",
-  "lastModified": "2020-04-17T15:24:27.883Z",
-  "systemModified": "2020-04-17T15:24:27.883Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T13:50:15.591Z",
+  "systemModified": "2020-04-15T13:50:15.591Z",
   "status": "ready"
 }

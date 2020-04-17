@@ -5,58 +5,35 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "2b8002ea-baaf-4bc8-89b8-ea359bdf7a1c",
+  "mediaId": "37e442b3-7e2d-48d0-be7a-2f7ffe51b8b0",
   "path": "/dxdam/5c/5c1b6188-d612-4401-ac45-0a5a0c342bf6/IconsPurpleSet_Share.png",
   "digest": "AZEDoPCqPOeexn1lqVap8Q==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=9d0255f2-e636-4226-be53-44b3d30822bf&a=5c1b6188-d612-4401-ac45-0a5a0c342bf6",
       "source": "/authoring/v1/resources/9d0255f2-e636-4226-be53-44b3d30822bf"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/5c1b6188-d612-4401-ac45-0a5a0c342bf6"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/9d0255f2-e636-4226-be53-44b3d30822bf.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/9d0255f2-e636-4226-be53-44b3d30822bf?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/5c1b6188-d612-4401-ac45-0a5a0c342bf6/status/retire"
-    }
-  },
   "id": "5c1b6188-d612-4401-ac45-0a5a0c342bf6",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:24.190Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:05:35.887Z",
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "tile",
-      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -72,9 +49,7 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "block",
-      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -89,17 +64,29 @@
       "height": 240
     }
   ],
-  "rev": "1-071b04cb08209b72fcc1d713e5b102ff",
-  "creator": "David Klages",
+  "rev": "3-46a26c3830f076447dc60e6d5bfdefc6",
   "altText": "",
   "resource": "9d0255f2-e636-4226-be53-44b3d30822bf",
-  "created": "2020-04-17T15:23:24.185Z",
+  "created": "2020-04-10T17:07:20.609Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:faceplate",
+      "classification:protective covering",
+      "classification:audio system",
+      "classification:electrical device",
+      "classification:pink color",
+      "classification:purple color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -116,16 +103,35 @@
       "user:purple",
       "user:share"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "electric switch",
+      "controller",
+      "faceplate",
+      "protective covering",
+      "audio system",
+      "electrical device",
+      "pink color",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#d49cd4",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f47ce4",
+      "vibrant": "#c43cbc",
+      "muted": "#a44c9c",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
   },
   "fileSize": 34131,
   "name": "IconsPurpleSet_Share.png",
-  "lastModified": "2020-04-17T15:23:24.190Z",
+  "lastModified": "2020-04-15T18:05:35.887Z",
   "status": "ready"
 }

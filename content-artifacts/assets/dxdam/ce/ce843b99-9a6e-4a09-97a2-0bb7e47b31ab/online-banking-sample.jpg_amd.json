@@ -4,49 +4,28 @@
     "width": 4076,
     "height": 2712
   },
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "42da2ff8-4ec2-4cc1-9a0a-5c19df662608",
+  "mediaId": "c816ad60-0ec5-4a58-8951-d6d9de99c6ff",
   "path": "/dxdam/ce/ce843b99-9a6e-4a09-97a2-0bb7e47b31ab/online-banking-sample.jpg",
   "digest": "f8lWlmSRM5ximHik5gkwVA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "renditions": {
     "default": {
       "id": "r=e80249ee-14cb-4714-a347-d8431237199e&a=ce843b99-9a6e-4a09-97a2-0bb7e47b31ab",
       "source": "/authoring/v1/resources/e80249ee-14cb-4714-a347-d8431237199e"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/ce843b99-9a6e-4a09-97a2-0bb7e47b31ab"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/e80249ee-14cb-4714-a347-d8431237199e.jpg"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/e80249ee-14cb-4714-a347-d8431237199e?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/ce843b99-9a6e-4a09-97a2-0bb7e47b31ab/status/retire"
-    }
-  },
   "id": "ce843b99-9a6e-4a09-97a2-0bb7e47b31ab",
-  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-17T15:23:32.543Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T03:19:32.525Z",
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-      "profileName": "Update Article Profile",
       "key": "article",
-      "label": "Article",
       "transform": {
         "scale": 0.2024,
         "crop": {
@@ -61,17 +40,32 @@
       "height": 320
     }
   ],
-  "rev": "1-f617c222d226dbbcc6099ec190e0c574",
-  "creator": "David Klages",
+  "rev": "1-ba2b90325b3ee3aaee01d7bafa933c71",
   "altText": "",
   "resource": "e80249ee-14cb-4714-a347-d8431237199e",
-  "created": "2020-04-17T15:23:32.534Z",
+  "created": "2020-04-15T03:13:55.617Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:computer user",
+      "classification:person",
+      "classification:computer keyboard",
+      "classification:keyboard",
+      "classification:portable computer",
+      "classification:personal computer",
+      "classification:digital computer",
+      "classification:computer",
+      "classification:machine",
+      "classification:laptop computer",
+      "classification:system",
+      "classification:telecommunication",
+      "classification:gray color"
+    ],
     "declined": [],
     "values": [
       "classification:computer user",
@@ -88,16 +82,38 @@
       "classification:telecommunication",
       "classification:gray color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "computer user",
+      "person",
+      "computer keyboard",
+      "keyboard",
+      "portable computer",
+      "personal computer",
+      "digital computer",
+      "computer",
+      "machine",
+      "laptop computer",
+      "system",
+      "telecommunication",
+      "gray color"
+    ],
+    "colors": {
+      "lightMuted": "#acb5c4",
+      "darkMuted": "#274854",
+      "lightVibrant": "#cc947c",
+      "vibrant": "#c49474",
+      "muted": "#9a786c",
+      "darkVibrant": "#04262e"
+    },
+    "status": "complete"
   },
   "fileSize": 620556,
   "name": "online-banking-sample.jpg",
-  "lastModified": "2020-04-17T15:23:32.543Z",
+  "lastModified": "2020-04-15T03:19:32.525Z",
   "status": "ready"
 }

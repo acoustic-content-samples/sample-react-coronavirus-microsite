@@ -1,19 +1,15 @@
 {
-  "rev": "1-46bfa142913996bb7f3bc2359b5e883a",
-  "creator": "David Klages",
+  "rev": "2-2a5ca6b6daf0a89f6c6db2e73ff674fc",
   "thumbnail": {
-    "id": "d54b9636-e7dc-495e-a7e8-edce40836d01",
-    "url": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494?fit=inside%7C220:145"
+    "id": "d54b9636-e7dc-495e-a7e8-edce40836d01"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:29.293Z",
+  "created": "2020-04-15T12:41:04.665Z",
   "libraryId": "default",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Account"
@@ -24,36 +20,8 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
-      "renditions": {
-        "article": {
-          "source": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494?resize=825px:597px&crop=825:320;0,176",
-          "width": 825,
-          "height": 320,
-          "transform": {
-            "scale": 0.2742686170212766,
-            "crop": {
-              "x": 0,
-              "y": 176,
-              "width": 825,
-              "height": 320
-            }
-          }
-        },
-        "default": {
-          "width": 3008,
-          "source": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494",
-          "height": 2177
-        }
-      },
       "asset": {
-        "fileName": "paperless-statements-sample.jpg",
-        "altText": "",
-        "fileSize": 523915,
-        "width": 3008,
-        "mediaType": "image/jpeg",
-        "id": "d54b9636-e7dc-495e-a7e8-edce40836d01",
-        "resourceUri": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494",
-        "height": 2177
+        "id": "d54b9636-e7dc-495e-a7e8-edce40836d01"
       },
       "elementType": "image"
     },
@@ -65,10 +33,6 @@
       "categoryIds": [
         "19f57336-3e2d-4948-9200-5d91aed618f0",
         "7153acc7-d5d5-4c36-8e93-1a5d704b170e"
-      ],
-      "categories": [
-        "Content Categories/Services",
-        "Content Categories/Technology"
       ],
       "elementType": "category"
     },
@@ -92,50 +56,8 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
-      "renditions": {
-        "tile": {
-          "source": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879?resize=510px:510px&crop=510:192;0,159",
-          "width": 510,
-          "height": 192,
-          "transform": {
-            "scale": 0.25487,
-            "crop": {
-              "x": 0,
-              "y": 159,
-              "width": 510,
-              "height": 192
-            }
-          }
-        },
-        "block": {
-          "source": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879?resize=350px:350px&crop=350:240;0,55",
-          "width": 350,
-          "height": 240,
-          "transform": {
-            "scale": 0.17491,
-            "crop": {
-              "x": 0,
-              "y": 55,
-              "width": 350,
-              "height": 240
-            }
-          }
-        },
-        "default": {
-          "width": 2001,
-          "source": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879",
-          "height": 2001
-        }
-      },
       "asset": {
-        "fileName": "IconsBlueSet_News.png",
-        "altText": "",
-        "fileSize": 21902,
-        "width": 2001,
-        "mediaType": "image/png",
-        "id": "88274454-816d-44fc-ac50-81e641f6b442",
-        "resourceUri": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879",
-        "height": 2001
+        "id": "88274454-816d-44fc-ac50-81e641f6b442"
       },
       "elementType": "image"
     },
@@ -147,30 +69,10 @@
     }
   },
   "name": "Sample: paperless statements",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/b03ad018-0684-49d3-b44f-d01e26c7b6ff/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/b03ad018-0684-49d3-b44f-d01e26c7b6ff/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/b03ad018-0684-49d3-b44f-d01e26c7b6ff"
-    },
-    "type": {
-      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
-    }
-  },
   "id": "b03ad018-0684-49d3-b44f-d01e26c7b6ff",
-  "lastModified": "2020-04-17T15:24:29.293Z",
-  "systemModified": "2020-04-17T15:24:29.293Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T12:53:15.687Z",
+  "systemModified": "2020-04-15T12:53:15.687Z",
   "status": "ready"
 }

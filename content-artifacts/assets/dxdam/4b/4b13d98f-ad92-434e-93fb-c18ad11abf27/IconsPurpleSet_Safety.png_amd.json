@@ -5,62 +5,57 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "eed234e3-9808-4c44-9fb4-c8d64c392003",
+  "mediaId": "012b7d16-18b4-49b1-9488-a04da7c20a67",
   "path": "/dxdam/4b/4b13d98f-ad92-434e-93fb-c18ad11abf27/IconsPurpleSet_Safety.png",
   "digest": "5qQ2DCFJP9EvYsqUqQBobA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "renditions": {
     "default": {
       "id": "r=ab130bbf-f345-41aa-ad36-b1f73c5d2831&a=4b13d98f-ad92-434e-93fb-c18ad11abf27",
       "source": "/authoring/v1/resources/ab130bbf-f345-41aa-ad36-b1f73c5d2831"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/4b13d98f-ad92-434e-93fb-c18ad11abf27"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/ab130bbf-f345-41aa-ad36-b1f73c5d2831.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/ab130bbf-f345-41aa-ad36-b1f73c5d2831?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/4b13d98f-ad92-434e-93fb-c18ad11abf27/status/retire"
-    }
-  },
   "id": "4b13d98f-ad92-434e-93fb-c18ad11abf27",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:23.496Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-10T17:23:09.312Z",
   "profileRenditions": [],
-  "rev": "1-ce552543b756584936c5c8f477e2b955",
-  "creator": "David Klages",
+  "rev": "1-d34eb9d89354f2c956c785aa5284aa2a",
   "altText": "",
   "resource": "ab130bbf-f345-41aa-ad36-b1f73c5d2831",
-  "created": "2020-04-17T15:23:23.482Z",
+  "created": "2020-04-10T17:07:20.182Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:neon lamp",
+      "classification:lamp",
+      "classification:razorblade",
+      "classification:tool",
+      "classification:towel rack",
+      "classification:rack",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:barrette (hair pin)",
+      "classification:pin",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:fluorescent lamp",
+      "classification:purple color"
+    ],
     "declined": [
       "classification:neon lamp",
       "classification:lamp",
@@ -81,16 +76,39 @@
       "user:safety",
       "user:purple"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "neon lamp",
+      "lamp",
+      "razorblade",
+      "tool",
+      "towel rack",
+      "rack",
+      "framework",
+      "supporting structure",
+      "barrette (hair pin)",
+      "pin",
+      "fastener",
+      "restraint (chains)",
+      "fluorescent lamp",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#d4a0d0",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f270ec",
+      "vibrant": "#d64cc4",
+      "muted": "#b757b1",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
   },
   "fileSize": 33231,
   "name": "IconsPurpleSet_Safety.png",
-  "lastModified": "2020-04-17T15:23:23.496Z",
+  "lastModified": "2020-04-10T17:23:09.312Z",
   "status": "ready"
 }

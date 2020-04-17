@@ -5,62 +5,58 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "8aa5e326-3ec9-47ff-a43b-03acfe2bad8f",
+  "mediaId": "d0be230b-7799-4d4e-a265-b39eb979aaed",
   "path": "/dxdam/f6/f6a454d3-c3cc-43a4-8fb4-8ec192788a95/IconsGreenSet_Safety.png",
   "digest": "/PFgc4WCTg63OU6snwetnQ==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=cff638a5-61f8-4980-8309-2b71722d3d6d&a=f6a454d3-c3cc-43a4-8fb4-8ec192788a95",
       "source": "/authoring/v1/resources/cff638a5-61f8-4980-8309-2b71722d3d6d"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/f6a454d3-c3cc-43a4-8fb4-8ec192788a95"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/cff638a5-61f8-4980-8309-2b71722d3d6d.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/cff638a5-61f8-4980-8309-2b71722d3d6d?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/f6a454d3-c3cc-43a4-8fb4-8ec192788a95/status/retire"
-    }
-  },
   "id": "f6a454d3-c3cc-43a4-8fb4-8ec192788a95",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:34.677Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:10:20.569Z",
   "profileRenditions": [],
-  "rev": "1-c235548de58ca6d041b924ab00db0880",
-  "creator": "David Klages",
+  "rev": "2-059bffe0ca01ae2b2482422fdbc9eeb7",
   "altText": "",
   "resource": "cff638a5-61f8-4980-8309-2b71722d3d6d",
-  "created": "2020-04-17T15:23:34.667Z",
+  "created": "2020-04-10T17:18:36.895Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:clevis (coupler)",
+      "classification:mechanical device",
+      "classification:tongue depressor",
+      "classification:clip",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:barrette (hair pin)",
+      "classification:pin",
+      "classification:razorblade",
+      "classification:tool",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:mechanism",
+      "classification:emerald color",
+      "classification:jade green color"
+    ],
     "declined": [
       "classification:clevis (coupler)",
       "classification:mechanical device",
@@ -83,16 +79,40 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "clevis (coupler)",
+      "mechanical device",
+      "tongue depressor",
+      "clip",
+      "fastener",
+      "restraint (chains)",
+      "barrette (hair pin)",
+      "pin",
+      "razorblade",
+      "tool",
+      "fluorescent lamp",
+      "lamp",
+      "mechanism",
+      "emerald color",
+      "jade green color"
+    ],
+    "colors": {
+      "lightMuted": "#059360",
+      "darkMuted": "#049481",
+      "lightVibrant": "#8bfbd3",
+      "vibrant": "#1beca8",
+      "muted": "#79c4bc",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
   },
   "fileSize": 32928,
   "name": "IconsGreenSet_Safety.png",
-  "lastModified": "2020-04-17T15:23:34.677Z",
+  "lastModified": "2020-04-15T18:10:20.569Z",
   "status": "ready"
 }

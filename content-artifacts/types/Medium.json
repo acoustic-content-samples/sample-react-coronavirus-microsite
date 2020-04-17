@@ -1,6 +1,6 @@
 {
   "id": "3544c726-68bf-47f7-95e2-b4733d4a9ae5",
-  "rev": "1-672d2ba3753700427b1c981d9c2ce823",
+  "rev": "2-c3004c578d2778ab23e9dc79f5e66552",
   "name": "Medium",
   "classification": "content-type",
   "kind": [],
@@ -13,9 +13,6 @@
   "tags": [],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
-  ],
-  "categories": [
-    "Social Media/Social Media"
   ],
   "elements": [
     {

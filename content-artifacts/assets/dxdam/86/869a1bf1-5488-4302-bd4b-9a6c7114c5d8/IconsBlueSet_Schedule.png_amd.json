@@ -5,58 +5,35 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "a5e1a232-cd02-4ec5-9b0e-d136a6265836",
+  "mediaId": "037a8006-13a2-451b-a871-b6280806995d",
   "path": "/dxdam/86/869a1bf1-5488-4302-bd4b-9a6c7114c5d8/IconsBlueSet_Schedule.png",
   "digest": "Nz5UQzYN3ZwVjyyD2xksXA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=b6cb2527-078d-4058-aaaf-5d4ca7057092&a=869a1bf1-5488-4302-bd4b-9a6c7114c5d8",
       "source": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/869a1bf1-5488-4302-bd4b-9a6c7114c5d8"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/b6cb2527-078d-4058-aaaf-5d4ca7057092?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/869a1bf1-5488-4302-bd4b-9a6c7114c5d8/status/retire"
-    }
-  },
   "id": "869a1bf1-5488-4302-bd4b-9a6c7114c5d8",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:27.283Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:01:02.058Z",
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "tile",
-      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -72,9 +49,7 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-      "profileName": "List View Profile",
       "key": "block",
-      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -89,17 +64,25 @@
       "height": 240
     }
   ],
-  "rev": "1-9afa326137d4f6bbd4e7c1bb5881193e",
-  "creator": "David Klages",
+  "rev": "3-e38ffbfd2a29d7225b0f5087d3fa8aa0",
   "altText": "",
   "resource": "b6cb2527-078d-4058-aaaf-5d4ca7057092",
-  "created": "2020-04-17T15:23:27.216Z",
+  "created": "2020-04-10T17:21:04.139Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:magnetic disk",
+      "classification:figure",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -113,16 +96,31 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "magnetic disk",
+      "figure",
+      "blue color",
+      "ultramarine color"
+    ],
+    "colors": {
+      "lightMuted": "#057693",
+      "darkMuted": "#035395",
+      "lightVibrant": "#84e2fa",
+      "vibrant": "#045cb3",
+      "muted": "#034c95",
+      "darkVibrant": "#0464b4"
+    },
+    "status": "complete"
   },
   "fileSize": 27430,
   "name": "IconsBlueSet_Schedule.png",
-  "lastModified": "2020-04-17T15:23:27.283Z",
+  "lastModified": "2020-04-15T18:01:02.058Z",
   "status": "ready"
 }

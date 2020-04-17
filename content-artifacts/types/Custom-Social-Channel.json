@@ -1,6 +1,6 @@
 {
   "id": "013e3bab-f6b3-4f8c-9630-3f43a885c0de",
-  "rev": "1-5fbf58e6dd4169a3995dcea5e0561aaa",
+  "rev": "3-f039a514b8933bf2170c3a02952a4bbc",
   "name": "Custom Social Channel",
   "classification": "content-type",
   "kind": [],
@@ -13,9 +13,6 @@
   "tags": [],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
-  ],
-  "categories": [
-    "Social Media/Social Media"
   ],
   "elements": [
     {

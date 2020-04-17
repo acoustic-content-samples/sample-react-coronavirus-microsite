@@ -5,49 +5,28 @@
     "height": 2810
   },
   "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "4f0e0305-899a-4505-903c-d302243b24e0",
+  "mediaId": "16b7dd79-fc5a-404a-89c0-2957b9ee67a4",
   "path": "/dxdam/43/43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55/buildingsbanner.jpg",
   "digest": "Sd5RxbqTq0xe4d03zaIJbw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "febb492a-b4c9-491b-82e7-a397133be9bf",
   "renditions": {
     "default": {
       "id": "r=d911accf-a20d-43e5-bf15-82f53f3763c3&a=43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55",
       "source": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3.jpg"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55/status/retire"
-    }
-  },
   "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55",
-  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-17T15:23:22.495Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T01:26:22.009Z",
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-      "profileName": "Update Article Profile",
       "key": "article",
-      "label": "Article",
       "transform": {
         "scale": 0.21219,
         "crop": {
@@ -62,17 +41,24 @@
       "height": 320
     }
   ],
-  "rev": "1-30f8b53710dd95c63207df9531b1cbc0",
-  "creator": "David Klages",
+  "rev": "2-3d922616bc251fa059722f0d797a5a69",
   "altText": "",
   "resource": "d911accf-a20d-43e5-bf15-82f53f3763c3",
-  "created": "2020-04-17T15:23:22.427Z",
+  "created": "2020-04-14T21:51:37.578Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:building",
+      "classification:high-rise building",
+      "classification:tower",
+      "classification:business district",
+      "classification:brick red color"
+    ],
     "declined": [],
     "values": [
       "classification:building",
@@ -81,16 +67,30 @@
       "classification:business district",
       "classification:brick red color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "building",
+      "high-rise building",
+      "tower",
+      "business district",
+      "brick red color"
+    ],
+    "colors": {
+      "lightMuted": "#b1cdd8",
+      "darkMuted": "#4f3933",
+      "lightVibrant": "#8bc8d9",
+      "vibrant": "#be6140",
+      "muted": "#5991a9",
+      "darkVibrant": "#7f3d24"
+    },
+    "status": "complete"
   },
   "fileSize": 1258159,
   "name": "buildingsbanner.jpg",
-  "lastModified": "2020-04-17T15:23:22.495Z",
+  "lastModified": "2020-04-15T01:26:22.009Z",
   "status": "ready"
 }

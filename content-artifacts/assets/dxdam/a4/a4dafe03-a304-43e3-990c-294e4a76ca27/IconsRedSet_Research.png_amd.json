@@ -5,62 +5,54 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "81c72504-165c-42de-aa26-f676bf45d5c8",
+  "mediaId": "4d7bf9ac-136a-4e2a-b4da-aacf33445e66",
   "path": "/dxdam/a4/a4dafe03-a304-43e3-990c-294e4a76ca27/IconsRedSet_Research.png",
   "digest": "n2zXQRrirflYeRCuJEBzDA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "renditions": {
     "default": {
       "id": "r=5b7b85d2-2900-417c-bd12-4a5094ccf7ce&a=a4dafe03-a304-43e3-990c-294e4a76ca27",
       "source": "/authoring/v1/resources/5b7b85d2-2900-417c-bd12-4a5094ccf7ce"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/a4dafe03-a304-43e3-990c-294e4a76ca27"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/5b7b85d2-2900-417c-bd12-4a5094ccf7ce.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/5b7b85d2-2900-417c-bd12-4a5094ccf7ce?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/a4dafe03-a304-43e3-990c-294e4a76ca27/status/retire"
-    }
-  },
   "id": "a4dafe03-a304-43e3-990c-294e4a76ca27",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:30.398Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-10T17:23:09.312Z",
   "profileRenditions": [],
-  "rev": "1-d04cb73898fc8cdd12a48073098d7498",
-  "creator": "David Klages",
+  "rev": "1-ad435f79c4ac60f8c2a6a24b1cc0e935",
   "altText": "",
   "resource": "5b7b85d2-2900-417c-bd12-4a5094ccf7ce",
-  "created": "2020-04-17T15:23:30.388Z",
+  "created": "2020-04-10T17:04:22.316Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:fire alarm",
+      "classification:adhesive plaster",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:alarm",
+      "classification:light source",
+      "classification:electrical device",
+      "classification:push button",
+      "classification:alizarine red color"
+    ],
     "declined": [
       "classification:fire alarm",
       "classification:adhesive plaster",
@@ -79,16 +71,36 @@
       "user:research",
       "user:red color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "fire alarm",
+      "adhesive plaster",
+      "fluorescent lamp",
+      "lamp",
+      "diskette",
+      "memory device",
+      "alarm",
+      "light source",
+      "electrical device",
+      "push button",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#941b04",
+      "darkMuted": "#920614",
+      "lightVibrant": "#fb917d",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#cb091c"
+    },
+    "status": "complete"
   },
   "fileSize": 36255,
   "name": "IconsRedSet_Research.png",
-  "lastModified": "2020-04-17T15:23:30.398Z",
+  "lastModified": "2020-04-10T17:23:09.312Z",
   "status": "ready"
 }

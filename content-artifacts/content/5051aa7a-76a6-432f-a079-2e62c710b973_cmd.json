@@ -1,19 +1,15 @@
 {
-  "rev": "1-44611ea96c2267d1870baa6cb751e252",
-  "creator": "David Klages",
+  "rev": "4-f75df8f75096f8b6bf58f8aa370bb5a9",
   "thumbnail": {
-    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc",
-    "url": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:27.875Z",
+  "created": "2020-04-15T01:39:24.083Z",
   "libraryId": "default",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "FAQ Item",
   "locale": "en",
   "tags": [
     "user:Mobile",
@@ -44,11 +40,6 @@
         "7153acc7-d5d5-4c36-8e93-1a5d704b170e",
         "19f57336-3e2d-4948-9200-5d91aed618f0"
       ],
-      "categories": [
-        "Content Categories/General",
-        "Content Categories/Technology",
-        "Content Categories/Services"
-      ],
       "elementType": "category"
     },
     "topItem": {
@@ -57,30 +48,10 @@
     }
   },
   "name": "Sample: Mobile banking",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/fd405d50-56b4-4443-9301-0f754c707d9a?fit=inside%7C220:145"
-    },
-    "createDraft": {
-      "href": "/authoring/v1/content/5051aa7a-76a6-432f-a079-2e62c710b973/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/5051aa7a-76a6-432f-a079-2e62c710b973/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/5051aa7a-76a6-432f-a079-2e62c710b973"
-    },
-    "type": {
-      "href": "/authoring/v1/types/d8dae096-118a-49e3-8321-cbbb7482f8f7"
-    }
-  },
   "id": "5051aa7a-76a6-432f-a079-2e62c710b973",
-  "lastModified": "2020-04-17T15:24:27.875Z",
-  "systemModified": "2020-04-17T15:24:27.875Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T13:52:17.873Z",
+  "systemModified": "2020-04-15T13:52:17.873Z",
   "status": "ready"
 }

@@ -1,9 +1,9 @@
 {
   "id": "e8d82cca-c4e6-4b52-aa0c-1c1300ff4bf4",
-  "rev": "1-42311c51c1821ab76f309ac0a8243a93",
+  "rev": "1-d69f20e99bc8dea0e910531815955d83",
   "name": "Scheduling",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
-  "creator": "David Klages",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,7 +25,6 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-17T15:22:52.721Z",
-  "lastModified": "2020-04-17T15:22:52.721Z",
-  "code": 201
+  "created": "2020-04-09T14:26:48.606Z",
+  "lastModified": "2020-04-09T14:26:48.606Z"
 }

@@ -1,14 +1,12 @@
 {
   "id": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
-  "rev": "1-674c21e917219e445bac4d83d03fda75",
+  "rev": "5-97e3c414a643fd92103f848bcbd14678",
   "name": "List View Profile",
   "classification": "image-profile",
-  "creator": "David Klages",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "created": "2020-04-10T17:41:07.339Z",
-  "lastModifier": "David Klages",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
-  "lastModified": "2020-04-17T15:22:50.735Z",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModified": "2020-04-15T17:54:36.061Z",
   "tags": [],
   "dimensions": [
     {

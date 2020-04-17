@@ -1,14 +1,11 @@
 {
-  "rev": "1-34f73377314220317764e676d8595fcf",
-  "creator": "David Klages",
+  "rev": "2-c759ba2849a6554f9497d59b4aa4c532",
   "keywords": [],
   "kind": [],
-  "created": "2020-04-17T15:24:27.877Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-15T00:35:26.718Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "content",
-  "type": "Resource",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -26,27 +23,10 @@
     }
   },
   "name": "CDC Guidelines",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
   "typeId": "c022bb52-919e-4c3c-ab92-119914ed70c6",
-  "links": {
-    "createDraft": {
-      "href": "/authoring/v1/content/23e1985c-a037-423e-b09a-3ce54552d6a2/create-draft"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/content/23e1985c-a037-423e-b09a-3ce54552d6a2/status/retire"
-    },
-    "self": {
-      "href": "/authoring/v1/content/23e1985c-a037-423e-b09a-3ce54552d6a2"
-    },
-    "type": {
-      "href": "/authoring/v1/types/c022bb52-919e-4c3c-ab92-119914ed70c6"
-    }
-  },
   "id": "23e1985c-a037-423e-b09a-3ce54552d6a2",
-  "lastModified": "2020-04-17T15:24:27.877Z",
-  "systemModified": "2020-04-17T15:24:27.877Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "lastModified": "2020-04-15T00:45:44.805Z",
+  "systemModified": "2020-04-15T00:45:44.805Z",
   "status": "ready"
 }

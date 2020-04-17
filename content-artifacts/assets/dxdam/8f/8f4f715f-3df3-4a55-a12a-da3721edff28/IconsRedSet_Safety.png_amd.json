@@ -5,62 +5,59 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "7b2ac646-89a5-4a73-b8c5-5b8f234cac3e",
+  "mediaId": "9119d8f3-2041-4446-9646-46e3653b4b89",
   "path": "/dxdam/8f/8f4f715f-3df3-4a55-a12a-da3721edff28/IconsRedSet_Safety.png",
   "digest": "YuaBX29QB8lrylDRfXRbUA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=d85435ea-0050-4ed7-a9f0-fa190711f669&a=8f4f715f-3df3-4a55-a12a-da3721edff28",
       "source": "/authoring/v1/resources/d85435ea-0050-4ed7-a9f0-fa190711f669"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/8f4f715f-3df3-4a55-a12a-da3721edff28"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/d85435ea-0050-4ed7-a9f0-fa190711f669.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/d85435ea-0050-4ed7-a9f0-fa190711f669?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/8f4f715f-3df3-4a55-a12a-da3721edff28/status/retire"
-    }
-  },
   "id": "8f4f715f-3df3-4a55-a12a-da3721edff28",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:28.050Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:06:37.970Z",
   "profileRenditions": [],
-  "rev": "1-af94d9dff3ac1162b40f9de61ce3de05",
-  "creator": "David Klages",
+  "rev": "2-f979078b12b8bc7101ecec9f85ccb02a",
   "altText": "",
   "resource": "d85435ea-0050-4ed7-a9f0-fa190711f669",
-  "created": "2020-04-17T15:23:28.024Z",
+  "created": "2020-04-10T17:04:19.767Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:clevis (coupler)",
+      "classification:mechanical device",
+      "classification:razorblade",
+      "classification:tool",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:open-end wrench",
+      "classification:wrench",
+      "classification:barrette (hair pin)",
+      "classification:pin",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:pull (handle)",
+      "classification:mechanism",
+      "classification:bar",
+      "classification:alizarine red color"
+    ],
     "declined": [
       "classification:clevis (coupler)",
       "classification:mechanical device",
@@ -84,16 +81,41 @@
       "user:safety",
       "user:red color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "clevis (coupler)",
+      "mechanical device",
+      "razorblade",
+      "tool",
+      "fluorescent lamp",
+      "lamp",
+      "open-end wrench",
+      "wrench",
+      "barrette (hair pin)",
+      "pin",
+      "fastener",
+      "restraint (chains)",
+      "pull (handle)",
+      "mechanism",
+      "bar",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#8a190e",
+      "darkMuted": "#930514",
+      "lightVibrant": "#f28d83",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#ca081c"
+    },
+    "status": "complete"
   },
   "fileSize": 33187,
   "name": "IconsRedSet_Safety.png",
-  "lastModified": "2020-04-17T15:23:28.050Z",
+  "lastModified": "2020-04-15T18:06:37.970Z",
   "status": "ready"
 }

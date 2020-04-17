@@ -5,62 +5,47 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "c6d23f8d-9725-41d3-9e6e-baf787e9adfb",
+  "mediaId": "9c3efb79-6667-4300-9521-353cafbef8ec",
   "path": "/dxdam/93/93ff7622-d55b-4777-b5ac-90855e716d80/IconsGreenSet_Research.png",
   "digest": "Sk6hRkX/Gcc/9JJy3c8rZw==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=3462d7c9-bad9-46b3-8f31-e8fc2e5b9c7b&a=93ff7622-d55b-4777-b5ac-90855e716d80",
       "source": "/authoring/v1/resources/3462d7c9-bad9-46b3-8f31-e8fc2e5b9c7b"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/93ff7622-d55b-4777-b5ac-90855e716d80"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/3462d7c9-bad9-46b3-8f31-e8fc2e5b9c7b.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/3462d7c9-bad9-46b3-8f31-e8fc2e5b9c7b?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/93ff7622-d55b-4777-b5ac-90855e716d80/status/retire"
-    }
-  },
   "id": "93ff7622-d55b-4777-b5ac-90855e716d80",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:29.050Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:09:23.921Z",
   "profileRenditions": [],
-  "rev": "1-3625242e1dbdbc52d6e9d3f775a00dd4",
-  "creator": "David Klages",
+  "rev": "2-6eb0b59fcc8ce36f724bb926f6137334",
   "altText": "",
   "resource": "3462d7c9-bad9-46b3-8f31-e8fc2e5b9c7b",
-  "created": "2020-04-17T15:23:29.045Z",
+  "created": "2020-04-10T17:18:36.559Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:push button",
+      "classification:emerald color"
+    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -72,16 +57,29 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "diskette",
+      "memory device",
+      "push button",
+      "emerald color"
+    ],
+    "colors": {
+      "lightMuted": "#039565",
+      "darkMuted": "#049481",
+      "lightVibrant": "#89fcd6",
+      "vibrant": "#14f7aa",
+      "muted": "#059363",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
   },
   "fileSize": 37445,
   "name": "IconsGreenSet_Research.png",
-  "lastModified": "2020-04-17T15:23:29.050Z",
+  "lastModified": "2020-04-15T18:09:23.921Z",
   "status": "ready"
 }

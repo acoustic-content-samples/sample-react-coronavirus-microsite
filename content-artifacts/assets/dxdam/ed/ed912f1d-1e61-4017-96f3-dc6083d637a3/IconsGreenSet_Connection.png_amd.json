@@ -5,62 +5,54 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
   "description": "",
   "caption": "",
-  "lastModifier": "David Klages",
-  "mediaId": "993bd285-ad77-451c-9230-5b946ef99fd8",
+  "mediaId": "66b1fb89-def5-43ce-b00d-c0854736ace2",
   "path": "/dxdam/ed/ed912f1d-1e61-4017-96f3-dc6083d637a3/IconsGreenSet_Connection.png",
   "digest": "aKYodNdETPViWITLYn9qyA==",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
   "renditions": {
     "default": {
       "id": "r=495fa913-5397-4e6a-bc87-5e21262b6934&a=ed912f1d-1e61-4017-96f3-dc6083d637a3",
       "source": "/authoring/v1/resources/495fa913-5397-4e6a-bc87-5e21262b6934"
     }
   },
-  "links": {
-    "self": {
-      "href": "/authoring/v1/assets/ed912f1d-1e61-4017-96f3-dc6083d637a3"
-    },
-    "media": {
-      "href": "/authoring/v1/resources/495fa913-5397-4e6a-bc87-5e21262b6934.png"
-    },
-    "thumbnail": {
-      "href": "/authoring/v1/resources/495fa913-5397-4e6a-bc87-5e21262b6934?fit=inside%7C220:145"
-    },
-    "retire": {
-      "href": "/authoring/v1/changes/asset/ed912f1d-1e61-4017-96f3-dc6083d637a3/status/retire"
-    }
-  },
   "id": "ed912f1d-1e61-4017-96f3-dc6083d637a3",
-  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20",
-        "path": "Usage rights/Rights managed/Media/Digital/Website"
+        "id": "00000000-0000-0000-0000-032300c8e20"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20",
-        "path": "Usage rights/Rights managed/Usage realm/Public relations"
+        "id": "00000000-0000-0000-0000-023000c8e20"
       }
     ]
   },
-  "systemModified": "2020-04-17T15:23:34.672Z",
-  "publishing": {
-    "status": "not-available"
-  },
+  "systemModified": "2020-04-15T18:09:12.248Z",
   "profileRenditions": [],
-  "rev": "1-dbbe6cb564731937beb6f4698000752b",
-  "creator": "David Klages",
+  "rev": "2-216f36ab81f6a03d249a91f99214c712",
   "altText": "",
   "resource": "495fa913-5397-4e6a-bc87-5e21262b6934",
-  "created": "2020-04-17T15:23:34.660Z",
+  "created": "2020-04-10T17:18:33.466Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
+  "assetType": "image",
   "tags": {
+    "suggested": [
+      "classification:complementary color",
+      "classification:triangle",
+      "classification:polygon",
+      "classification:figure",
+      "classification:rhombus",
+      "classification:pick (for string instrument)",
+      "classification:primary color for light",
+      "classification:spectrum of colors",
+      "classification:rescue equipment",
+      "classification:emerald color",
+      "classification:jade green color"
+    ],
     "declined": [
       "classification:complementary color",
       "classification:triangle",
@@ -80,16 +72,36 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "pending"
+    "analysis": "complete"
   },
-  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "status": "pending"
+    "classifications": [
+      "complementary color",
+      "triangle",
+      "polygon",
+      "figure",
+      "rhombus",
+      "pick (for string instrument)",
+      "primary color for light",
+      "spectrum of colors",
+      "rescue equipment",
+      "emerald color",
+      "jade green color"
+    ],
+    "colors": {
+      "lightMuted": "#0b8d63",
+      "darkMuted": "#049481",
+      "lightVibrant": "#78f4cc",
+      "vibrant": "#19f4a8",
+      "muted": "#60b9a8",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
   },
   "fileSize": 32319,
   "name": "IconsGreenSet_Connection.png",
-  "lastModified": "2020-04-17T15:23:34.672Z",
+  "lastModified": "2020-04-15T18:09:12.248Z",
   "status": "ready"
 }

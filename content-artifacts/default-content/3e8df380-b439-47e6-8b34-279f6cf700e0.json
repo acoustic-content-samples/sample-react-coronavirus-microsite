@@ -1,17 +1,13 @@
 {
-  "rev": "1-c89b34d155ab7e1f96fca221f6590af7",
-  "creator": "David Klages",
+  "rev": "4-721a8802dbe30f0ada247c6d356251aa",
   "thumbnail": {
-    "id": "0625bde9-8974-48e7-a675-38074936a966",
-    "url": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
+    "id": "0625bde9-8974-48e7-a675-38074936a966"
   },
   "keywords": [],
-  "created": "2020-04-17T15:24:26.858Z",
-  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "created": "2020-04-10T07:21:00.308Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "description": "",
-  "lastModifier": "David Klages",
   "classification": "default-content",
-  "type": "Instagram",
   "locale": "en",
   "tags": [
     "user:Instagram"
@@ -19,18 +15,8 @@
   "elements": {
     "socialIcon": {
       "mode": "shared",
-      "renditions": {
-        "default": {
-          "source": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
-        }
-      },
       "asset": {
-        "fileName": "IG_Color.svg",
-        "altText": "",
-        "fileSize": 279775,
-        "mediaType": "image/svg+xml",
-        "id": "0625bde9-8974-48e7-a675-38074936a966",
-        "resourceUri": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
+        "id": "0625bde9-8974-48e7-a675-38074936a966"
       },
       "elementType": "image"
     },
@@ -40,20 +26,10 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
   "typeId": "170596b8-828d-4321-93a8-bf606b9f9456",
-  "links": {
-    "thumbnail": {
-      "href": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
-    },
-    "self": {
-      "href": "/authoring/v1/default-content/3e8df380-b439-47e6-8b34-279f6cf700e0"
-    },
-    "type": {
-      "href": "/authoring/v1/types/170596b8-828d-4321-93a8-bf606b9f9456"
-    }
-  },
   "id": "3e8df380-b439-47e6-8b34-279f6cf700e0",
-  "lastModified": "2020-04-17T15:24:26.858Z",
-  "systemModified": "2020-04-17T15:24:26.858Z"
+  "lastModified": "2020-04-10T07:22:14.001Z",
+  "systemModified": "2020-04-10T07:22:14.001Z",
+  "status": "ready"
 }
