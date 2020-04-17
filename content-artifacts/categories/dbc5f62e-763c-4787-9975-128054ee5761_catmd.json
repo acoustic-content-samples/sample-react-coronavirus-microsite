@@ -1,0 +1,30 @@
+{
+  "id": "dbc5f62e-763c-4787-9975-128054ee5761",
+  "rev": "3-7016a307e38082ffd4f0746911c57e49",
+  "name": "Safeguards",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "Safeguards"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/dbc5f62e-763c-4787-9975-128054ee5761"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T01:19:37.881Z",
+  "lastModified": "2020-04-09T01:19:37.881Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "7153acc7-d5d5-4c36-8e93-1a5d704b170e",
+  "rev": "1-cf3b94612929db9e9c8f4517486a7e29",
+  "name": "Technology",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "Technology"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/7153acc7-d5d5-4c36-8e93-1a5d704b170e"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T14:26:37.772Z",
+  "lastModified": "2020-04-09T14:26:37.772Z"
+}

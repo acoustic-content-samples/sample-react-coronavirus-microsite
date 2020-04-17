@@ -1,0 +1,33 @@
+{
+  "rev": "4-a5b7bd0b3408fc97075b48db6e869a42",
+  "thumbnail": {
+    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+  },
+  "keywords": [],
+  "created": "2020-04-10T07:26:24.576Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "default-content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "Twitter"
+    }
+  },
+  "name": "Facebook",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "typeId": "526ab219-de68-4f1d-8b66-5007ffaafe74",
+  "id": "830a2ceb-cc40-418b-a5d2-4f915ceed437",
+  "lastModified": "2020-04-10T07:38:46.680Z",
+  "systemModified": "2020-04-10T07:38:46.680Z",
+  "status": "ready"
+}

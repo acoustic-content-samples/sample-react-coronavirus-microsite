@@ -1,0 +1,36 @@
+{
+  "id": "c022bb52-919e-4c3c-ab92-119914ed70c6",
+  "rev": "4-6ea91b823058f4f0c8fd2d5b4c28214d",
+  "name": "Resource",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Title",
+      "key": "title",
+      "placeholder": {
+        "show": true,
+        "text": ""
+      },
+      "helpText": "This is what show on the sidebar of the home page under resources."
+    },
+    {
+      "elementType": "link",
+      "label": "Link to webpage",
+      "key": "linkToWebpage",
+      "helpText": "Are you linking to an external page?"
+    },
+    {
+      "elementType": "file",
+      "label": "Link to File",
+      "key": "linkToFile",
+      "helpText": "Allow users to download a file"
+    }
+  ]
+}

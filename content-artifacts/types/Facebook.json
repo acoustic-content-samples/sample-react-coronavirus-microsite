@@ -1,0 +1,29 @@
+{
+  "id": "d83bcaa9-e3b5-4944-9f1a-c2f1dbb72604",
+  "rev": "5-cba413dff15b4097ae5fe458b6be481d",
+  "name": "Facebook",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "socialIcon",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "social icon",
+      "key": "socialIcon"
+    },
+    {
+      "elementType": "link",
+      "label": "Social Link",
+      "key": "socialLink"
+    }
+  ]
+}

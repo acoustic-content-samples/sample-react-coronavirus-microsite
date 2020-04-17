@@ -1,0 +1,51 @@
+{
+  "fileName": "PI_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "cc86e50c-dc55-4a0a-bb0a-5e3ee505fdfb",
+  "path": "/dxdam/3b/3bad9a25-fc66-419a-8f30-db96d02b25d5/PI_Color.svg",
+  "digest": "3G4GxlQGe7Z2aOtitiIYUA==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=681dfa53-6028-41f7-8331-82b5d6911172&a=3bad9a25-fc66-419a-8f30-db96d02b25d5",
+      "source": "/authoring/v1/resources/681dfa53-6028-41f7-8331-82b5d6911172"
+    }
+  },
+  "id": "3bad9a25-fc66-419a-8f30-db96d02b25d5",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:48:24.310Z",
+  "profileRenditions": [],
+  "rev": "2-01b67a8cd07a1a7e0dabcdee28b81745",
+  "altText": "",
+  "resource": "681dfa53-6028-41f7-8331-82b5d6911172",
+  "created": "2020-04-10T06:55:04.056Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Pinterest"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "225e88e9-aff3-41bc-8ed1-4f8ae5485872"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 916,
+  "name": "PI_Color.svg",
+  "lastModified": "2020-04-11T22:48:24.310Z",
+  "status": "ready"
+}

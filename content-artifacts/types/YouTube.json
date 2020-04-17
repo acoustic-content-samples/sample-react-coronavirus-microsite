@@ -1,0 +1,31 @@
+{
+  "id": "1ddf8b42-f1b3-43bd-9b56-41256c31fd3f",
+  "rev": "4-29ab8ca234b18f875a4574d2df67f2dd",
+  "name": "YouTube",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "socialIcon",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "YouTube"
+  ],
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "social icon",
+      "key": "socialIcon"
+    },
+    {
+      "elementType": "link",
+      "label": "Social Link",
+      "key": "socialLink"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "fileName": "FB_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "c8e3447f-e018-45a9-8f42-e1591345dff6",
+  "path": "/dxdam/39/39c2da7b-a310-48c8-b1b7-5f0f627156ad/FB_Color.svg",
+  "digest": "SzG3aycMWpPMuSiuLm1ARg==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=39d5b8ef-1c90-4cba-890e-25c361bf6737&a=39c2da7b-a310-48c8-b1b7-5f0f627156ad",
+      "source": "/authoring/v1/resources/39d5b8ef-1c90-4cba-890e-25c361bf6737"
+    }
+  },
+  "id": "39c2da7b-a310-48c8-b1b7-5f0f627156ad",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:50:48.657Z",
+  "profileRenditions": [],
+  "rev": "4-143227eb3c3f2a3e967f673449943a47",
+  "altText": "",
+  "resource": "39d5b8ef-1c90-4cba-890e-25c361bf6737",
+  "created": "2020-04-10T04:14:12.759Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Facebook"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "1314a17a-873a-4c23-9b1c-905301358365"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 462,
+  "name": "FB_Color.svg",
+  "lastModified": "2020-04-11T22:50:48.657Z",
+  "status": "ready"
+}

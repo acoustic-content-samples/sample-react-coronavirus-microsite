@@ -1,0 +1,30 @@
+{
+  "id": "19f57336-3e2d-4948-9200-5d91aed618f0",
+  "rev": "3-a07b4af00585b39e4142c3175052e4e3",
+  "name": "Services",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "Services"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/19f57336-3e2d-4948-9200-5d91aed618f0"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T14:26:56.416Z",
+  "lastModified": "2020-04-09T14:27:37.319Z"
+}

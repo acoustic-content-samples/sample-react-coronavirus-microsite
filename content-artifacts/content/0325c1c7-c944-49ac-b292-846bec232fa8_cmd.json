@@ -1,0 +1,38 @@
+{
+  "rev": "4-2812983364d63f3c96ad851c60f8dd8b",
+  "thumbnail": {
+    "id": "0625bde9-8974-48e7-a675-38074936a966"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-10T07:33:34.600Z",
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Instagram"
+  ],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "0625bde9-8974-48e7-a675-38074936a966"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "Instagram",
+      "linkURL": "https://www.instagram.com"
+    }
+  },
+  "name": "Instagram",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "170596b8-828d-4321-93a8-bf606b9f9456",
+  "id": "0325c1c7-c944-49ac-b292-846bec232fa8",
+  "lastModified": "2020-04-15T00:24:16.441Z",
+  "systemModified": "2020-04-15T00:24:16.441Z",
+  "status": "ready"
+}

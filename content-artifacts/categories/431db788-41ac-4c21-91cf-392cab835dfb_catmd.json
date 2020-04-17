@@ -1,0 +1,30 @@
+{
+  "id": "431db788-41ac-4c21-91cf-392cab835dfb",
+  "rev": "1-403935e80554e80f553dd21af8e5e8ec",
+  "name": "Customer Service",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "Customer Service"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/431db788-41ac-4c21-91cf-392cab835dfb"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T14:26:28.064Z",
+  "lastModified": "2020-04-09T14:26:28.064Z"
+}

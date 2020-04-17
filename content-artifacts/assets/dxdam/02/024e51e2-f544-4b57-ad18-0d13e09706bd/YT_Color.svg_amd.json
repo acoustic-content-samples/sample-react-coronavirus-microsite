@@ -1,0 +1,51 @@
+{
+  "fileName": "YT_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "2c331fc6-7260-4b3f-9bbe-aa19f4c2a0a7",
+  "path": "/dxdam/02/024e51e2-f544-4b57-ad18-0d13e09706bd/YT_Color.svg",
+  "digest": "+SPbgJT/Jv4/bKIKEeeMLg==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=000de2a3-7c21-4dfd-9874-f9fc3492e894&a=024e51e2-f544-4b57-ad18-0d13e09706bd",
+      "source": "/authoring/v1/resources/000de2a3-7c21-4dfd-9874-f9fc3492e894"
+    }
+  },
+  "id": "024e51e2-f544-4b57-ad18-0d13e09706bd",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:50:04.871Z",
+  "profileRenditions": [],
+  "rev": "2-1ff1c30c761186a8bd73ded51a9c5767",
+  "altText": "",
+  "resource": "000de2a3-7c21-4dfd-9874-f9fc3492e894",
+  "created": "2020-04-10T06:55:06.764Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:YouTube"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "df217feb-f4cf-41a5-90d4-f54195d2ffc6"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 651,
+  "name": "YT_Color.svg",
+  "lastModified": "2020-04-11T22:50:04.871Z",
+  "status": "ready"
+}

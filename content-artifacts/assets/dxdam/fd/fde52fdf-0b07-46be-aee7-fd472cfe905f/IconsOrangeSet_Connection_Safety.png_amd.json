@@ -1,0 +1,117 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Safety.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "1d81e6c7-1155-445a-94cb-3312584ba277",
+  "path": "/dxdam/fd/fde52fdf-0b07-46be-aee7-fd472cfe905f/IconsOrangeSet_Connection_Safety.png",
+  "digest": "tSf2XIMAqT47YUVici953A==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda&a=fde52fdf-0b07-46be-aee7-fd472cfe905f",
+      "source": "/authoring/v1/resources/bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda"
+    }
+  },
+  "id": "fde52fdf-0b07-46be-aee7-fd472cfe905f",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:05:48.756Z",
+  "profileRenditions": [],
+  "rev": "2-f3edc37a6500cb1cb850aa50e699ee38",
+  "altText": "",
+  "resource": "bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda",
+  "created": "2020-04-10T17:11:00.826Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:towel rack",
+      "classification:rack",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:tongue depressor",
+      "classification:whistle",
+      "classification:acoustic device",
+      "classification:cookie cutter",
+      "classification:utensil",
+      "classification:earplug",
+      "classification:plug",
+      "classification:tool",
+      "classification:pin",
+      "classification:reddish orange color",
+      "classification:orange color"
+    ],
+    "declined": [
+      "classification:towel rack",
+      "classification:rack",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:tongue depressor",
+      "classification:whistle",
+      "classification:acoustic device",
+      "classification:cookie cutter",
+      "classification:utensil",
+      "classification:earplug",
+      "classification:plug",
+      "classification:tool",
+      "classification:pin",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "classification:orange color",
+      "user:safety",
+      "user:orange"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "towel rack",
+      "rack",
+      "framework",
+      "supporting structure",
+      "tongue depressor",
+      "whistle",
+      "acoustic device",
+      "cookie cutter",
+      "utensil",
+      "earplug",
+      "plug",
+      "tool",
+      "pin",
+      "reddish orange color",
+      "orange color"
+    ],
+    "colors": {
+      "lightMuted": "#954803",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fcb474",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 32820,
+  "name": "IconsOrangeSet_Connection_Safety.png",
+  "lastModified": "2020-04-15T18:05:48.756Z",
+  "status": "ready"
+}

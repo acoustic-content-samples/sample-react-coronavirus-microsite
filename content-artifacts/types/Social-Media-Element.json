@@ -1,0 +1,30 @@
+{
+  "id": "d46d3539-6d9e-43e9-bfc6-b35a27cc4f03",
+  "rev": "14-451900e310980a06fd6596abdca24af0",
+  "name": "Social Media Element",
+  "classification": "content-type",
+  "kind": [
+    "embedded"
+  ],
+  "contentThumbnail": {
+    "imageElement": "",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Social"
+  ],
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "elements": [
+    {
+      "elementType": "link",
+      "label": "Social Media Link",
+      "key": "socialMediaLink",
+      "required": false
+    }
+  ],
+  "icon": "link"
+}

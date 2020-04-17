@@ -1,0 +1,91 @@
+{
+  "fileName": "IconsRedSet_Share.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "ebb27a8f-164a-4a3f-9648-54c1210a10be",
+  "path": "/dxdam/fe/fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac/IconsRedSet_Share.png",
+  "digest": "NvVjlSEpL//j0NsJoDUtEA==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=3b93f370-d004-4598-8833-77a72714242d&a=fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac",
+      "source": "/authoring/v1/resources/3b93f370-d004-4598-8833-77a72714242d"
+    }
+  },
+  "id": "fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.313Z",
+  "profileRenditions": [],
+  "rev": "1-3fa0f413db9b3cd64239bfef40efeef7",
+  "altText": "",
+  "resource": "3b93f370-d004-4598-8833-77a72714242d",
+  "created": "2020-04-10T17:04:22.306Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:electric switch",
+      "classification:controller",
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:push button",
+      "classification:pink color"
+    ],
+    "declined": [
+      "classification:electric switch",
+      "classification:controller",
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:push button",
+      "classification:pink color"
+    ],
+    "values": [
+      "user:red",
+      "user:red color",
+      "user:share"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "electric switch",
+      "controller",
+      "telephone jack",
+      "electrical device",
+      "push button",
+      "pink color"
+    ],
+    "colors": {
+      "lightMuted": "#941704",
+      "darkMuted": "#90080e",
+      "lightVibrant": "#fb8a79",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#c40c14"
+    },
+    "status": "complete"
+  },
+  "fileSize": 33171,
+  "name": "IconsRedSet_Share.png",
+  "lastModified": "2020-04-10T17:23:09.313Z",
+  "status": "ready"
+}

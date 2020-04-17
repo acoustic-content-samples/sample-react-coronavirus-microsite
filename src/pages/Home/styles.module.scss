@@ -1,0 +1,74 @@
+@import '~assets/styles/variables';
+
+.caption {
+  padding: $main-padding;
+  font-size: $text-font-size;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+}
+
+.articlePreview {
+  
+  font-size: 24px;
+  font-weight: 600;
+  padding: 64px 0 0 0;
+
+  @media screen and (max-width: 1024px) {
+    padding: 48px 0px 24px 0px;
+  }
+}
+
+.updateTitle{
+  font-size: 24px;
+  font-weight: bold;
+  padding-right: 10px;
+  margin-bottom: 18px;
+}
+
+.sidebar{
+  padding:64px 0 0 0;
+}
+
+.leftSidebar{
+  @media screen and (max-width: 770px) {
+    display:none;
+  }
+  @media screen and (min-width:780px){
+    display:block;
+  }
+}
+
+.rightSidebar{
+  @media screen and (max-width: 764px) {
+    display:none;
+  }
+  @media screen and (min-width:780px){
+    display:block;
+  }
+}
+
+.allLink{
+  font-size:14px;
+  font-weight: normal;
+  padding-left: 10px;
+}
+
+.faqPreview {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 48px 0 48px 0;
+  @media screen and (max-width: 767px){
+    width:100%;
+  }
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+}
+.faqTitle{
+  padding-bottom: 56px;
+}
+
+.faqItems{
+  
+}

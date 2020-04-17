@@ -1,0 +1,41 @@
+{
+  "rev": "9-4740cdaaafb2d0477d0edb086392959b",
+  "thumbnail": {
+    "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-08T18:21:58.535Z",
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "bannerTitle": {
+      "elementType": "text",
+      "value": "Our Coronavirus Response"
+    },
+    "bannerSubtitle": {
+      "elementType": "text"
+    },
+    "backgroundImage": {
+      "mode": "shared",
+      "profiles": [
+        "9fe54c2f-3ed4-476e-9aa9-6f2e83bc4422"
+      ],
+      "asset": {
+        "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55"
+      },
+      "elementType": "image"
+    }
+  },
+  "name": "Sample Banner",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "fd795aaa-be67-47d2-89d8-d019280cf18c",
+  "id": "9ad99f88-07e4-4247-89a6-ba5bf908e0ac",
+  "lastModified": "2020-04-14T21:54:27.792Z",
+  "systemModified": "2020-04-14T21:54:27.792Z",
+  "status": "ready"
+}

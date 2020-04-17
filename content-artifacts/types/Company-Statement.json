@@ -1,0 +1,25 @@
+{
+  "id": "60acca58-56cd-47f5-9f82-6a8563993571",
+  "rev": "4-3ab69f6f110d8622f61d411959b1e36e",
+  "name": "Company Statement",
+  "classification": "content-type",
+  "kind": [],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Statement Title",
+      "key": "statementTitle"
+    },
+    {
+      "elementType": "text",
+      "label": "Statement Body",
+      "key": "statementBody",
+      "allowMultipleValues": false,
+      "displayType": "multiLine",
+      "displayHeight": 10
+    }
+  ]
+}

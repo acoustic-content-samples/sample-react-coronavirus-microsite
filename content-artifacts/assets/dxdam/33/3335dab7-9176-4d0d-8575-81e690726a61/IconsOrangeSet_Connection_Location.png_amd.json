@@ -1,0 +1,97 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Location.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "d98c674f-8b50-42f8-a2f3-9717561ef271",
+  "path": "/dxdam/33/3335dab7-9176-4d0d-8575-81e690726a61/IconsOrangeSet_Connection_Location.png",
+  "digest": "zHrFxfsX/ZjwVcYAu2dTbg==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=7551ceeb-106f-48fe-9a58-56d0f055b376&a=3335dab7-9176-4d0d-8575-81e690726a61",
+      "source": "/authoring/v1/resources/7551ceeb-106f-48fe-9a58-56d0f055b376"
+    }
+  },
+  "id": "3335dab7-9176-4d0d-8575-81e690726a61",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.314Z",
+  "profileRenditions": [],
+  "rev": "1-2f681f2789f377382c7dcd67568c2710",
+  "altText": "",
+  "resource": "7551ceeb-106f-48fe-9a58-56d0f055b376",
+  "created": "2020-04-10T17:10:59.132Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:fire alarm",
+      "classification:adhesive plaster",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:tetraskelion",
+      "classification:alarm",
+      "classification:electrical device",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:fire alarm",
+      "classification:adhesive plaster",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:tetraskelion",
+      "classification:alarm",
+      "classification:electrical device",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:location",
+      "user:orange",
+      "user:orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "fire alarm",
+      "adhesive plaster",
+      "diskette",
+      "memory device",
+      "tetraskelion",
+      "alarm",
+      "electrical device",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#946804",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fcdc94",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 34738,
+  "name": "IconsOrangeSet_Connection_Location.png",
+  "lastModified": "2020-04-10T17:23:09.314Z",
+  "status": "ready"
+}

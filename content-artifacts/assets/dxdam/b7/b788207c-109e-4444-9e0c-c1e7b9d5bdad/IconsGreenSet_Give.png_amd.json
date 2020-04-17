@@ -1,0 +1,89 @@
+{
+  "fileName": "IconsGreenSet_Give.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "33df6998-0950-4769-8f1f-621aab6a2564",
+  "path": "/dxdam/b7/b788207c-109e-4444-9e0c-c1e7b9d5bdad/IconsGreenSet_Give.png",
+  "digest": "jtlKMYoDYaaxfwitVzfYVw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=d1163451-cb2b-46ca-b890-94571b40a60d&a=b788207c-109e-4444-9e0c-c1e7b9d5bdad",
+      "source": "/authoring/v1/resources/d1163451-cb2b-46ca-b890-94571b40a60d"
+    }
+  },
+  "id": "b788207c-109e-4444-9e0c-c1e7b9d5bdad",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:08:36.267Z",
+  "profileRenditions": [],
+  "rev": "2-3607aaf38dbdb2d7cbc326dfba848b83",
+  "altText": "",
+  "resource": "d1163451-cb2b-46ca-b890-94571b40a60d",
+  "created": "2020-04-10T17:18:33.664Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:mouthpiece",
+      "classification:tool",
+      "classification:lamp",
+      "classification:emerald color",
+      "classification:jade green color"
+    ],
+    "declined": [
+      "classification:mouthpiece",
+      "classification:tool",
+      "classification:lamp",
+      "classification:emerald color",
+      "classification:jade green color"
+    ],
+    "values": [
+      "user:give",
+      "user:donation",
+      "user:green",
+      "user:green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "mouthpiece",
+      "tool",
+      "lamp",
+      "emerald color",
+      "jade green color"
+    ],
+    "colors": {
+      "lightMuted": "#0a8e63",
+      "darkMuted": "#049481",
+      "lightVibrant": "#7cf5ce",
+      "vibrant": "#14fcac",
+      "muted": "#5cb4a4",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 30064,
+  "name": "IconsGreenSet_Give.png",
+  "lastModified": "2020-04-15T18:08:36.267Z",
+  "status": "ready"
+}

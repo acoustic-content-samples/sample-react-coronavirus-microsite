@@ -1,0 +1,78 @@
+{
+  "rev": "2-2a5ca6b6daf0a89f6c6db2e73ff674fc",
+  "thumbnail": {
+    "id": "d54b9636-e7dc-495e-a7e8-edce40836d01"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T12:41:04.665Z",
+  "libraryId": "default",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Account"
+  ],
+  "elements": {
+    "articleImage": {
+      "mode": "shared",
+      "profiles": [
+        "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+      ],
+      "asset": {
+        "id": "d54b9636-e7dc-495e-a7e8-edce40836d01"
+      },
+      "elementType": "image"
+    },
+    "articleDate": {
+      "elementType": "datetime",
+      "value": "2020-04-14T17:00:00Z"
+    },
+    "articleCategories": {
+      "categoryIds": [
+        "19f57336-3e2d-4948-9200-5d91aed618f0",
+        "7153acc7-d5d5-4c36-8e93-1a5d704b170e"
+      ],
+      "elementType": "category"
+    },
+    "articleVideo": {
+      "elementType": "video"
+    },
+    "articleSummary": {
+      "elementType": "text",
+      "value": "Now is a great time to sign up for paperless statements, so that you can reduce the need to get your mail and it will be sent to you immediately, rather than waiting to receive a paper statement. It is easy to sign up, just log in to your account from our website or from our mobile app."
+    },
+    "articleTitle": {
+      "elementType": "text",
+      "value": "Paperless Statements"
+    },
+    "topUpdate": {
+      "elementType": "toggle",
+      "value": false
+    },
+    "listViewImage": {
+      "mode": "shared",
+      "profiles": [
+        "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+      ],
+      "asset": {
+        "id": "88274454-816d-44fc-ac50-81e641f6b442"
+      },
+      "elementType": "image"
+    },
+    "articleText": {
+      "values": [
+        "<p>Now is a great time to sign up for paperless statements, so that you can reduce the need to get your mail and it will be sent to you immediately, rather than waiting to receive a paper statement. It is easy to sign up, just log in to your account from our website or from our mobile app.</p>\n"
+      ],
+      "elementType": "formattedtext"
+    }
+  },
+  "name": "Sample: paperless statements",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "id": "b03ad018-0684-49d3-b44f-d01e26c7b6ff",
+  "lastModified": "2020-04-15T12:53:15.687Z",
+  "systemModified": "2020-04-15T12:53:15.687Z",
+  "status": "ready"
+}

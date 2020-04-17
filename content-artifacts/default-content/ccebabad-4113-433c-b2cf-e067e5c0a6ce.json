@@ -1,0 +1,26 @@
+{
+  "rev": "3-ef14b41feed722cacb4675f4f732e55e",
+  "keywords": [],
+  "created": "2020-04-10T07:28:45.040Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "default-content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link"
+    }
+  },
+  "name": "Facebook",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "typeId": "013e3bab-f6b3-4f8c-9630-3f43a885c0de",
+  "id": "ccebabad-4113-433c-b2cf-e067e5c0a6ce",
+  "lastModified": "2020-04-10T07:29:02.012Z",
+  "systemModified": "2020-04-10T07:29:02.012Z",
+  "status": "ready"
+}

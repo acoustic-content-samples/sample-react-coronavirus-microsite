@@ -1,0 +1,107 @@
+{
+  "id": "14b10af1-f907-43eb-8acd-504761b38097",
+  "rev": "27-1e9e90aa9d9e32a91e82f2927f5eeb96",
+  "name": "COVID Update",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "articleImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Article Title",
+      "key": "articleTitle",
+      "required": true,
+      "minLength": 1
+    },
+    {
+      "elementType": "category",
+      "label": "articleCategories",
+      "key": "articleCategories",
+      "restrictedParents": [
+        "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "searchKey": "string2"
+    },
+    {
+      "elementType": "toggle",
+      "label": "Top Update",
+      "key": "topUpdate",
+      "helpText": "Determine if this article should be classified as a Top Update on the home page",
+      "searchKey": "boolean1"
+    },
+    {
+      "elementType": "datetime",
+      "fieldType": "date-time",
+      "label": "Article Date",
+      "key": "articleDate",
+      "required": true,
+      "searchKey": "sortableDate1"
+    },
+    {
+      "elementType": "image",
+      "label": "Article Image",
+      "key": "articleImage",
+      "required": false,
+      "imageProfileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "video",
+      "label": "Article Video",
+      "key": "articleVideo"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Article Text",
+      "key": "articleText",
+      "required": true,
+      "placeholder": {
+        "show": true,
+        "text": "Article text goes here."
+      },
+      "allowMultipleValues": true,
+      "minimumValues": 1,
+      "fieldLabel": "Formatted Text"
+    },
+    {
+      "elementType": "text",
+      "label": "Article Summary",
+      "key": "articleSummary",
+      "required": true,
+      "minLength": 1,
+      "placeholder": {
+        "show": true,
+        "text": "Description for summary level view."
+      },
+      "displayType": "multiLine",
+      "displayHeight": 5
+    },
+    {
+      "elementType": "image",
+      "label": "List View Image",
+      "key": "listViewImage",
+      "imageProfileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "fileName": "IconsRedSet_Give.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "9a10eb8a-a7ca-4119-b815-9f224291ba3d",
+  "path": "/dxdam/32/32fc6214-8b27-454d-aa6c-0c9ec86021b0/IconsRedSet_Give.png",
+  "digest": "GBTbwsmHgPEieHKjTiQ5gg==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=9e7f833c-7b9d-480a-a80d-2ba3c20da71a&a=32fc6214-8b27-454d-aa6c-0c9ec86021b0",
+      "source": "/authoring/v1/resources/9e7f833c-7b9d-480a-a80d-2ba3c20da71a"
+    }
+  },
+  "id": "32fc6214-8b27-454d-aa6c-0c9ec86021b0",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:07:36.181Z",
+  "profileRenditions": [],
+  "rev": "2-b60d8d8842d3d63fa1d1a46f5a07b6e2",
+  "altText": "",
+  "resource": "9e7f833c-7b9d-480a-a80d-2ba3c20da71a",
+  "created": "2020-04-10T17:04:17.328Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:L-plate (learners plate for car)",
+      "classification:heart",
+      "classification:figure",
+      "classification:magnetic stripe",
+      "classification:memory device",
+      "classification:mouthpiece",
+      "classification:key",
+      "classification:tool",
+      "classification:alizarine red color"
+    ],
+    "declined": [
+      "classification:L-plate (learners plate for car)",
+      "classification:heart",
+      "classification:figure",
+      "classification:magnetic stripe",
+      "classification:memory device",
+      "classification:mouthpiece",
+      "classification:key",
+      "classification:tool",
+      "classification:alizarine red color"
+    ],
+    "values": [
+      "user:red",
+      "user:give",
+      "user:donation",
+      "user:red color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "L-plate (learners plate for car)",
+      "heart",
+      "figure",
+      "magnetic stripe",
+      "memory device",
+      "mouthpiece",
+      "key",
+      "tool",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#951503",
+      "darkMuted": "#90080e",
+      "lightVibrant": "#fc8c7c",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#c40c14"
+    },
+    "status": "complete"
+  },
+  "fileSize": 29896,
+  "name": "IconsRedSet_Give.png",
+  "lastModified": "2020-04-15T18:07:36.181Z",
+  "status": "ready"
+}

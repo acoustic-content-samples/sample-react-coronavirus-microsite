@@ -1,0 +1,96 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Schedule.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "919f8e5d-6765-4beb-a74c-e3805aacea25",
+  "path": "/dxdam/fa/faf0f230-73e2-4af5-bf39-008e30e569bb/IconsOrangeSet_Connection_Schedule.png",
+  "digest": "+j3SH2hmt7tSCY8EujDTIg==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=81109a22-d52f-434a-8a7c-bfa39af06ec0&a=faf0f230-73e2-4af5-bf39-008e30e569bb",
+      "source": "/authoring/v1/resources/81109a22-d52f-434a-8a7c-bfa39af06ec0"
+    }
+  },
+  "id": "faf0f230-73e2-4af5-bf39-008e30e569bb",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:07:47.707Z",
+  "profileRenditions": [],
+  "rev": "2-bcc0d1becc6380d29a1123ababdb6de4",
+  "altText": "",
+  "resource": "81109a22-d52f-434a-8a7c-bfa39af06ec0",
+  "created": "2020-04-10T17:10:58.804Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)",
+      "classification:spectrum of colors",
+      "classification:game equipment",
+      "classification:orange color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)",
+      "classification:spectrum of colors",
+      "classification:game equipment",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "classification:orange color",
+      "user:schedule",
+      "user:orange"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "quadrate",
+      "polygon",
+      "figure",
+      "L-plate (learners plate for car)",
+      "spectrum of colors",
+      "game equipment",
+      "orange color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#955e03",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fccc7c",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 26356,
+  "name": "IconsOrangeSet_Connection_Schedule.png",
+  "lastModified": "2020-04-15T18:07:47.707Z",
+  "status": "ready"
+}

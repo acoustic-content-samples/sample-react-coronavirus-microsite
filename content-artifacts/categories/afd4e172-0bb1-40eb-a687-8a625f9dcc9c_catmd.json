@@ -1,0 +1,21 @@
+{
+  "id": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "rev": "4-53e37509365e41cba236c67f52f1eccf",
+  "name": "Content Categories",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "Content Categories"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T01:19:05.121Z",
+  "lastModified": "2020-04-09T13:10:23.798Z"
+}

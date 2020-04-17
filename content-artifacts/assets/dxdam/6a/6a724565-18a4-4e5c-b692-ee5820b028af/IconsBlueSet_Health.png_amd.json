@@ -1,0 +1,82 @@
+{
+  "fileName": "IconsBlueSet_Health.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "66880126-d7bd-4d3c-8fae-47cd98fa7afb",
+  "path": "/dxdam/6a/6a724565-18a4-4e5c-b692-ee5820b028af/IconsBlueSet_Health.png",
+  "digest": "qVtx5uxj5ikYu9jHOcnn6Q==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=9781fb92-b029-4a72-93aa-b12730d09b01&a=6a724565-18a4-4e5c-b692-ee5820b028af",
+      "source": "/authoring/v1/resources/9781fb92-b029-4a72-93aa-b12730d09b01"
+    }
+  },
+  "id": "6a724565-18a4-4e5c-b692-ee5820b028af",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:09:00.127Z",
+  "profileRenditions": [],
+  "rev": "2-811373f3766567637116fb667895f62f",
+  "altText": "",
+  "resource": "9781fb92-b029-4a72-93aa-b12730d09b01",
+  "created": "2020-04-10T17:21:04.280Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious symbol",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "declined": [
+      "classification:religious symbol",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "values": [
+      "user:health",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious symbol",
+      "blue color",
+      "ultramarine color"
+    ],
+    "colors": {
+      "lightMuted": "#0a6d8e",
+      "darkMuted": "#034995",
+      "lightVibrant": "#89dbf6",
+      "vibrant": "#045cb3",
+      "muted": "#034c95",
+      "darkVibrant": "#045cbc"
+    },
+    "status": "complete"
+  },
+  "fileSize": 19650,
+  "name": "IconsBlueSet_Health.png",
+  "lastModified": "2020-04-15T18:09:00.127Z",
+  "status": "ready"
+}

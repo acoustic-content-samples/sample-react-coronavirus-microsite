@@ -1,0 +1,104 @@
+{
+  "fileName": "remote_customer_service_sample.jpg",
+  "metadata": {
+    "width": 3302,
+    "height": 4953
+  },
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "caption": "",
+  "mediaId": "11113334-57d9-4c30-bcf8-fd95709500b2",
+  "path": "/dxdam/1e/1e43b0e8-98df-4a46-81b0-beea938edf9d/remote_customer_service_sample.jpg",
+  "digest": "kWB0FyR9F7EO+H+Du1LUCQ==",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "renditions": {
+    "default": {
+      "id": "r=fc92954f-7246-4fb1-92b6-3d3d98ad70d9&a=1e43b0e8-98df-4a46-81b0-beea938edf9d",
+      "source": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9"
+    }
+  },
+  "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-15T02:58:45.067Z",
+  "profileRenditions": [
+    {
+      "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "key": "article",
+      "transform": {
+        "scale": 0.24984857662023016,
+        "crop": {
+          "x": 0,
+          "y": 734,
+          "width": 825,
+          "height": 320
+        }
+      },
+      "uri": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9?resize=825px:1237px&crop=825:320;0,734",
+      "width": 825,
+      "height": 320
+    }
+  ],
+  "rev": "1-a06350b280256fca96fb6342c3c8a94e",
+  "altText": "",
+  "resource": "fc92954f-7246-4fb1-92b6-3d3d98ad70d9",
+  "created": "2020-04-15T02:52:13.821Z",
+  "profiles": [
+    "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+  ],
+  "mediaType": "image/jpeg",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:double bed",
+      "classification:bed",
+      "classification:furniture",
+      "classification:hospital bed",
+      "classification:bedside",
+      "classification:indoors",
+      "classification:ash grey color",
+      "classification:sage green color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:double bed",
+      "classification:bed",
+      "classification:furniture",
+      "classification:hospital bed",
+      "classification:bedside",
+      "classification:indoors",
+      "classification:ash grey color",
+      "classification:sage green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "double bed",
+      "bed",
+      "furniture",
+      "hospital bed",
+      "bedside",
+      "indoors",
+      "ash grey color",
+      "sage green color"
+    ],
+    "colors": {
+      "lightMuted": "#bcb4c4",
+      "darkMuted": "#51443f",
+      "lightVibrant": "#bcb4c4",
+      "vibrant": "#7f708e",
+      "muted": "#81797e",
+      "darkVibrant": "#423a4a"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1908671,
+  "name": "remote_customer_service_sample.jpg",
+  "lastModified": "2020-04-15T02:58:45.067Z",
+  "status": "ready"
+}

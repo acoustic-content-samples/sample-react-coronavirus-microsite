@@ -1,0 +1,114 @@
+{
+  "fileName": "IconsYellowSet_Safety.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "2bb7f18f-7e50-4849-a8e6-80c080a2b0dd",
+  "path": "/dxdam/60/60601244-205e-4561-a3fe-3d4634f6b43c/IconsYellowSet_Safety.png",
+  "digest": "BH4gxDOMgAcicb2ZqnlzBw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1&a=60601244-205e-4561-a3fe-3d4634f6b43c",
+      "source": "/authoring/v1/resources/c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1"
+    }
+  },
+  "id": "60601244-205e-4561-a3fe-3d4634f6b43c",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:11:36.790Z",
+  "profileRenditions": [],
+  "rev": "2-3c3f055e42deb2176e2c8d4d424bcac8",
+  "altText": "",
+  "resource": "c360fd23-d7f3-4dee-bc02-a3dda7ac3bd1",
+  "created": "2020-04-10T17:00:14.667Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:earplug",
+      "classification:plug",
+      "classification:baby bottle cap",
+      "classification:cap",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:safety pin",
+      "classification:pin",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:sash fastener",
+      "classification:lock",
+      "classification:yellow color",
+      "classification:lemon yellow color"
+    ],
+    "declined": [
+      "classification:earplug",
+      "classification:plug",
+      "classification:baby bottle cap",
+      "classification:cap",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:safety pin",
+      "classification:pin",
+      "classification:fastener",
+      "classification:restraint (chains)",
+      "classification:sash fastener",
+      "classification:lock",
+      "classification:lemon yellow color"
+    ],
+    "values": [
+      "classification:yellow color",
+      "user:yellow",
+      "user:safety"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "earplug",
+      "plug",
+      "baby bottle cap",
+      "cap",
+      "fluorescent lamp",
+      "lamp",
+      "safety pin",
+      "pin",
+      "fastener",
+      "restraint (chains)",
+      "sash fastener",
+      "lock",
+      "yellow color",
+      "lemon yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#917e07",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f8e87f",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
+  },
+  "fileSize": 32629,
+  "name": "IconsYellowSet_Safety.png",
+  "lastModified": "2020-04-15T18:11:36.790Z",
+  "status": "ready"
+}

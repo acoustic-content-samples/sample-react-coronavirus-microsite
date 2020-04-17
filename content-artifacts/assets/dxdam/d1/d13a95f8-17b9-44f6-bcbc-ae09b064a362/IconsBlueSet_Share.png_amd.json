@@ -1,0 +1,138 @@
+{
+  "fileName": "Covid19_Content_BlueSet_Share.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "122d3851-fbdb-4d3a-96a6-eed9fbb4cd47",
+  "path": "/dxdam/d1/d13a95f8-17b9-44f6-bcbc-ae09b064a362/IconsBlueSet_Share.png",
+  "digest": "FXExq3t79yaVk2IskpDDgQ==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=846ccb89-840c-4845-8d45-27b385a21614&a=d13a95f8-17b9-44f6-bcbc-ae09b064a362",
+      "source": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614"
+    }
+  },
+  "id": "d13a95f8-17b9-44f6-bcbc-ae09b064a362",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T17:56:09.184Z",
+  "profileRenditions": [
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "tile",
+      "transform": {
+        "scale": 0.25487,
+        "crop": {
+          "x": 0,
+          "y": 159,
+          "width": 510,
+          "height": 192
+        }
+      },
+      "uri": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614?resize=510px:510px&crop=510:192;0,159",
+      "width": 510,
+      "height": 192
+    },
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "block",
+      "transform": {
+        "scale": 0.17491,
+        "crop": {
+          "x": 0,
+          "y": 55,
+          "width": 350,
+          "height": 240
+        }
+      },
+      "uri": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614?resize=350px:350px&crop=350:240;0,55",
+      "width": 350,
+      "height": 240
+    }
+  ],
+  "rev": "4-c82381a40cc298c8baf404e6e77c0fa2",
+  "altText": "",
+  "resource": "846ccb89-840c-4845-8d45-27b385a21614",
+  "created": "2020-04-10T17:21:06.646Z",
+  "profiles": [
+    "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:jack (electrical)",
+      "classification:recording",
+      "classification:push button",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:jack (electrical)",
+      "classification:recording",
+      "classification:push button",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:share",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "electric switch",
+      "controller",
+      "telephone jack",
+      "electrical device",
+      "jack (electrical)",
+      "recording",
+      "push button",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#027296",
+      "darkMuted": "#035395",
+      "lightVibrant": "#2ecafc",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#0464b4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 33437,
+  "name": "IconsBlueSet_Share.png",
+  "lastModified": "2020-04-15T17:56:09.184Z",
+  "status": "ready"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "f6a9e593-895d-4738-9618-9b611177e2f6",
+  "rev": "36-cc23710e212b488eeb05a08629fd8d8e",
+  "name": "Style Guide",
+  "classification": "content-type",
+  "kind": [],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Title text",
+      "key": "titleText",
+      "placeholder": {
+        "show": true,
+        "text": "#3C3C3C"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Body text",
+      "key": "bodyText",
+      "placeholder": {
+        "show": true,
+        "text": "#4F4F4F"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Text on image",
+      "key": "textOnImage",
+      "placeholder": {
+        "show": true,
+        "text": "#FFFFFF"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Link",
+      "key": "link",
+      "placeholder": {
+        "show": true,
+        "text": "#245DAD"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Background",
+      "key": "background",
+      "placeholder": {
+        "show": true,
+        "text": "#FFFFFF"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Background bottom",
+      "key": "backgroundBottom",
+      "placeholder": {
+        "show": true,
+        "text": "#F4F4F4"
+      }
+    },
+    {
+      "elementType": "category",
+      "label": "Font Family",
+      "key": "fontFamily",
+      "restrictedParents": [
+        "38f8dea6-5055-4e3f-9093-3306c6831bde"
+      ]
+    }
+  ]
+}

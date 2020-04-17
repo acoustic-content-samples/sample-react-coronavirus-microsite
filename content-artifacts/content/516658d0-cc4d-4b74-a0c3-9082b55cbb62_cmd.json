@@ -1,0 +1,64 @@
+{
+  "rev": "10-9d2c634fa222473d3bcb86d99250d632",
+  "thumbnail": {
+    "id": "044b46a7-b466-4e63-822f-0712939d7378"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-10T07:36:57.554Z",
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "companylogo": {
+      "mode": "shared",
+      "asset": {
+        "id": "044b46a7-b466-4e63-822f-0712939d7378"
+      },
+      "elementType": "image"
+    },
+    "siteTitle": {
+      "elementType": "text",
+      "value": "COVID-19 Response Center"
+    },
+    "emailAddress": {
+      "elementType": "text",
+      "value": "support@email.com"
+    },
+    "socialMediaNetworks": {
+      "values": [
+        {
+          "id": "0ff1020f-9c4c-4048-8584-d5b786a3b717"
+        },
+        {
+          "id": "0325c1c7-c944-49ac-b292-846bec232fa8"
+        },
+        {
+          "id": "50be3371-e153-477d-bc43-19c872c2caee"
+        }
+      ],
+      "elementType": "reference"
+    },
+    "contactNumber": {
+      "elementType": "text",
+      "value": "1 555-555-5555"
+    },
+    "favicon": {
+      "mode": "shared",
+      "asset": {
+        "id": "08d56d58-52dc-4b73-a62a-d732fde4d2c2"
+      },
+      "elementType": "image"
+    }
+  },
+  "name": "Company Information",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "44391995-a017-4946-b6dd-98509014c8ec",
+  "id": "516658d0-cc4d-4b74-a0c3-9082b55cbb62",
+  "lastModified": "2020-04-15T17:08:26.337Z",
+  "systemModified": "2020-04-15T17:08:26.337Z",
+  "status": "ready"
+}

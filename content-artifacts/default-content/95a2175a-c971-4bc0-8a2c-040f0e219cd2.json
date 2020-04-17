@@ -1,0 +1,35 @@
+{
+  "rev": "6-24d732830e7237c2da1a3e1ca0858da7",
+  "keywords": [],
+  "created": "2020-04-10T07:34:25.560Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "default-content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "companylogo": {
+      "elementType": "image"
+    },
+    "contactNumber": {
+      "elementType": "text"
+    },
+    "emailAddress": {
+      "elementType": "text"
+    },
+    "socialMediaNetworks": {
+      "values": [
+        {},
+        {}
+      ],
+      "elementType": "reference"
+    }
+  },
+  "name": "Company Information",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "typeId": "44391995-a017-4946-b6dd-98509014c8ec",
+  "id": "95a2175a-c971-4bc0-8a2c-040f0e219cd2",
+  "lastModified": "2020-04-11T22:52:32.504Z",
+  "systemModified": "2020-04-11T22:52:32.504Z",
+  "status": "ready"
+}

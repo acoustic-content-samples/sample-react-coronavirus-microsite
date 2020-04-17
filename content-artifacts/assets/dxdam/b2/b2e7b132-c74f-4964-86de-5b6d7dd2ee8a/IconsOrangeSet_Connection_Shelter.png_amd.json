@@ -1,0 +1,99 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Shelter.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "c3192c0d-6ce3-441a-9d64-d8cb3e871878",
+  "path": "/dxdam/b2/b2e7b132-c74f-4964-86de-5b6d7dd2ee8a/IconsOrangeSet_Connection_Shelter.png",
+  "digest": "l5NOzTZawZi5xPgva921UA==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3&a=b2e7b132-c74f-4964-86de-5b6d7dd2ee8a",
+      "source": "/authoring/v1/resources/986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3"
+    }
+  },
+  "id": "b2e7b132-c74f-4964-86de-5b6d7dd2ee8a",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:14:44.612Z",
+  "profileRenditions": [],
+  "rev": "2-8eddd81cfc5bbd8ddfff7f2e84b2513b",
+  "altText": "",
+  "resource": "986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3",
+  "created": "2020-04-10T17:11:02.385Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:tetraskelion",
+      "classification:octagon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:eraser",
+      "classification:rubber eraser",
+      "classification:tangram (chinese puzzle)",
+      "classification:reddish orange color",
+      "classification:orange color"
+    ],
+    "declined": [
+      "classification:tetraskelion",
+      "classification:octagon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:eraser",
+      "classification:rubber eraser",
+      "classification:tangram (chinese puzzle)",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "classification:orange color",
+      "user:orange",
+      "user:shelter"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "tetraskelion",
+      "octagon",
+      "polygon",
+      "figure",
+      "eraser",
+      "rubber eraser",
+      "tangram (chinese puzzle)",
+      "reddish orange color",
+      "orange color"
+    ],
+    "colors": {
+      "lightMuted": "#8e4c0a",
+      "darkMuted": "#913507",
+      "lightVibrant": "#f6be86",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 28937,
+  "name": "IconsOrangeSet_Connection_Shelter.png",
+  "lastModified": "2020-04-15T18:14:44.612Z",
+  "status": "ready"
+}

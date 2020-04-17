@@ -1,0 +1,36 @@
+{
+  "rev": "3-efba77b55cf6602fec5e16342625ea3e",
+  "thumbnail": {
+    "id": "de93b5d0-7bf4-4b21-8048-021546c9b65d"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-14T13:35:58.108Z",
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "de93b5d0-7bf4-4b21-8048-021546c9b65d"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "LinkedIn",
+      "linkURL": "www.linkedin.com"
+    }
+  },
+  "name": "LinkedIn",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "9d511325-3063-48af-8e15-753cc402bbd2",
+  "id": "50be3371-e153-477d-bc43-19c872c2caee",
+  "lastModified": "2020-04-15T00:24:47.998Z",
+  "systemModified": "2020-04-15T00:24:47.998Z",
+  "status": "ready"
+}

@@ -1,0 +1,138 @@
+{
+  "fileName": "Covid19_Content_BlueSet_News.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "7c248ac2-c15a-4fa9-880d-d9ffc8a361f2",
+  "path": "/dxdam/88/88274454-816d-44fc-ac50-81e641f6b442/IconsBlueSet_News.png",
+  "digest": "TVVM0mJb7USU2C/GUNNsfQ==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=9eeec5c6-2396-4de5-8eaa-3b5f41c16879&a=88274454-816d-44fc-ac50-81e641f6b442",
+      "source": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879"
+    }
+  },
+  "id": "88274454-816d-44fc-ac50-81e641f6b442",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:00:29.172Z",
+  "profileRenditions": [
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "tile",
+      "transform": {
+        "scale": 0.25487,
+        "crop": {
+          "x": 0,
+          "y": 159,
+          "width": 510,
+          "height": 192
+        }
+      },
+      "uri": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879?resize=510px:510px&crop=510:192;0,159",
+      "width": 510,
+      "height": 192
+    },
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "block",
+      "transform": {
+        "scale": 0.17491,
+        "crop": {
+          "x": 0,
+          "y": 55,
+          "width": 350,
+          "height": 240
+        }
+      },
+      "uri": "/authoring/v1/resources/9eeec5c6-2396-4de5-8eaa-3b5f41c16879?resize=350px:350px&crop=350:240;0,55",
+      "width": 350,
+      "height": 240
+    }
+  ],
+  "rev": "4-7dcd0bd25377339644241cdabd8539de",
+  "altText": "",
+  "resource": "9eeec5c6-2396-4de5-8eaa-3b5f41c16879",
+  "created": "2020-04-10T17:21:00.931Z",
+  "profiles": [
+    "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:microchip",
+      "classification:microprocessor",
+      "classification:light source",
+      "classification:figure",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:microchip",
+      "classification:microprocessor",
+      "classification:light source",
+      "classification:figure",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "values": [
+      "user:news",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "fluorescent lamp",
+      "lamp",
+      "microchip",
+      "microprocessor",
+      "light source",
+      "figure",
+      "blue color",
+      "ultramarine color"
+    ],
+    "colors": {
+      "lightMuted": "#057393",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#91e3fb",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 21902,
+  "name": "IconsBlueSet_News.png",
+  "lastModified": "2020-04-15T18:00:29.172Z",
+  "status": "ready"
+}

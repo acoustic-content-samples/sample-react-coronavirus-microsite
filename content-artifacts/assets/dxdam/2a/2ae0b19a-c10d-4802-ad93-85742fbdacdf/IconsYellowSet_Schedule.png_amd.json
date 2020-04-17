@@ -1,0 +1,96 @@
+{
+  "fileName": "IconsYellowSet_Schedule.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "436b4c13-2ef1-4fbc-ac19-e68f544ed451",
+  "path": "/dxdam/2a/2ae0b19a-c10d-4802-ad93-85742fbdacdf/IconsYellowSet_Schedule.png",
+  "digest": "TkOnnElS2Rm2GaIEO6SK9Q==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=9d5917c5-1b1c-48d1-9cd0-e332845cd019&a=2ae0b19a-c10d-4802-ad93-85742fbdacdf",
+      "source": "/authoring/v1/resources/9d5917c5-1b1c-48d1-9cd0-e332845cd019"
+    }
+  },
+  "id": "2ae0b19a-c10d-4802-ad93-85742fbdacdf",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:12:22.861Z",
+  "profileRenditions": [],
+  "rev": "2-1c8fb6d14a7f969a0e3f112e55e95b7b",
+  "altText": "",
+  "resource": "9d5917c5-1b1c-48d1-9cd0-e332845cd019",
+  "created": "2020-04-10T17:00:14.624Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)",
+      "classification:spectrum of colors",
+      "classification:memory device",
+      "classification:yellow color",
+      "classification:orange color"
+    ],
+    "declined": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)",
+      "classification:spectrum of colors",
+      "classification:memory device",
+      "classification:orange color"
+    ],
+    "values": [
+      "classification:yellow color",
+      "user:yellow",
+      "user:schedule"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "quadrate",
+      "polygon",
+      "figure",
+      "L-plate (learners plate for car)",
+      "spectrum of colors",
+      "memory device",
+      "yellow color",
+      "orange color"
+    ],
+    "colors": {
+      "lightMuted": "#958503",
+      "darkMuted": "#967302",
+      "lightVibrant": "#fcee7e",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
+  },
+  "fileSize": 26020,
+  "name": "IconsYellowSet_Schedule.png",
+  "lastModified": "2020-04-15T18:12:22.861Z",
+  "status": "ready"
+}

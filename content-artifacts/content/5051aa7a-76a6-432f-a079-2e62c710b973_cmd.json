@@ -1,0 +1,57 @@
+{
+  "rev": "4-f75df8f75096f8b6bf58f8aa370bb5a9",
+  "thumbnail": {
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T01:39:24.083Z",
+  "libraryId": "default",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Mobile",
+    "user:Account",
+    "user:Online"
+  ],
+  "elements": {
+    "question": {
+      "elementType": "text",
+      "value": "How do I sign up for Mobile Banking?"
+    },
+    "referenceLinkUrls": {
+      "elementType": "link",
+      "values": [
+        {
+          "linkText": "Apple app store",
+          "linkURL": "https://www.apple.com/ios/app-store/"
+        }
+      ]
+    },
+    "response": {
+      "elementType": "formattedtext",
+      "value": "<p>Our mobile application is the best way to bank with us remotely. You can download our application by visiting our website or finding us in the App store. You will need to confirm your email or phone number and provide information from your statement, or you can call us to verify your identity to gain access.</p>\n"
+    },
+    "faqCategories": {
+      "categoryIds": [
+        "0e0eecee-724e-4544-b3c6-de7bd356889d",
+        "7153acc7-d5d5-4c36-8e93-1a5d704b170e",
+        "19f57336-3e2d-4948-9200-5d91aed618f0"
+      ],
+      "elementType": "category"
+    },
+    "topItem": {
+      "elementType": "toggle",
+      "value": true
+    }
+  },
+  "name": "Sample: Mobile banking",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
+  "id": "5051aa7a-76a6-432f-a079-2e62c710b973",
+  "lastModified": "2020-04-15T13:52:17.873Z",
+  "systemModified": "2020-04-15T13:52:17.873Z",
+  "status": "ready"
+}

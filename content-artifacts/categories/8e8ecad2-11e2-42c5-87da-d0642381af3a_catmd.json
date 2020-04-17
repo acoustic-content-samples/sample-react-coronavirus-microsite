@@ -1,0 +1,30 @@
+{
+  "id": "8e8ecad2-11e2-42c5-87da-d0642381af3a",
+  "rev": "1-f6fa8e65ab012d55cc83947b615c279e",
+  "name": "Google Fonts",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creator": "David Klages",
+  "classification": "category",
+  "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
+  "parent": "38f8dea6-5055-4e3f-9093-3306c6831bde",
+  "ancestorIds": [
+    "38f8dea6-5055-4e3f-9093-3306c6831bde"
+  ],
+  "namePath": [
+    "Fonts",
+    "Google Fonts"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/8e8ecad2-11e2-42c5-87da-d0642381af3a"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
+    }
+  },
+  "created": "2020-04-14T23:08:18.960Z",
+  "lastModified": "2020-04-14T23:08:18.960Z"
+}

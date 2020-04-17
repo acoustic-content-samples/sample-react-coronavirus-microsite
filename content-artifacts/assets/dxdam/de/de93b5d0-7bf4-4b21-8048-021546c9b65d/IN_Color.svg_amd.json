@@ -1,0 +1,51 @@
+{
+  "fileName": "IN_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "76b4bac6-4b66-4664-b462-38a8cdd1de5e",
+  "path": "/dxdam/de/de93b5d0-7bf4-4b21-8048-021546c9b65d/IN_Color.svg",
+  "digest": "a/GJaBDdUunCan9gUtVB3A==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=03aeafe7-d448-40bb-84b1-50f22886ee97&a=de93b5d0-7bf4-4b21-8048-021546c9b65d",
+      "source": "/authoring/v1/resources/03aeafe7-d448-40bb-84b1-50f22886ee97"
+    }
+  },
+  "id": "de93b5d0-7bf4-4b21-8048-021546c9b65d",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:48:53.514Z",
+  "profileRenditions": [],
+  "rev": "2-63803fcd9cbf84b36c465f5f9ec55e0b",
+  "altText": "",
+  "resource": "03aeafe7-d448-40bb-84b1-50f22886ee97",
+  "created": "2020-04-10T06:55:01.044Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:LinkedIn"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "09f2d993-4934-451c-963d-4b36cbb971ad"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 1064,
+  "name": "IN_Color.svg",
+  "lastModified": "2020-04-11T22:48:53.514Z",
+  "status": "ready"
+}

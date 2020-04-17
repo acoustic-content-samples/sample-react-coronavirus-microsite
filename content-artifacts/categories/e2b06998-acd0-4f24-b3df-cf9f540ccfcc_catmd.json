@@ -1,0 +1,32 @@
+{
+  "id": "e2b06998-acd0-4f24-b3df-cf9f540ccfcc",
+  "rev": "4-b9ea19591d0eac7057fa96986d469bc2",
+  "name": "Times New Roman, Times, serif",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creator": "David Klages",
+  "classification": "category",
+  "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
+  "parent": "59064278-e07d-4990-b16c-c43452409e86",
+  "ancestorIds": [
+    "38f8dea6-5055-4e3f-9093-3306c6831bde",
+    "59064278-e07d-4990-b16c-c43452409e86"
+  ],
+  "namePath": [
+    "Fonts",
+    "Serif",
+    "Times New Roman, Times, serif"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/e2b06998-acd0-4f24-b3df-cf9f540ccfcc"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/59064278-e07d-4990-b16c-c43452409e86"
+    }
+  },
+  "created": "2020-04-08T19:41:12.031Z",
+  "lastModified": "2020-04-08T21:40:22.447Z"
+}

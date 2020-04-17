@@ -1,0 +1,20 @@
+{
+  "name": "Configurable Fixed Site Components",
+  "lastModified": "2020-04-14T22:29:16.562Z",
+  "description": "Modify these content items to configure the site, but do not delete or replace them, as these are directly connected to components on the site.",
+  "tags": [],
+  "owners": [
+    {
+      "id": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d"
+    }
+  ],
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "systemModified": "2020-04-14T22:29:16.562Z",
+  "rev": "9-f44b7b5021a47a7abb42d99684b7378a",
+  "id": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "classification": "library",
+  "contributors": [],
+  "created": "2020-04-14T13:55:01.561Z",
+  "access": "public"
+}

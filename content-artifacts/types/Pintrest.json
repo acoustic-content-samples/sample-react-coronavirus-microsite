@@ -1,0 +1,31 @@
+{
+  "id": "457e97ef-3fdc-4281-868d-b7382b286b19",
+  "rev": "4-218a8450419b3d171f6f37889e496b5a",
+  "name": "Pintrest",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "socialIcon",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "Pintrest"
+  ],
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "social icon",
+      "key": "socialIcon"
+    },
+    {
+      "elementType": "link",
+      "label": "Social Link",
+      "key": "socialLink"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "fileName": "IconsBlueSet_Location.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "35b6f166-d94b-4626-ad59-4e310c1a0151",
+  "path": "/dxdam/dc/dc0a0720-072f-418f-af71-0598f39a8e8e/IconsBlueSet_Location.png",
+  "digest": "bjDmMwFflJVi1S647s5LzQ==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=cd8941a1-5f1f-498f-a3c1-06299f911951&a=dc0a0720-072f-418f-af71-0598f39a8e8e",
+      "source": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951"
+    }
+  },
+  "id": "dc0a0720-072f-418f-af71-0598f39a8e8e",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:01:30.986Z",
+  "profileRenditions": [
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "tile",
+      "transform": {
+        "scale": 0.25487,
+        "crop": {
+          "x": 0,
+          "y": 159,
+          "width": 510,
+          "height": 192
+        }
+      },
+      "uri": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951?resize=510px:510px&crop=510:192;0,159",
+      "width": 510,
+      "height": 192
+    },
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "block",
+      "transform": {
+        "scale": 0.17491,
+        "crop": {
+          "x": 0,
+          "y": 55,
+          "width": 350,
+          "height": 240
+        }
+      },
+      "uri": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951?resize=350px:350px&crop=350:240;0,55",
+      "width": 350,
+      "height": 240
+    }
+  ],
+  "rev": "3-c299a5b682c19eca8b28746d83d8adb4",
+  "altText": "",
+  "resource": "cd8941a1-5f1f-498f-a3c1-06299f911951",
+  "created": "2020-04-10T17:21:06.141Z",
+  "profiles": [
+    "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:adhesive plaster",
+      "classification:motel",
+      "classification:hotel",
+      "classification:building",
+      "classification:medical dressing",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:adhesive plaster",
+      "classification:motel",
+      "classification:hotel",
+      "classification:building",
+      "classification:medical dressing",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:location",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "adhesive plaster",
+      "motel",
+      "hotel",
+      "building",
+      "medical dressing",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#067592",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#80e0f9",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 35350,
+  "name": "IconsBlueSet_Location.png",
+  "lastModified": "2020-04-15T18:01:30.986Z",
+  "status": "ready"
+}

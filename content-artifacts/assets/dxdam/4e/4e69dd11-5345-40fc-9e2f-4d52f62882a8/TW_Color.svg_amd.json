@@ -1,0 +1,51 @@
+{
+  "fileName": "TW_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "07f68154-2d50-437b-ad7b-749cf796058f",
+  "path": "/dxdam/4e/4e69dd11-5345-40fc-9e2f-4d52f62882a8/TW_Color.svg",
+  "digest": "M6awxvVq6v6/cS243rnNGA==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=aa1c4fce-9e1a-4aee-a2ec-42163036840c&a=4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+      "source": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+    }
+  },
+  "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:50:34.755Z",
+  "profileRenditions": [],
+  "rev": "2-13a9a1b401f32a1f078d4da1366178fc",
+  "altText": "",
+  "resource": "aa1c4fce-9e1a-4aee-a2ec-42163036840c",
+  "created": "2020-04-10T06:55:06.164Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Twitter"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "c69878e1-c27c-475c-8c4c-81ab2451a074"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 825,
+  "name": "TW_Color.svg",
+  "lastModified": "2020-04-11T22:50:34.755Z",
+  "status": "ready"
+}

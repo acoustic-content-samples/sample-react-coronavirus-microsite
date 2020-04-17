@@ -1,0 +1,147 @@
+{
+  "fileName": "IconsBlueSet_Safety.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "bd95a5b2-ff1e-47e7-bee7-1a52dc49b53c",
+  "path": "/dxdam/58/58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37/IconsBlueSet_Safety.png",
+  "digest": "Me9n+uc7QapvI7VvDhzahg==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=49bdbe6a-6121-48ea-9464-d10739d2bd5f&a=58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37",
+      "source": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f"
+    }
+  },
+  "id": "58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:01:57.525Z",
+  "profileRenditions": [
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "tile",
+      "transform": {
+        "scale": 0.25487,
+        "crop": {
+          "x": 0,
+          "y": 159,
+          "width": 510,
+          "height": 192
+        }
+      },
+      "uri": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f?resize=510px:510px&crop=510:192;0,159",
+      "width": 510,
+      "height": 192
+    },
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "block",
+      "transform": {
+        "scale": 0.17491,
+        "crop": {
+          "x": 0,
+          "y": 55,
+          "width": 350,
+          "height": 240
+        }
+      },
+      "uri": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f?resize=350px:350px&crop=350:240;0,55",
+      "width": 350,
+      "height": 240
+    }
+  ],
+  "rev": "3-aba927f640f3b934964a0857b7326d5e",
+  "altText": "",
+  "resource": "49bdbe6a-6121-48ea-9464-d10739d2bd5f",
+  "created": "2020-04-10T17:21:04.326Z",
+  "profiles": [
+    "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:clevis (coupler)",
+      "classification:mechanical device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:adhesive plaster",
+      "classification:open-end wrench",
+      "classification:wrench",
+      "classification:tool",
+      "classification:Stillson wrench",
+      "classification:adjustable wrench",
+      "classification:razorblade",
+      "classification:mechanism",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:clevis (coupler)",
+      "classification:mechanical device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:adhesive plaster",
+      "classification:open-end wrench",
+      "classification:wrench",
+      "classification:tool",
+      "classification:Stillson wrench",
+      "classification:adjustable wrench",
+      "classification:razorblade",
+      "classification:mechanism",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:safety",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "clevis (coupler)",
+      "mechanical device",
+      "fluorescent lamp",
+      "lamp",
+      "adhesive plaster",
+      "open-end wrench",
+      "wrench",
+      "tool",
+      "Stillson wrench",
+      "adjustable wrench",
+      "razorblade",
+      "mechanism",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#037595",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#8ce4fc",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 33351,
+  "name": "IconsBlueSet_Safety.png",
+  "lastModified": "2020-04-15T18:01:57.525Z",
+  "status": "ready"
+}

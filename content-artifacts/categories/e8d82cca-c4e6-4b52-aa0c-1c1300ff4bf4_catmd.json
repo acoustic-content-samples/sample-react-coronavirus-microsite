@@ -1,0 +1,30 @@
+{
+  "id": "e8d82cca-c4e6-4b52-aa0c-1c1300ff4bf4",
+  "rev": "1-d69f20e99bc8dea0e910531815955d83",
+  "name": "Scheduling",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creator": "Alex Sanielevici",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "Scheduling"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/e8d82cca-c4e6-4b52-aa0c-1c1300ff4bf4"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T14:26:48.606Z",
+  "lastModified": "2020-04-09T14:26:48.606Z"
+}

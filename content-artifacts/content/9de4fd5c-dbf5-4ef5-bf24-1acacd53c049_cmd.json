@@ -1,0 +1,51 @@
+{
+  "rev": "3-29041f82bee286a3b7a43297f41ce7da",
+  "thumbnail": {
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T01:53:26.687Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Appointments",
+    "user:Branch"
+  ],
+  "elements": {
+    "question": {
+      "elementType": "text",
+      "value": "How do I schedule a branch appointment?"
+    },
+    "referenceLinkUrls": {
+      "elementType": "link"
+    },
+    "response": {
+      "elementType": "formattedtext",
+      "value": "<p>You can schedule an appointment by calling your local branch. We are offering more appointments each day to reduce the amount of people in each branch at a time and we will accommodate same-day appointments.</p>\n"
+    },
+    "faqCategories": {
+      "categoryIds": [
+        "208fb064-20f3-4cb7-8b4b-435609fa482c",
+        "431db788-41ac-4c21-91cf-392cab835dfb",
+        "0e0eecee-724e-4544-b3c6-de7bd356889d",
+        "2f650b9a-5e08-474a-861a-a4c7e0e8b71d",
+        "19f57336-3e2d-4948-9200-5d91aed618f0"
+      ],
+      "elementType": "category"
+    },
+    "topItem": {
+      "elementType": "toggle",
+      "value": true
+    }
+  },
+  "name": "Sample: Appointments",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
+  "id": "9de4fd5c-dbf5-4ef5-bf24-1acacd53c049",
+  "lastModified": "2020-04-15T13:50:47.733Z",
+  "systemModified": "2020-04-15T13:50:47.733Z",
+  "status": "ready"
+}

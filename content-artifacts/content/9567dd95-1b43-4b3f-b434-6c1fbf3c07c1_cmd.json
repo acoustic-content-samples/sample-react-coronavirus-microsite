@@ -1,0 +1,77 @@
+{
+  "rev": "5-e5ba1be740c143789177657ccede3ac5",
+  "thumbnail": {
+    "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T02:23:07.957Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Local"
+  ],
+  "elements": {
+    "articleImage": {
+      "mode": "shared",
+      "profiles": [
+        "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+      ],
+      "asset": {
+        "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e"
+      },
+      "elementType": "image"
+    },
+    "articleDate": {
+      "elementType": "datetime",
+      "value": "2020-04-12T20:00:00Z"
+    },
+    "articleCategories": {
+      "categoryIds": [
+        "0e0eecee-724e-4544-b3c6-de7bd356889d",
+        "431db788-41ac-4c21-91cf-392cab835dfb"
+      ],
+      "elementType": "category"
+    },
+    "articleVideo": {
+      "elementType": "video"
+    },
+    "articleSummary": {
+      "elementType": "text",
+      "value": "We are donating cleaning supplies, hand sanitizer, gloves and masks to local essential workers in every local community where Instrumental Bank does business."
+    },
+    "articleTitle": {
+      "elementType": "text",
+      "value": "What Instrumental Bank is doing for local communities"
+    },
+    "topUpdate": {
+      "elementType": "toggle",
+      "value": true
+    },
+    "listViewImage": {
+      "mode": "shared",
+      "profiles": [
+        "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+      ],
+      "asset": {
+        "id": "dc0a0720-072f-418f-af71-0598f39a8e8e"
+      },
+      "elementType": "image"
+    },
+    "articleText": {
+      "values": [
+        "<p>We are donating cleaning supplies, hand sanitizer, gloves and masks to local essential workers in every local community where Instrumental Bank does business. For employees of an essential business or if you have been unemployed as a result of Coronavirus, we are allowing extension of bill payments due on loans for an additional 60 days for those who qualify. Reach out to your local branch for details. We will also be hosting free webinars with various subjects ranging from dealing with job loss, to what to do with your investments during times of crisis. We are here to help.</p>\n"
+      ],
+      "elementType": "formattedtext"
+    }
+  },
+  "name": "Sample: Local communities",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "id": "9567dd95-1b43-4b3f-b434-6c1fbf3c07c1",
+  "lastModified": "2020-04-15T12:55:05.933Z",
+  "systemModified": "2020-04-15T12:55:05.933Z",
+  "status": "ready"
+}

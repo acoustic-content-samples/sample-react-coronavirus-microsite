@@ -1,0 +1,110 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Give.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "a9b80b40-c3d1-445c-bff4-015e09cbb6e8",
+  "path": "/dxdam/10/10b0144c-8df1-4266-90b7-40f451cef3ff/IconsOrangeSet_Connection_Give.png",
+  "digest": "7NEqP50/wOG4cQwYvaGTtQ==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=0368f9fa-6cc9-4662-958f-b17635a1bc49&a=10b0144c-8df1-4266-90b7-40f451cef3ff",
+      "source": "/authoring/v1/resources/0368f9fa-6cc9-4662-958f-b17635a1bc49"
+    }
+  },
+  "id": "10b0144c-8df1-4266-90b7-40f451cef3ff",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:09:36.599Z",
+  "profileRenditions": [],
+  "rev": "2-6f8ca0898fada28505786444faf96711",
+  "altText": "",
+  "resource": "0368f9fa-6cc9-4662-958f-b17635a1bc49",
+  "created": "2020-04-10T17:10:55.961Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:mouthpiece",
+      "classification:key",
+      "classification:earplug",
+      "classification:plug",
+      "classification:L-plate (learners plate for car)",
+      "classification:whistle",
+      "classification:musical instrument",
+      "classification:tool",
+      "classification:alizarine red color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:telephone jack",
+      "classification:electrical device",
+      "classification:mouthpiece",
+      "classification:key",
+      "classification:earplug",
+      "classification:plug",
+      "classification:L-plate (learners plate for car)",
+      "classification:whistle",
+      "classification:musical instrument",
+      "classification:tool",
+      "classification:alizarine red color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:give",
+      "user:donation",
+      "user:orange",
+      "user:orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "telephone jack",
+      "electrical device",
+      "mouthpiece",
+      "key",
+      "earplug",
+      "plug",
+      "L-plate (learners plate for car)",
+      "whistle",
+      "musical instrument",
+      "tool",
+      "alizarine red color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#953703",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fcb48c",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 29689,
+  "name": "IconsOrangeSet_Connection_Give.png",
+  "lastModified": "2020-04-15T18:09:36.599Z",
+  "status": "ready"
+}

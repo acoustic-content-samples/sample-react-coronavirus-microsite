@@ -1,0 +1,51 @@
+{
+  "fileName": "ME_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "27bdf168-a791-45f8-bb9c-744c56ce80ec",
+  "path": "/dxdam/62/62abf398-8fcf-4c16-a3f6-5d8535997df0/ME_Color.svg",
+  "digest": "ci0Crz+WL8URzOAHIsPDRQ==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=a25a11b1-7b5e-404d-a453-e56d7504234c&a=62abf398-8fcf-4c16-a3f6-5d8535997df0",
+      "source": "/authoring/v1/resources/a25a11b1-7b5e-404d-a453-e56d7504234c"
+    }
+  },
+  "id": "62abf398-8fcf-4c16-a3f6-5d8535997df0",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:49:21.347Z",
+  "profileRenditions": [],
+  "rev": "2-4deb3ddbbf39ddea59acd5aedf16e55d",
+  "altText": "",
+  "resource": "a25a11b1-7b5e-404d-a453-e56d7504234c",
+  "created": "2020-04-10T06:55:01.071Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Medium"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "a449adac-7a87-4a8c-a762-26edf8759ac5"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 584,
+  "name": "ME_Color.svg",
+  "lastModified": "2020-04-11T22:49:21.347Z",
+  "status": "ready"
+}

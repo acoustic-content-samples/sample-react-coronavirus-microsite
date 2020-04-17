@@ -1,0 +1,22 @@
+{
+  "name": "Social Media Configuration",
+  "lastModified": "2020-04-14T14:26:31.205Z",
+  "description": "Includes all social media icons",
+  "tags": [
+    "social media"
+  ],
+  "owners": [
+    {
+      "id": "ab9f9ba5-3215-4f12-a053-2b2a9927311d"
+    }
+  ],
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "systemModified": "2020-04-14T14:26:31.205Z",
+  "rev": "3-8f2b13dfb6fd3a576b7d6e93636a5452",
+  "id": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "classification": "library",
+  "contributors": [],
+  "created": "2020-04-11T22:47:52.147Z",
+  "access": "public"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "526ab219-de68-4f1d-8b66-5007ffaafe74",
+  "rev": "6-4c997d6d577aefbb0e61e1e1fea27712",
+  "name": "Twitter",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "socialIcon",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "twitter"
+  ],
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "social icon",
+      "key": "socialIcon"
+    },
+    {
+      "elementType": "link",
+      "label": "Social Link",
+      "key": "socialLink"
+    }
+  ]
+}

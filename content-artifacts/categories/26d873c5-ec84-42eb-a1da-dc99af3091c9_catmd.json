@@ -1,0 +1,32 @@
+{
+  "id": "26d873c5-ec84-42eb-a1da-dc99af3091c9",
+  "rev": "2-228f9fb45c2e4c7fb4ff5b6168902175",
+  "name": "Verdana, Geneva, sans-serif",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creator": "David Klages",
+  "classification": "category",
+  "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
+  "parent": "04734168-ee3d-4942-8269-9578b554ed75",
+  "ancestorIds": [
+    "38f8dea6-5055-4e3f-9093-3306c6831bde",
+    "04734168-ee3d-4942-8269-9578b554ed75"
+  ],
+  "namePath": [
+    "Fonts",
+    "Sans-Serif",
+    "Verdana, Geneva, sans-serif"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/26d873c5-ec84-42eb-a1da-dc99af3091c9"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/04734168-ee3d-4942-8269-9578b554ed75"
+    }
+  },
+  "created": "2020-04-08T19:42:53.362Z",
+  "lastModified": "2020-04-08T21:40:16.253Z"
+}

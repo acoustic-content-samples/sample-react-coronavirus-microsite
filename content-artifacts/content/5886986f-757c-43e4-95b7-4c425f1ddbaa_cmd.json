@@ -1,0 +1,80 @@
+{
+  "rev": "4-95cf9cca5a68db185b5c6dc3bce5e991",
+  "thumbnail": {
+    "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T02:50:04.901Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Mobile",
+    "user:Account",
+    "user:Online"
+  ],
+  "elements": {
+    "articleImage": {
+      "mode": "shared",
+      "profiles": [
+        "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+      ],
+      "asset": {
+        "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d"
+      },
+      "elementType": "image"
+    },
+    "articleDate": {
+      "elementType": "datetime",
+      "value": "2020-04-13T21:00:00Z"
+    },
+    "articleCategories": {
+      "categoryIds": [
+        "431db788-41ac-4c21-91cf-392cab835dfb",
+        "208fb064-20f3-4cb7-8b4b-435609fa482c",
+        "dbc5f62e-763c-4787-9975-128054ee5761"
+      ],
+      "elementType": "category"
+    },
+    "articleVideo": {
+      "elementType": "video"
+    },
+    "articleSummary": {
+      "elementType": "text",
+      "value": "We are launching new features for our mobile app that include new budgeting tools, access to webinars, and remote appointment scheduling with a customer representative or a financial advisor."
+    },
+    "articleTitle": {
+      "elementType": "text",
+      "value": "Remote Customer Service"
+    },
+    "topUpdate": {
+      "elementType": "toggle",
+      "value": true
+    },
+    "listViewImage": {
+      "mode": "shared",
+      "profiles": [
+        "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+      ],
+      "asset": {
+        "id": "1aa7bef0-40ba-433d-93de-6d3dd5697fcc"
+      },
+      "elementType": "image"
+    },
+    "articleText": {
+      "values": [
+        "<p>We are launching new features for our mobile app that include new budgeting tools, access to webinars, and remote appointment scheduling with a customer representative or a financial advisor. We want to provide our customers with the most information about how to navigate this difficult time. We will be launching our first two webinars on April 21st for &#34;How to navigate unemployment&#34; and &#34;Investing in times of crisis&#34; where our customers can ask experts questions and get information.</p>\n"
+      ],
+      "elementType": "formattedtext"
+    }
+  },
+  "name": "Sample: Remote customer service",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "id": "5886986f-757c-43e4-95b7-4c425f1ddbaa",
+  "lastModified": "2020-04-15T12:54:42.826Z",
+  "systemModified": "2020-04-15T12:54:42.826Z",
+  "status": "ready"
+}

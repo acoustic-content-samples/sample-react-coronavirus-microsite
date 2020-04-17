@@ -1,0 +1,20 @@
+{
+  "id": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+  "rev": "12-cc54b0f9a6c573d2b773be053b71c385",
+  "name": "Update Article Profile",
+  "classification": "image-profile",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "created": "2020-04-10T17:35:29.077Z",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModified": "2020-04-10T17:40:54.854Z",
+  "tags": [],
+  "dimensions": [
+    {
+      "label": "Article",
+      "key": "article",
+      "width": 825,
+      "height": 320,
+      "description": "Main image for an update article"
+    }
+  ]
+}

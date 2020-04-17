@@ -1,0 +1,90 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Share.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "a333c7ce-decf-4597-a028-f3e6325592c4",
+  "path": "/dxdam/fb/fb1db8d2-bc23-4d13-bc2a-892e5610d1ca/IconsOrangeSet_Connection_Share.png",
+  "digest": "hCz+HGQLVeOP3tdASEfaVw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=ef24bd8d-b812-43da-b2f4-e5d2caba1564&a=fb1db8d2-bc23-4d13-bc2a-892e5610d1ca",
+      "source": "/authoring/v1/resources/ef24bd8d-b812-43da-b2f4-e5d2caba1564"
+    }
+  },
+  "id": "fb1db8d2-bc23-4d13-bc2a-892e5610d1ca",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:10:51.993Z",
+  "profileRenditions": [],
+  "rev": "2-353e46ecba85b4cd6895a3ca76027189",
+  "altText": "",
+  "resource": "ef24bd8d-b812-43da-b2f4-e5d2caba1564",
+  "created": "2020-04-10T17:11:01.311Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:electric switch",
+      "classification:controller",
+      "classification:electrical device",
+      "classification:push button",
+      "classification:reddish orange color",
+      "classification:orange color"
+    ],
+    "declined": [
+      "classification:electric switch",
+      "classification:controller",
+      "classification:electrical device",
+      "classification:push button",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "classification:orange color",
+      "user:orange",
+      "user:share"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "electric switch",
+      "controller",
+      "electrical device",
+      "push button",
+      "reddish orange color",
+      "orange color"
+    ],
+    "colors": {
+      "lightMuted": "#935505",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fbcc8f",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 32943,
+  "name": "IconsOrangeSet_Connection_Share.png",
+  "lastModified": "2020-04-15T18:10:51.993Z",
+  "status": "ready"
+}

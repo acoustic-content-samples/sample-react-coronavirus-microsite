@@ -1,0 +1,51 @@
+{
+  "rev": "3-c1f8795dac94acac288f0abb6fe881da",
+  "thumbnail": {
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T02:01:26.034Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Mobile",
+    "user:Account",
+    "user:Statement"
+  ],
+  "elements": {
+    "question": {
+      "elementType": "text",
+      "value": "How do I sign up for paperless statements?"
+    },
+    "referenceLinkUrls": {
+      "elementType": "link"
+    },
+    "response": {
+      "elementType": "formattedtext",
+      "value": "<p>You can sign up for paperless statements when you log in to your account through our website or mobile application and visit &#34;statements&#34; where you can adjust your settings.</p>\n"
+    },
+    "faqCategories": {
+      "categoryIds": [
+        "8820dfba-01a4-4676-86ea-aa895528b1f3",
+        "0e0eecee-724e-4544-b3c6-de7bd356889d",
+        "7153acc7-d5d5-4c36-8e93-1a5d704b170e",
+        "19f57336-3e2d-4948-9200-5d91aed618f0"
+      ],
+      "elementType": "category"
+    },
+    "topItem": {
+      "elementType": "toggle",
+      "value": false
+    }
+  },
+  "name": "Sample: Paperless statements",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "typeId": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
+  "id": "bb3b2549-857a-4795-9064-a7b7659a61d5",
+  "lastModified": "2020-04-15T13:51:08.196Z",
+  "systemModified": "2020-04-15T13:51:08.196Z",
+  "status": "ready"
+}

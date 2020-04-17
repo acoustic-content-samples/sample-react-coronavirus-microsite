@@ -1,0 +1,30 @@
+{
+  "id": "0e0eecee-724e-4544-b3c6-de7bd356889d",
+  "rev": "3-da8417ce4908dbe0e8780756b2a11372",
+  "name": "General",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creator": "Ryan Franciscus",
+  "classification": "category",
+  "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
+  "ancestorIds": [
+    "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+  ],
+  "namePath": [
+    "Content Categories",
+    "General"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/0e0eecee-724e-4544-b3c6-de7bd356889d"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+    }
+  },
+  "created": "2020-04-09T13:09:04.423Z",
+  "lastModified": "2020-04-09T13:09:04.423Z"
+}

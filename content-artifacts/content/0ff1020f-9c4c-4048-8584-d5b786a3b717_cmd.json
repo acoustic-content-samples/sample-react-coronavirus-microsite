@@ -1,0 +1,36 @@
+{
+  "rev": "5-da94637f703998164435e24f814b65cb",
+  "thumbnail": {
+    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-10T07:33:02.016Z",
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "Twitter",
+      "linkURL": "www.twitter.com"
+    }
+  },
+  "name": "Twitter",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "526ab219-de68-4f1d-8b66-5007ffaafe74",
+  "id": "0ff1020f-9c4c-4048-8584-d5b786a3b717",
+  "lastModified": "2020-04-15T00:23:43.612Z",
+  "systemModified": "2020-04-15T00:23:43.612Z",
+  "status": "ready"
+}

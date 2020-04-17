@@ -1,0 +1,81 @@
+{
+  "fileName": "IconsPurpleSet_Health.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "1d769903-1c6d-4d95-adfb-536002358c73",
+  "path": "/dxdam/cf/cf3ddf49-df95-4dfa-bd12-45fe9da1b81e/IconsPurpleSet_Health.png",
+  "digest": "uszHaMbYKw+o/G7QKvN+hg==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=ffa418bf-4cf4-4ffe-ab2d-912ae52261fa&a=cf3ddf49-df95-4dfa-bd12-45fe9da1b81e",
+      "source": "/authoring/v1/resources/ffa418bf-4cf4-4ffe-ab2d-912ae52261fa"
+    }
+  },
+  "id": "cf3ddf49-df95-4dfa-bd12-45fe9da1b81e",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:14:04.168Z",
+  "profileRenditions": [],
+  "rev": "2-7f90ea582a79fbcf6ec47dc3067c00db",
+  "altText": "",
+  "resource": "ffa418bf-4cf4-4ffe-ab2d-912ae52261fa",
+  "created": "2020-04-10T17:07:15.274Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious symbol",
+      "classification:figure",
+      "classification:purple color"
+    ],
+    "declined": [
+      "classification:religious symbol",
+      "classification:figure"
+    ],
+    "values": [
+      "classification:purple color",
+      "user:health",
+      "user:purple"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious symbol",
+      "figure",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#781d7b",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f5d9f6",
+      "vibrant": "#c480c4",
+      "muted": "#cc92cd",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 19640,
+  "name": "IconsPurpleSet_Health.png",
+  "lastModified": "2020-04-15T18:14:04.168Z",
+  "status": "ready"
+}

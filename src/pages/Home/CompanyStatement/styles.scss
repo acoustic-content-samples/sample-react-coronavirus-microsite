@@ -1,0 +1,41 @@
+
+.companyStatement{
+    padding-bottom:64px;
+}
+
+.statementTitle{
+  font-size: 24px;
+    font-family: 'TiemposFineMedium', 'Times New Roman', serif;
+    font-weight: 400;
+    margin-bottom:24px;
+}
+
+.statementBody{  
+  font-size: 16px;
+  font-family:'National2-Regular', Helvetica, Arial, sans-serif;
+  line-height:22px;
+}
+
+.leftSidebar{
+  @media screen and (max-width: 770px) {
+    display:none;
+  }
+  @media screen and (min-width:780px){
+    display:block;
+  }
+}
+
+.rightSidebar{
+  @media screen and (max-width: 764px) {
+    display:none;
+  }
+  @media screen and (min-width:780px){
+    display:block;
+  }
+}
+
+@media (max-width: 768px) {
+  .companyStatement{
+    text-align: center;
+  }
+}

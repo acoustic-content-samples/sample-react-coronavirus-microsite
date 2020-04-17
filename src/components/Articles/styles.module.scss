@@ -1,0 +1,11 @@
+.articles {
+  display: flex;
+  flex-wrap: wrap;
+  @media screen and (min-width: 1281px){
+
+  }
+  @media screen and (max-width: 767px) {
+    flex-wrap: nowrap;
+    flex-direction: column;
+  }
+}

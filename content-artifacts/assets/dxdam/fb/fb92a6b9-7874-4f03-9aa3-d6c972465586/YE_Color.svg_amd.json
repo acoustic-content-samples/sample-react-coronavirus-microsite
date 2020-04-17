@@ -1,0 +1,51 @@
+{
+  "fileName": "YE_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "13df4737-90fc-4b08-bf24-daa8b350f454",
+  "path": "/dxdam/fb/fb92a6b9-7874-4f03-9aa3-d6c972465586/YE_Color.svg",
+  "digest": "YOYzdQ0SXuSdvQ24PATMqA==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=d751f48f-a835-4e11-b3f6-e3a6dd7341c6&a=fb92a6b9-7874-4f03-9aa3-d6c972465586",
+      "source": "/authoring/v1/resources/d751f48f-a835-4e11-b3f6-e3a6dd7341c6"
+    }
+  },
+  "id": "fb92a6b9-7874-4f03-9aa3-d6c972465586",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:49:34.707Z",
+  "profileRenditions": [],
+  "rev": "2-918505af879d017885d30efd5c1a0cc6",
+  "altText": "",
+  "resource": "d751f48f-a835-4e11-b3f6-e3a6dd7341c6",
+  "created": "2020-04-10T06:55:06.761Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Yelp"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "4a256e05-a405-4336-8774-336cca42f69a"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 1175,
+  "name": "YE_Color.svg",
+  "lastModified": "2020-04-11T22:49:34.707Z",
+  "status": "ready"
+}

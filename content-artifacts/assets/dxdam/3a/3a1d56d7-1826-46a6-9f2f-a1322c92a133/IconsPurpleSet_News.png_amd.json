@@ -1,0 +1,93 @@
+{
+  "fileName": "IconsPurpleSet_News.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "b905f90a-731a-4927-bdd8-4a48f6c90e76",
+  "path": "/dxdam/3a/3a1d56d7-1826-46a6-9f2f-a1322c92a133/IconsPurpleSet_News.png",
+  "digest": "AfjhBPobD2jm75k8P8afZQ==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=5753fa7d-bace-4bc9-bbcb-25772812b720&a=3a1d56d7-1826-46a6-9f2f-a1322c92a133",
+      "source": "/authoring/v1/resources/5753fa7d-bace-4bc9-bbcb-25772812b720"
+    }
+  },
+  "id": "3a1d56d7-1826-46a6-9f2f-a1322c92a133",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.312Z",
+  "profileRenditions": [],
+  "rev": "1-02f15a2b546ecc415030d30569a49478",
+  "altText": "",
+  "resource": "5753fa7d-bace-4bc9-bbcb-25772812b720",
+  "created": "2020-04-10T17:07:18.248Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:L-plate (learners plate for car)",
+      "classification:purple color"
+    ],
+    "declined": [
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:L-plate (learners plate for car)"
+    ],
+    "values": [
+      "classification:purple color",
+      "user:news",
+      "user:purple"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "quadrate",
+      "polygon",
+      "figure",
+      "diskette",
+      "memory device",
+      "L-plate (learners plate for car)",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#bc7cb4",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f474f1",
+      "vibrant": "#c644c4",
+      "muted": "#944494",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 21994,
+  "name": "IconsPurpleSet_News.png",
+  "lastModified": "2020-04-10T17:23:09.312Z",
+  "status": "ready"
+}

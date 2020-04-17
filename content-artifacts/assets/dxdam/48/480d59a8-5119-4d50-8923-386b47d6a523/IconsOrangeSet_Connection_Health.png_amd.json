@@ -1,0 +1,82 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Health.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "206cf723-ebf6-4cd6-88a3-41ddfa9869a0",
+  "path": "/dxdam/48/480d59a8-5119-4d50-8923-386b47d6a523/IconsOrangeSet_Connection_Health.png",
+  "digest": "TGuqN8KSTdkGUkKMbjyk8g==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=4aac2ac5-dad6-418f-a113-5e291fd2032c&a=480d59a8-5119-4d50-8923-386b47d6a523",
+      "source": "/authoring/v1/resources/4aac2ac5-dad6-418f-a113-5e291fd2032c"
+    }
+  },
+  "id": "480d59a8-5119-4d50-8923-386b47d6a523",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:11:53.910Z",
+  "profileRenditions": [],
+  "rev": "2-f97067c232df7d9ae909df9f6361d160",
+  "altText": "",
+  "resource": "4aac2ac5-dad6-418f-a113-5e291fd2032c",
+  "created": "2020-04-10T17:10:58.812Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious symbol",
+      "classification:alizarine red color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:religious symbol",
+      "classification:alizarine red color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:health",
+      "user:orange",
+      "user:orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious symbol",
+      "alizarine red color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#8d3f0b",
+      "darkMuted": "#913507",
+      "lightVibrant": "#f4ac7c",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 19651,
+  "name": "IconsOrangeSet_Connection_Health.png",
+  "lastModified": "2020-04-15T18:11:53.910Z",
+  "status": "ready"
+}

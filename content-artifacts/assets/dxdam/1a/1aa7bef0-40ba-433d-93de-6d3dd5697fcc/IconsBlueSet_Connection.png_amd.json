@@ -1,0 +1,136 @@
+{
+  "fileName": "IconsBlueSet_Connection.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "c29810fe-00a7-420b-876f-7447d6577ac2",
+  "path": "/dxdam/1a/1aa7bef0-40ba-433d-93de-6d3dd5697fcc/IconsBlueSet_Connection.png",
+  "digest": "7nkzCRckFlsgmG/qFHh/Vw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2&a=1aa7bef0-40ba-433d-93de-6d3dd5697fcc",
+      "source": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2"
+    }
+  },
+  "id": "1aa7bef0-40ba-433d-93de-6d3dd5697fcc",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:01:16.631Z",
+  "profileRenditions": [
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "tile",
+      "transform": {
+        "scale": 0.25487,
+        "crop": {
+          "x": 0,
+          "y": 159,
+          "width": 510,
+          "height": 192
+        }
+      },
+      "uri": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2?resize=510px:510px&crop=510:192;0,159",
+      "width": 510,
+      "height": 192
+    },
+    {
+      "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "key": "block",
+      "transform": {
+        "scale": 0.17491,
+        "crop": {
+          "x": 0,
+          "y": 55,
+          "width": 350,
+          "height": 240
+        }
+      },
+      "uri": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2?resize=350px:350px&crop=350:240;0,55",
+      "width": 350,
+      "height": 240
+    }
+  ],
+  "rev": "3-0aa8bcae0b9983ed2402d5eb269cbcc9",
+  "altText": "",
+  "resource": "cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2",
+  "created": "2020-04-10T17:21:00.899Z",
+  "profiles": [
+    "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:triangle",
+      "classification:polygon",
+      "classification:figure",
+      "classification:coffee filter",
+      "classification:filter",
+      "classification:rhombus",
+      "classification:convex polygon",
+      "classification:rescue equipment",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:triangle",
+      "classification:polygon",
+      "classification:figure",
+      "classification:coffee filter",
+      "classification:filter",
+      "classification:rhombus",
+      "classification:convex polygon",
+      "classification:rescue equipment",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:connection",
+      "user:wifi",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "triangle",
+      "polygon",
+      "figure",
+      "coffee filter",
+      "filter",
+      "rhombus",
+      "convex polygon",
+      "rescue equipment",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#037495",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#8de3fc",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 31365,
+  "name": "IconsBlueSet_Connection.png",
+  "lastModified": "2020-04-15T18:01:16.631Z",
+  "status": "ready"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "c1735941-fc66-4a59-b940-d328bb9644e0",
+  "rev": "4-274d05b15bc0e5e6f792b846659e9639",
+  "name": "Comic Sans MS, cursive, sans-serif",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creator": "David Klages",
+  "classification": "category",
+  "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
+  "parent": "04734168-ee3d-4942-8269-9578b554ed75",
+  "ancestorIds": [
+    "38f8dea6-5055-4e3f-9093-3306c6831bde",
+    "04734168-ee3d-4942-8269-9578b554ed75"
+  ],
+  "namePath": [
+    "Fonts",
+    "Sans-Serif",
+    "Comic Sans MS, cursive, sans-serif"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/c1735941-fc66-4a59-b940-d328bb9644e0"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/04734168-ee3d-4942-8269-9578b554ed75"
+    }
+  },
+  "created": "2020-04-08T19:42:01.965Z",
+  "lastModified": "2020-04-08T21:40:08.620Z"
+}

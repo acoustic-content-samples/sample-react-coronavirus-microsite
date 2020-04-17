@@ -1,0 +1,75 @@
+ul{
+    padding:0;
+}
+
+li{
+    list-style: none;
+    font-size: 16px;
+    padding-bottom:8px;
+
+    &:last-child{
+        padding-bottom:0px;
+    }
+    > img{
+        width: 16px;
+        vertical-align: text-top;
+        margin-right: 5px;
+    }
+    > a{
+        font-size: 14px;
+    }
+    > a:hover{
+        text-decoration: none;
+    }
+    @media screen and (max-width: 764px) {
+        text-align: center;
+    }
+}
+
+.update{
+    > div{
+        list-style: none;
+        font-size: 14px;
+        padding-bottom:8px;
+        &:last-child{
+            padding-bottom:0px;
+        }   
+    }
+}
+.row>a{
+    padding-top: 8px;
+    text-decoration: none;
+    font-size:14px;    
+}
+
+.updateList{
+        cursor:pointer;
+}
+
+.viewUpdates{
+    font-size:14px;
+    font-weight: normal;
+    width: 100%; 
+}
+
+.sidebarSection{
+    
+    padding-bottom: 48px;
+    
+    > a{
+        @media screen and (max-width: 764px) {
+            text-align: center;
+        }
+    }
+    
+}
+
+.sidebarTitle{
+    font-size:18px;
+    font-weight: bold;
+    padding-bottom:12px;
+    @media screen and (max-width: 764px) {
+        text-align: center;
+      }
+  }
+  

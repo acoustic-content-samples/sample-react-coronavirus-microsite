@@ -1,0 +1,38 @@
+{
+  "id": "fd795aaa-be67-47d2-89d8-d019280cf18c",
+  "rev": "16-5e9d2d1dddf5e4685d94336e42061344",
+  "name": "Banner",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "backgroundImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Banner Title",
+      "key": "bannerTitle"
+    },
+    {
+      "elementType": "text",
+      "label": "Banner Subtitle",
+      "key": "bannerSubtitle"
+    },
+    {
+      "elementType": "image",
+      "label": "Background Image",
+      "key": "backgroundImage",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "svg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "rev": "4-721a8802dbe30f0ada247c6d356251aa",
+  "thumbnail": {
+    "id": "0625bde9-8974-48e7-a675-38074936a966"
+  },
+  "keywords": [],
+  "created": "2020-04-10T07:21:00.308Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "default-content",
+  "locale": "en",
+  "tags": [
+    "user:Instagram"
+  ],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "0625bde9-8974-48e7-a675-38074936a966"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "Instagram"
+    }
+  },
+  "name": "Facebook",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "typeId": "170596b8-828d-4321-93a8-bf606b9f9456",
+  "id": "3e8df380-b439-47e6-8b34-279f6cf700e0",
+  "lastModified": "2020-04-10T07:22:14.001Z",
+  "systemModified": "2020-04-10T07:22:14.001Z",
+  "status": "ready"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "44391995-a017-4946-b6dd-98509014c8ec",
+  "rev": "48-a4cdcfa48e480f34cf34c261d7c7ffe7",
+  "name": "Company Information",
+  "classification": "content-type",
+  "kind": [],
+  "contentThumbnail": {
+    "imageElement": "companylogo",
+    "source": "imageElementOrType"
+  },
+  "description": "This item will hold all of your company information including logo,  social media links,  and additional contact information.",
+  "status": "ready",
+  "tags": [
+    "Company",
+    "logo",
+    "social",
+    "contact",
+    "brand"
+  ],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Site Title",
+      "key": "siteTitle"
+    },
+    {
+      "elementType": "image",
+      "label": "Favicon",
+      "key": "favicon",
+      "acceptType": [
+        "png"
+      ],
+      "helpText": "This is the icon shown in the browser's title bar (or tab) when displaying your site."
+    },
+    {
+      "elementType": "image",
+      "label": "CompanyLogo",
+      "key": "companylogo",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif",
+        "svg"
+      ],
+      "helpText": "Add your company's logo to be displayed in the site's header."
+    },
+    {
+      "elementType": "text",
+      "label": "Contact Number",
+      "key": "contactNumber",
+      "placeholder": {
+        "show": true,
+        "text": "Enter Your Customer Service Phone Number"
+      }
+    },
+    {
+      "elementType": "text",
+      "label": "Contact Email Address",
+      "key": "emailAddress",
+      "placeholder": {
+        "show": true,
+        "text": "Enter Your Customer Service Email Address"
+      }
+    },
+    {
+      "elementType": "reference",
+      "label": "Social Media Networks",
+      "key": "socialMediaNetworks",
+      "restrictTypes": [
+        {
+          "id": "013e3bab-f6b3-4f8c-9630-3f43a885c0de"
+        },
+        {
+          "id": "d83bcaa9-e3b5-4944-9f1a-c2f1dbb72604"
+        },
+        {
+          "id": "170596b8-828d-4321-93a8-bf606b9f9456"
+        },
+        {
+          "id": "9d511325-3063-48af-8e15-753cc402bbd2"
+        },
+        {
+          "id": "3544c726-68bf-47f7-95e2-b4733d4a9ae5"
+        },
+        {
+          "id": "457e97ef-3fdc-4281-868d-b7382b286b19"
+        },
+        {
+          "id": "7aa9d5ec-632a-48d2-9d06-04951cf599e6"
+        },
+        {
+          "id": "88783c10-7050-4af7-b072-71fe42ccf56f"
+        },
+        {
+          "id": "526ab219-de68-4f1d-8b66-5007ffaafe74"
+        },
+        {
+          "id": "f5da0602-c0de-4186-b98f-4c4ebce11f32"
+        },
+        {
+          "id": "1ddf8b42-f1b3-43bd-9b56-41256c31fd3f"
+        }
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Content item",
+      "helpText": "Add all of your social media networks with the specific URL to connect with your company."
+    }
+  ]
+}

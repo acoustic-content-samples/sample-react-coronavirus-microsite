@@ -1,0 +1,103 @@
+{
+  "fileName": "IconsOrangeSet_Connection_Research.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "d478e7f7-8480-41f4-a2d3-704a5463219c",
+  "path": "/dxdam/cb/cba478c7-f78d-4705-84c5-257190d12d03/IconsOrangeSet_Connection_Research.png",
+  "digest": "hyesB63TQr+hhrQJNX06aw==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=af8c71ee-3e6a-4ec6-b75f-05425a171e78&a=cba478c7-f78d-4705-84c5-257190d12d03",
+      "source": "/authoring/v1/resources/af8c71ee-3e6a-4ec6-b75f-05425a171e78"
+    }
+  },
+  "id": "cba478c7-f78d-4705-84c5-257190d12d03",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.313Z",
+  "profileRenditions": [],
+  "rev": "1-1d2d30584f12a4fb3c8c9253af86ce0a",
+  "altText": "",
+  "resource": "af8c71ee-3e6a-4ec6-b75f-05425a171e78",
+  "created": "2020-04-10T17:11:00.778Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:doorbell",
+      "classification:push button",
+      "classification:source of illumination",
+      "classification:lamp",
+      "classification:reddish orange color",
+      "classification:pale yellow color"
+    ],
+    "declined": [
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:electric switch",
+      "classification:controller",
+      "classification:doorbell",
+      "classification:push button",
+      "classification:source of illumination",
+      "classification:lamp",
+      "classification:reddish orange color",
+      "classification:pale yellow color"
+    ],
+    "values": [
+      "user:research",
+      "user:orange",
+      "user:orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "sconce (lighting)",
+      "light source",
+      "electric switch",
+      "controller",
+      "doorbell",
+      "push button",
+      "source of illumination",
+      "lamp",
+      "reddish orange color",
+      "pale yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#955e03",
+      "darkMuted": "#913507",
+      "lightVibrant": "#fcd088",
+      "vibrant": "#f4641c",
+      "muted": "#913507",
+      "darkVibrant": "#7e2e06"
+    },
+    "status": "complete"
+  },
+  "fileSize": 36332,
+  "name": "IconsOrangeSet_Connection_Research.png",
+  "lastModified": "2020-04-10T17:23:09.313Z",
+  "status": "ready"
+}

@@ -1,0 +1,96 @@
+{
+  "fileName": "IconsPurpleSet_Research.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "545f6896-98d5-4785-89d1-6ad481ddecd4",
+  "path": "/dxdam/73/7347cd6e-d175-46f3-8eb5-f114487515e4/IconsPurpleSet_Research.png",
+  "digest": "vEdXU4pRNEcAoB1M1o/ZFw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=6ec41db7-740a-44c5-b988-466526988e9a&a=7347cd6e-d175-46f3-8eb5-f114487515e4",
+      "source": "/authoring/v1/resources/6ec41db7-740a-44c5-b988-466526988e9a"
+    }
+  },
+  "id": "7347cd6e-d175-46f3-8eb5-f114487515e4",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:13:00.352Z",
+  "profileRenditions": [],
+  "rev": "2-435da1606f0dec23a83165ec88787b9c",
+  "altText": "",
+  "resource": "6ec41db7-740a-44c5-b988-466526988e9a",
+  "created": "2020-04-10T17:07:18.241Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:magnetic disk",
+      "classification:light source",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:source of illumination",
+      "classification:purple color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:magnetic disk",
+      "classification:light source",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:source of illumination"
+    ],
+    "values": [
+      "classification:purple color",
+      "user:research",
+      "user:purple"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "magnetic disk",
+      "light source",
+      "fluorescent lamp",
+      "lamp",
+      "source of illumination",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#8c0c86",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f373ed",
+      "vibrant": "#c43cb0",
+      "muted": "#c484c4",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 37617,
+  "name": "IconsPurpleSet_Research.png",
+  "lastModified": "2020-04-15T18:13:00.352Z",
+  "status": "ready"
+}

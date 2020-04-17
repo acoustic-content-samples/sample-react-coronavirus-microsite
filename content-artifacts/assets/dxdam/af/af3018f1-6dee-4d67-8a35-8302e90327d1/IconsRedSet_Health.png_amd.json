@@ -1,0 +1,79 @@
+{
+  "fileName": "IconsRedSet_Health.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "2fe699d0-b5f0-49cd-ae4a-7fab8bc12949",
+  "path": "/dxdam/af/af3018f1-6dee-4d67-8a35-8302e90327d1/IconsRedSet_Health.png",
+  "digest": "8OuSOPExBg4XRTF+QR/tdQ==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=105f4557-0d5d-49f0-84f4-1e3bb3460dcf&a=af3018f1-6dee-4d67-8a35-8302e90327d1",
+      "source": "/authoring/v1/resources/105f4557-0d5d-49f0-84f4-1e3bb3460dcf"
+    }
+  },
+  "id": "af3018f1-6dee-4d67-8a35-8302e90327d1",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.313Z",
+  "profileRenditions": [],
+  "rev": "1-970ed4bd2af7c72d5addcc64c3596e7b",
+  "altText": "",
+  "resource": "105f4557-0d5d-49f0-84f4-1e3bb3460dcf",
+  "created": "2020-04-10T17:04:20.215Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious symbol",
+      "classification:alizarine red color"
+    ],
+    "declined": [
+      "classification:religious symbol",
+      "classification:alizarine red color"
+    ],
+    "values": [
+      "user:red",
+      "user:health",
+      "user:red color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious symbol",
+      "alizarine red color"
+    ],
+    "colors": {
+      "lightMuted": "#951903",
+      "darkMuted": "#90080e",
+      "lightVibrant": "#fc8e7a",
+      "vibrant": "#cc0414",
+      "muted": "#96020e",
+      "darkVibrant": "#c80c14"
+    },
+    "status": "complete"
+  },
+  "fileSize": 19651,
+  "name": "IconsRedSet_Health.png",
+  "lastModified": "2020-04-10T17:23:09.313Z",
+  "status": "ready"
+}

@@ -1,0 +1,51 @@
+{
+  "rev": "20-673c5ef075d63d2b09b0bd19e02cd6d7",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-08T19:44:31.914Z",
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "textOnImage": {
+      "elementType": "text",
+      "value": "#ffffff"
+    },
+    "titleText": {
+      "elementType": "text",
+      "value": "#3C3C3C"
+    },
+    "background": {
+      "elementType": "text",
+      "value": "#ffffff"
+    },
+    "bodyText": {
+      "elementType": "text",
+      "value": "#4f4f4f"
+    },
+    "fontFamily": {
+      "categoryIds": [
+        "7c6a52fc-1d17-4e67-b626-43cf6687838a"
+      ],
+      "elementType": "category"
+    },
+    "link": {
+      "elementType": "text",
+      "value": "#245dad"
+    },
+    "backgroundBottom": {
+      "elementType": "text",
+      "value": "#f5f9fc"
+    }
+  },
+  "name": "Style Guide",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "typeId": "f6a9e593-895d-4738-9618-9b611177e2f6",
+  "id": "8fe0a373-d555-4a02-b0c1-3c5ea7423a7f",
+  "lastModified": "2020-04-15T01:22:55.871Z",
+  "systemModified": "2020-04-15T01:22:55.871Z",
+  "status": "ready"
+}

@@ -1,0 +1,94 @@
+{
+  "fileName": "IconsBlueSet_Research.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "b48d4bd1-594d-4c24-b88a-712c323e5e05",
+  "path": "/dxdam/f7/f797bb16-8880-4c83-87a3-429d4d62ff2c/IconsBlueSet_Research.png",
+  "digest": "8yMFv5bhQD/OtrDWODo0Yw==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=e02adf36-e84c-4217-9fab-af0b156465a4&a=f797bb16-8880-4c83-87a3-429d4d62ff2c",
+      "source": "/authoring/v1/resources/e02adf36-e84c-4217-9fab-af0b156465a4"
+    }
+  },
+  "id": "f797bb16-8880-4c83-87a3-429d4d62ff2c",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-10T17:23:09.313Z",
+  "profileRenditions": [],
+  "rev": "1-cd1c630d13a8b994ad41e459776f8e9d",
+  "altText": "",
+  "resource": "e02adf36-e84c-4217-9fab-af0b156465a4",
+  "created": "2020-04-10T17:21:06.624Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:adhesive plaster",
+      "classification:light source",
+      "classification:medical dressing",
+      "classification:source of illumination",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:adhesive plaster",
+      "classification:light source",
+      "classification:medical dressing",
+      "classification:source of illumination",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:research",
+      "user:blue",
+      "user:blue color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "adhesive plaster",
+      "light source",
+      "medical dressing",
+      "source of illumination",
+      "blue color"
+    ],
+    "colors": {
+      "lightMuted": "#077691",
+      "darkMuted": "#034f95",
+      "lightVibrant": "#87e3f9",
+      "vibrant": "#045cb4",
+      "muted": "#034c95",
+      "darkVibrant": "#045cac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 36923,
+  "name": "IconsBlueSet_Research.png",
+  "lastModified": "2020-04-10T17:23:09.313Z",
+  "status": "ready"
+}

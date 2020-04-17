@@ -1,0 +1,33 @@
+{
+  "rev": "3-f5bf0ee00b0e575768a5588ea144cb45",
+  "thumbnail": {
+    "id": "fb92a6b9-7874-4f03-9aa3-d6c972465586"
+  },
+  "keywords": [],
+  "created": "2020-04-10T07:27:03.520Z",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "classification": "default-content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "socialIcon": {
+      "mode": "shared",
+      "asset": {
+        "id": "fb92a6b9-7874-4f03-9aa3-d6c972465586"
+      },
+      "elementType": "image"
+    },
+    "socialLink": {
+      "elementType": "link",
+      "linkText": "Yelp"
+    }
+  },
+  "name": "Facebook",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "typeId": "f5da0602-c0de-4186-b98f-4c4ebce11f32",
+  "id": "6eb99b34-72ff-42a6-8158-feb835e0bc30",
+  "lastModified": "2020-04-10T07:27:30.172Z",
+  "systemModified": "2020-04-10T07:27:30.172Z",
+  "status": "ready"
+}

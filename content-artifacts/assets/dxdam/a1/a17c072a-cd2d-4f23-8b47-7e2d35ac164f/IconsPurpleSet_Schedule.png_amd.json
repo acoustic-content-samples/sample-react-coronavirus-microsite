@@ -1,0 +1,96 @@
+{
+  "fileName": "IconsPurpleSet_Schedule.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "3a6a1926-b6d4-414c-b4b4-8aae8f422063",
+  "path": "/dxdam/a1/a17c072a-cd2d-4f23-8b47-7e2d35ac164f/IconsPurpleSet_Schedule.png",
+  "digest": "rZ3OD5guJFQibYCu77b4Lw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=fb80ffbf-31c3-41e1-8c50-16625570acb0&a=a17c072a-cd2d-4f23-8b47-7e2d35ac164f",
+      "source": "/authoring/v1/resources/fb80ffbf-31c3-41e1-8c50-16625570acb0"
+    }
+  },
+  "id": "a17c072a-cd2d-4f23-8b47-7e2d35ac164f",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:12:07.333Z",
+  "profileRenditions": [],
+  "rev": "2-759068fb11422a8d60a2bb4b33872f34",
+  "altText": "",
+  "resource": "fb80ffbf-31c3-41e1-8c50-16625570acb0",
+  "created": "2020-04-10T17:07:20.464Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:spectrum of colors",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)",
+      "classification:purple color"
+    ],
+    "declined": [
+      "classification:spectrum of colors",
+      "classification:diskette",
+      "classification:memory device",
+      "classification:quadrate",
+      "classification:polygon",
+      "classification:figure",
+      "classification:L-plate (learners plate for car)"
+    ],
+    "values": [
+      "classification:purple color",
+      "user:schedule",
+      "user:purple"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "spectrum of colors",
+      "diskette",
+      "memory device",
+      "quadrate",
+      "polygon",
+      "figure",
+      "L-plate (learners plate for car)",
+      "purple color"
+    ],
+    "colors": {
+      "lightMuted": "#8c0c84",
+      "darkMuted": "#940494",
+      "lightVibrant": "#f485ed",
+      "vibrant": "#cc44bc",
+      "muted": "#78206d",
+      "darkVibrant": "#7c047c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 27446,
+  "name": "IconsPurpleSet_Schedule.png",
+  "lastModified": "2020-04-15T18:12:07.333Z",
+  "status": "ready"
+}

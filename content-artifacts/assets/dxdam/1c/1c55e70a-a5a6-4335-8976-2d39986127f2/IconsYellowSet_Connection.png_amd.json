@@ -1,0 +1,93 @@
+{
+  "fileName": "IconsYellowSet_Connection.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "87047cdc-30ef-4922-bcf1-f282dbe52400",
+  "path": "/dxdam/1c/1c55e70a-a5a6-4335-8976-2d39986127f2/IconsYellowSet_Connection.png",
+  "digest": "RNuYtawxEBKUEVIIMrUibw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=872ee8c7-904d-444a-afe4-2c338f66b497&a=1c55e70a-a5a6-4335-8976-2d39986127f2",
+      "source": "/authoring/v1/resources/872ee8c7-904d-444a-afe4-2c338f66b497"
+    }
+  },
+  "id": "1c55e70a-a5a6-4335-8976-2d39986127f2",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:07:59.662Z",
+  "profileRenditions": [],
+  "rev": "2-66891535afbe71bb0373b0d884002ddf",
+  "altText": "",
+  "resource": "872ee8c7-904d-444a-afe4-2c338f66b497",
+  "created": "2020-04-10T17:00:09.871Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:round shape",
+      "classification:source of illumination",
+      "classification:lamp",
+      "classification:pale yellow color",
+      "classification:lemon yellow color"
+    ],
+    "declined": [
+      "classification:sconce (lighting)",
+      "classification:light source",
+      "classification:round shape",
+      "classification:source of illumination",
+      "classification:lamp",
+      "classification:pale yellow color",
+      "classification:lemon yellow color"
+    ],
+    "values": [
+      "user:yellow",
+      "user:connection"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "sconce (lighting)",
+      "light source",
+      "round shape",
+      "source of illumination",
+      "lamp",
+      "pale yellow color",
+      "lemon yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#918007",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f9ea83",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
+  },
+  "fileSize": 31357,
+  "name": "IconsYellowSet_Connection.png",
+  "lastModified": "2020-04-15T18:07:59.662Z",
+  "status": "ready"
+}

@@ -1,0 +1,94 @@
+{
+  "fileName": "IconsGreenSet_News.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "f66adfb2-0ad1-480a-bd9c-b1c54d2d11a7",
+  "path": "/dxdam/e4/e4f0c850-bb04-49a9-9c99-07582c96ee9b/IconsGreenSet_News.png",
+  "digest": "WnTJoM+oWnyece9Pbd7y2w==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=c67599a6-a240-4d7b-aa31-65fc00991930&a=e4f0c850-bb04-49a9-9c99-07582c96ee9b",
+      "source": "/authoring/v1/resources/c67599a6-a240-4d7b-aa31-65fc00991930"
+    }
+  },
+  "id": "e4f0c850-bb04-49a9-9c99-07582c96ee9b",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:08:11.504Z",
+  "profileRenditions": [],
+  "rev": "2-6e8ffe42779790f43caf683849c4577d",
+  "altText": "",
+  "resource": "c67599a6-a240-4d7b-aa31-65fc00991930",
+  "created": "2020-04-10T17:18:33.498Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:microchip",
+      "classification:figure",
+      "classification:emerald color"
+    ],
+    "declined": [
+      "classification:diskette",
+      "classification:memory device",
+      "classification:fluorescent lamp",
+      "classification:lamp",
+      "classification:microchip",
+      "classification:figure",
+      "classification:emerald color"
+    ],
+    "values": [
+      "user:news",
+      "user:green",
+      "user:green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "diskette",
+      "memory device",
+      "fluorescent lamp",
+      "lamp",
+      "microchip",
+      "figure",
+      "emerald color"
+    ],
+    "colors": {
+      "lightMuted": "#079163",
+      "darkMuted": "#049481",
+      "lightVibrant": "#87f9d3",
+      "vibrant": "#1cfca4",
+      "muted": "#6cbcb4",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 21956,
+  "name": "IconsGreenSet_News.png",
+  "lastModified": "2020-04-15T18:08:11.504Z",
+  "status": "ready"
+}

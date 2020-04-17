@@ -1,0 +1,33 @@
+{
+  "rev": "2-55526f8fbd67f4bf06543f081c0a1dec",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T00:43:58.027Z",
+  "libraryId": "default",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "title": {
+      "elementType": "text",
+      "value": "WHO advice for the public"
+    },
+    "linkToWebpage": {
+      "elementType": "link",
+      "linkText": "WHO advice for the public",
+      "linkURL": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+    },
+    "linkToFile": {
+      "elementType": "file"
+    }
+  },
+  "name": "WHO information",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "c022bb52-919e-4c3c-ab92-119914ed70c6",
+  "id": "404a0ef4-25fe-4df4-9e4e-0829386f8298",
+  "lastModified": "2020-04-15T03:41:47.344Z",
+  "systemModified": "2020-04-15T03:41:47.344Z",
+  "status": "ready"
+}

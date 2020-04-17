@@ -1,0 +1,13 @@
+@import '~assets/styles/colors';
+@import '~assets/styles/variables';
+
+.content {
+  min-height: 95vh;
+  font-size: $main-font-size;
+  color: $main;
+  background-color: white;
+
+  h1 {
+    font-size: $main-heading-font-size;
+  }
+}

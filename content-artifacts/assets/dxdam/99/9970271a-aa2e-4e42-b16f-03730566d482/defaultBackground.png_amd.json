@@ -1,0 +1,82 @@
+{
+  "fileName": "defaultBackground.png",
+  "metadata": {
+    "width": 1600,
+    "height": 800
+  },
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "description": "",
+  "caption": "",
+  "mediaId": "24ce90a9-58ae-4048-a41f-bafd774d4825",
+  "path": "/dxdam/99/9970271a-aa2e-4e42-b16f-03730566d482/defaultBackground.png",
+  "digest": "vUBMgXZOY4IvuRUac1sCVg==",
+  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "renditions": {
+    "default": {
+      "id": "r=55b89a01-6f74-4adf-b8f1-137e203f4542&a=9970271a-aa2e-4e42-b16f-03730566d482",
+      "source": "/authoring/v1/resources/55b89a01-6f74-4adf-b8f1-137e203f4542"
+    }
+  },
+  "id": "9970271a-aa2e-4e42-b16f-03730566d482",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-14T14:18:22.883Z",
+  "rev": "2-7852110c382af35632dd7313b5ed95f5",
+  "altText": "",
+  "resource": "55b89a01-6f74-4adf-b8f1-137e203f4542",
+  "created": "2020-04-09T15:53:22.822Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:person",
+      "classification:mountain range",
+      "classification:nature",
+      "classification:sand dune",
+      "classification:ridge",
+      "classification:snowfield",
+      "classification:sky",
+      "classification:gray color",
+      "classification:olive green color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:person",
+      "classification:mountain range",
+      "classification:nature",
+      "classification:sand dune",
+      "classification:ridge",
+      "classification:snowfield",
+      "classification:sky",
+      "classification:gray color",
+      "classification:olive green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "person",
+      "mountain range",
+      "nature",
+      "sand dune",
+      "ridge",
+      "snowfield",
+      "sky",
+      "gray color",
+      "olive green color"
+    ],
+    "colors": {
+      "muted": "#949494"
+    },
+    "status": "complete"
+  },
+  "fileSize": 6884,
+  "name": "defaultBackground.png",
+  "lastModified": "2020-04-14T14:18:22.883Z",
+  "status": "ready"
+}

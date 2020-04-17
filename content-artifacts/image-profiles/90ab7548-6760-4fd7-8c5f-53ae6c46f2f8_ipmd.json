@@ -1,0 +1,27 @@
+{
+  "id": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+  "rev": "5-97e3c414a643fd92103f848bcbd14678",
+  "name": "List View Profile",
+  "classification": "image-profile",
+  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "created": "2020-04-10T17:41:07.339Z",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModified": "2020-04-15T17:54:36.061Z",
+  "tags": [],
+  "dimensions": [
+    {
+      "label": "Tile",
+      "key": "tile",
+      "width": 510,
+      "height": 192,
+      "description": "Tile image profile for home page and updates page"
+    },
+    {
+      "label": "Block",
+      "key": "block",
+      "width": 350,
+      "height": 240,
+      "description": "Block image profile for updates page"
+    }
+  ]
+}

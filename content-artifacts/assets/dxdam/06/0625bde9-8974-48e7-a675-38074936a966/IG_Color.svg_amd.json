@@ -1,0 +1,51 @@
+{
+  "fileName": "IG_Color.svg",
+  "metadata": {},
+  "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "description": "",
+  "caption": "",
+  "mediaId": "ff8a0631-7da0-4890-b783-e1316d755493",
+  "path": "/dxdam/06/0625bde9-8974-48e7-a675-38074936a966/IG_Color.svg",
+  "digest": "qcRYj2H7dTrFh6wZfCuiMw==",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "renditions": {
+    "default": {
+      "id": "r=1b9de2d5-0517-481a-9c04-cceee3106fbf&a=0625bde9-8974-48e7-a675-38074936a966",
+      "source": "/authoring/v1/resources/1b9de2d5-0517-481a-9c04-cceee3106fbf"
+    }
+  },
+  "id": "0625bde9-8974-48e7-a675-38074936a966",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-11T22:50:19.563Z",
+  "profileRenditions": [],
+  "rev": "2-d88ee7deeb2c507cbba35daa48b3a4e2",
+  "altText": "",
+  "resource": "1b9de2d5-0517-481a-9c04-cceee3106fbf",
+  "created": "2020-04-10T06:55:00.066Z",
+  "profiles": [],
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [
+      "user:Instagram"
+    ],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [
+    "c8158dbf-1ebd-4b94-8901-3d146696924a",
+    "f043ae42-6ee3-4ae2-9ee7-5817444b8cf5"
+  ],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 279775,
+  "name": "IG_Color.svg",
+  "lastModified": "2020-04-11T22:50:19.563Z",
+  "status": "ready"
+}

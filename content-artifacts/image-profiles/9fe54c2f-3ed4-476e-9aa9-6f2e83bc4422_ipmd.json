@@ -1,0 +1,37 @@
+{
+  "id": "9fe54c2f-3ed4-476e-9aa9-6f2e83bc4422",
+  "rev": "6-562967a8cbbc4f73fcd84f5be059e78b",
+  "name": "Banner Image",
+  "classification": "image-profile",
+  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "created": "2020-04-12T09:42:43.137Z",
+  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModified": "2020-04-12T09:58:10.141Z",
+  "tags": [],
+  "dimensions": [
+    {
+      "label": "Mobile",
+      "key": "mobile",
+      "width": 375,
+      "height": 372
+    },
+    {
+      "label": "Tablet",
+      "key": "tablet",
+      "width": 1024,
+      "height": 270
+    },
+    {
+      "label": "Laptop",
+      "key": "laptop",
+      "width": 1280,
+      "height": 270
+    },
+    {
+      "label": "HiRes",
+      "key": "hires",
+      "width": 2560,
+      "height": 540
+    }
+  ]
+}

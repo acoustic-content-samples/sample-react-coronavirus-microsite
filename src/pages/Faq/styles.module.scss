@@ -1,0 +1,72 @@
+@import '~assets/styles/variables';
+
+$card-margin: 10px;
+$card-square-size: 250px;
+$card-width: $card-square-size + $card-margin * 2;
+
+.gallery {
+  min-height: 95vh;
+  padding: $main-padding;
+  @media screen and (max-width: 1024px) {
+    padding: $main-padding-moblie;
+  }
+
+  h1{
+    @media screen and (max-width: 800px) {
+      text-align: center;
+    }
+    padding-bottom:32px;
+  }
+
+  .filter {
+    display: flex;
+    margin-bottom: 1rem;
+    align-items: baseline;
+    padding-bottom:16px;
+
+    @media screen and (max-width: 800px) {
+      flex-direction: column;
+    }
+
+    .actions {
+      display: flex;
+    }
+
+    .chips {
+      margin-left: 0.5rem;
+
+      & > div {
+        margin: 0.1rem;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  .questions{
+    padding-bottom:16px;
+  }
+
+  .faqWrapper {
+    margin: 0 auto;
+    width: $card-width;
+
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -$card-margin;
+
+      .card {
+        margin: $card-margin;
+        position: relative;
+        cursor: pointer;
+        min-width: $card-square-size;
+        min-height: $card-square-size;
+
+        img {
+          border-radius: 10px;
+        }
+
+      }
+    }
+  }
+}

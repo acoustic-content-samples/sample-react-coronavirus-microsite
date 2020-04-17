@@ -1,0 +1,44 @@
+{
+  "fileName": "InstrumentalBank_Logo_34px.svg",
+  "metadata": {},
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "caption": "",
+  "mediaId": "10f48e98-4c32-4c23-8d32-c8786e8a8c70",
+  "path": "/dxdam/04/044b46a7-b466-4e63-822f-0712939d7378/InstrumentalBank_Logo_34px.svg",
+  "digest": "CDQ50quzcYCG0r17JKPj3w==",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "renditions": {
+    "default": {
+      "id": "r=b9c57491-2c04-4dd6-a5ea-87c4c739147e&a=044b46a7-b466-4e63-822f-0712939d7378",
+      "source": "/authoring/v1/resources/b9c57491-2c04-4dd6-a5ea-87c4c739147e"
+    }
+  },
+  "id": "044b46a7-b466-4e63-822f-0712939d7378",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-15T17:08:26.263Z",
+  "rev": "1-fc4e18cb7570de6607b2bc46b48b8b3f",
+  "altText": "",
+  "resource": "b9c57491-2c04-4dd6-a5ea-87c4c739147e",
+  "created": "2020-04-15T17:07:59.440Z",
+  "mediaType": "image/svg+xml",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "declined": [],
+    "values": [],
+    "analysis": "none"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "status": "none"
+  },
+  "fileSize": 14797,
+  "name": "InstrumentalBank_Logo_34px.svg",
+  "lastModified": "2020-04-15T17:08:26.263Z",
+  "status": "ready"
+}

@@ -1,0 +1,80 @@
+{
+  "rev": "5-142757c3efe0877f550d631fea517ef0",
+  "thumbnail": {
+    "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T03:01:01.566Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [
+    "user:Branch",
+    "user:Hours"
+  ],
+  "elements": {
+    "articleImage": {
+      "mode": "shared",
+      "profiles": [
+        "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+      ],
+      "asset": {
+        "id": "7ac7727b-5d53-44ff-9cc0-2438a2e798ae"
+      },
+      "elementType": "image"
+    },
+    "articleDate": {
+      "elementType": "datetime",
+      "value": "2020-04-11T22:00:00Z"
+    },
+    "articleCategories": {
+      "categoryIds": [
+        "2f650b9a-5e08-474a-861a-a4c7e0e8b71d",
+        "19f57336-3e2d-4948-9200-5d91aed618f0",
+        "208fb064-20f3-4cb7-8b4b-435609fa482c",
+        "431db788-41ac-4c21-91cf-392cab835dfb"
+      ],
+      "elementType": "category"
+    },
+    "articleVideo": {
+      "elementType": "video"
+    },
+    "articleSummary": {
+      "elementType": "text",
+      "value": "Currently our open hours remain the same for all branches. However, we will be allowing high-risk individuals to visit branches in the first open hour or by special appointment. We also are offering remote consultations and appointments to reduce the need for some to visit our branches."
+    },
+    "articleTitle": {
+      "elementType": "text",
+      "value": "Service Hour Update"
+    },
+    "topUpdate": {
+      "elementType": "toggle",
+      "value": true
+    },
+    "listViewImage": {
+      "mode": "shared",
+      "profiles": [
+        "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
+      ],
+      "asset": {
+        "id": "869a1bf1-5488-4302-bd4b-9a6c7114c5d8"
+      },
+      "elementType": "image"
+    },
+    "articleText": {
+      "values": [
+        "<p>We are continuing to monitor the situation of Covid-19 and will keep you updated accordingly. Currently our open hours remain the same for all branches. However, we will be allowing high-risk individuals to visit branches in the first open hour or by special appointment. We also are offering remote consultations and appointments to reduce the need for some to visit our branches.</p>\n"
+      ],
+      "elementType": "formattedtext"
+    }
+  },
+  "name": "Sample: service hour update",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "id": "64b1ab72-1622-46fe-97b5-8ca76079cbc5",
+  "lastModified": "2020-04-15T12:55:42.177Z",
+  "systemModified": "2020-04-15T12:55:42.177Z",
+  "status": "ready"
+}

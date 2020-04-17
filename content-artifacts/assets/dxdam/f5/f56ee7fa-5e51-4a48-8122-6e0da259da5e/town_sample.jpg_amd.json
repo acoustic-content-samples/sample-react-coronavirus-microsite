@@ -1,0 +1,101 @@
+{
+  "fileName": "town_sample.jpg",
+  "metadata": {
+    "width": 4000,
+    "height": 6000
+  },
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "caption": "",
+  "mediaId": "6ab9f9e3-785f-40b2-8ac4-ce2b28a21b97",
+  "path": "/dxdam/f5/f56ee7fa-5e51-4a48-8122-6e0da259da5e/town_sample.jpg",
+  "digest": "ZOWYKYz7+W34XjDM8/2JBA==",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "renditions": {
+    "default": {
+      "id": "r=7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a&a=f56ee7fa-5e51-4a48-8122-6e0da259da5e",
+      "source": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a"
+    }
+  },
+  "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-15T02:47:09.007Z",
+  "profileRenditions": [
+    {
+      "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "key": "article",
+      "transform": {
+        "scale": 0.20625,
+        "crop": {
+          "x": 0,
+          "y": 515,
+          "width": 825,
+          "height": 320
+        }
+      },
+      "uri": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a?resize=825px:1238px&crop=825:320;0,515",
+      "width": 825,
+      "height": 320
+    }
+  ],
+  "rev": "1-741ff2374b561345a572eec8941a0be3",
+  "altText": "",
+  "resource": "7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a",
+  "created": "2020-04-15T02:46:13.600Z",
+  "profiles": [
+    "9d0c6bfd-ad20-430e-a3d5-333803e20825"
+  ],
+  "mediaType": "image/jpeg",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:street",
+      "classification:road",
+      "classification:Fleet Street building",
+      "classification:medium",
+      "classification:building",
+      "classification:gray color",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:street",
+      "classification:road",
+      "classification:Fleet Street building",
+      "classification:medium",
+      "classification:building",
+      "classification:gray color",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "street",
+      "road",
+      "Fleet Street building",
+      "medium",
+      "building",
+      "gray color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "lightMuted": "#d3bdaf",
+      "darkMuted": "#564641",
+      "lightVibrant": "#ecbc8c",
+      "vibrant": "#d2a177",
+      "muted": "#ab8366",
+      "darkVibrant": "#145c64"
+    },
+    "status": "complete"
+  },
+  "fileSize": 3984770,
+  "name": "town_sample.jpg",
+  "lastModified": "2020-04-15T02:47:09.007Z",
+  "status": "ready"
+}

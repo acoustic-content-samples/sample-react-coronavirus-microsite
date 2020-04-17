@@ -1,0 +1,77 @@
+{
+  "id": "d8dae096-118a-49e3-8321-cbbb7482f8f7",
+  "rev": "26-c0d4f5003c86e0342b4794d7877e84c5",
+  "name": "FAQ Item",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "thumbnail": {
+    "id": "ffa2b2bb-9142-4c8c-9e25-4f9bcceed4dc"
+  },
+  "contentThumbnail": {
+    "imageElement": "",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [
+    "FAQ"
+  ],
+  "elements": [
+    {
+      "elementType": "category",
+      "label": "FAQ Categories",
+      "key": "faqCategories",
+      "required": false,
+      "restrictedParents": [
+        "afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "helpText": "Select one or more appropriate categories to classify this FAQ.",
+      "searchKey": "string2"
+    },
+    {
+      "elementType": "toggle",
+      "label": "Top Item",
+      "key": "topItem",
+      "statement": "Is this a top item?",
+      "searchKey": "boolean1"
+    },
+    {
+      "elementType": "text",
+      "label": "Question",
+      "key": "question",
+      "required": true,
+      "minLength": 1,
+      "placeholder": {
+        "show": true,
+        "text": "What is an FAQ Question?"
+      },
+      "helpText": "Enter the Frequently Asked Question this item addresses.",
+      "searchKey": "string4",
+      "maxLength": 4000
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Response",
+      "key": "response",
+      "required": true,
+      "placeholder": {
+        "show": true,
+        "text": "This is a response to a Frequently Asked Question."
+      },
+      "helpText": "Enter the response text here. You can format this field as rich text."
+    },
+    {
+      "elementType": "link",
+      "label": "Reference Link URLs",
+      "key": "referenceLinkUrls",
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Link",
+      "helpText": "Copy/Paste the URLs or Web Addresses which are important next steps when seeking an answer to this question."
+    }
+  ]
+}

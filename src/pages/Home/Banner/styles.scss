@@ -1,0 +1,31 @@
+.myBanner{
+  color: white;
+  justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    text-align:center;
+    background-size: cover !important;
+    background-position: center !important;
+    height:270px;
+    
+}
+
+
+
+.bannertitle{
+  font-size: 36px;
+    font-family: 'TiemposFineMedium', 'Times New Roman', serif;
+    font-weight: 600;
+    
+    margin: 0.5rem 0 2rem;
+}
+
+.bannersubtitle{
+  margin-left: 20%;
+  max-width: 60%;
+font-size: 18px;
+font-family:'National2-Regular', Helvetica, Arial, sans-serif;
+line-height:24px;
+}

@@ -1,0 +1,84 @@
+{
+  "fileName": "InstrumentalBank_Mark_sample.png",
+  "metadata": {
+    "width": 32,
+    "height": 32
+  },
+  "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "caption": "",
+  "mediaId": "2360c2e4-c414-4771-8152-0b3466abf398",
+  "path": "/dxdam/08/08d56d58-52dc-4b73-a62a-d732fde4d2c2/InstrumentalBank_Mark_sample.png",
+  "digest": "9dt2/LCgATW/god4ZRbdOw==",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "renditions": {
+    "default": {
+      "id": "r=ba6f68c0-55bc-44ef-a4e1-400191d693f8&a=08d56d58-52dc-4b73-a62a-d732fde4d2c2",
+      "source": "/authoring/v1/resources/ba6f68c0-55bc-44ef-a4e1-400191d693f8"
+    }
+  },
+  "id": "08d56d58-52dc-4b73-a62a-d732fde4d2c2",
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-04-15T00:25:26.731Z",
+  "rev": "1-42aec121e7556bc48a737f8dea044959",
+  "altText": "",
+  "resource": "ba6f68c0-55bc-44ef-a4e1-400191d693f8",
+  "created": "2020-04-15T00:18:38.646Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:sky",
+      "classification:desktop",
+      "classification:video display",
+      "classification:electronic device",
+      "classification:skyscraper",
+      "classification:building",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:sky",
+      "classification:desktop",
+      "classification:video display",
+      "classification:electronic device",
+      "classification:skyscraper",
+      "classification:building",
+      "classification:blue color",
+      "classification:ultramarine color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "sky",
+      "desktop",
+      "video display",
+      "electronic device",
+      "skyscraper",
+      "building",
+      "blue color",
+      "ultramarine color"
+    ],
+    "colors": {
+      "lightMuted": "#025b96",
+      "darkMuted": "#0c080c",
+      "lightVibrant": "#7cc9fc",
+      "vibrant": "#047ccc",
+      "muted": "#025b96",
+      "darkVibrant": "#045cb4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 394,
+  "name": "InstrumentalBank_Mark_sample.png",
+  "lastModified": "2020-04-15T00:25:26.731Z",
+  "status": "ready"
+}

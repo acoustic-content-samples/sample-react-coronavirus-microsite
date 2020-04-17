@@ -1,0 +1,32 @@
+{
+  "rev": "2-c759ba2849a6554f9497d59b4aa4c532",
+  "keywords": [],
+  "kind": [],
+  "created": "2020-04-15T00:35:26.718Z",
+  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "description": "",
+  "classification": "content",
+  "locale": "en",
+  "tags": [],
+  "elements": {
+    "title": {
+      "elementType": "text",
+      "value": "CDC Guidelines"
+    },
+    "linkToWebpage": {
+      "elementType": "link",
+      "linkURL": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+      "linkText": "CDC Guidelines"
+    },
+    "linkToFile": {
+      "elementType": "file"
+    }
+  },
+  "name": "CDC Guidelines",
+  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "typeId": "c022bb52-919e-4c3c-ab92-119914ed70c6",
+  "id": "23e1985c-a037-423e-b09a-3ce54552d6a2",
+  "lastModified": "2020-04-15T00:45:44.805Z",
+  "systemModified": "2020-04-15T00:45:44.805Z",
+  "status": "ready"
+}

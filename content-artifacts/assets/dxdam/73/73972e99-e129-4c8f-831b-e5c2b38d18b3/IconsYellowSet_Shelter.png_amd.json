@@ -1,0 +1,105 @@
+{
+  "fileName": "IconsYellowSet_Shelter.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "414f28dd-4f06-4f73-aff9-55b65ac5bd9f",
+  "path": "/dxdam/73/73972e99-e129-4c8f-831b-e5c2b38d18b3/IconsYellowSet_Shelter.png",
+  "digest": "Hp/Xicsj8Mc8eOwwn+buhQ==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=f7f81fe0-3462-47ce-b654-9107b6c1166d&a=73972e99-e129-4c8f-831b-e5c2b38d18b3",
+      "source": "/authoring/v1/resources/f7f81fe0-3462-47ce-b654-9107b6c1166d"
+    }
+  },
+  "id": "73972e99-e129-4c8f-831b-e5c2b38d18b3",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:11:09.391Z",
+  "profileRenditions": [],
+  "rev": "2-b97216878744b95e8b52651dd6cb7a22",
+  "altText": "",
+  "resource": "f7f81fe0-3462-47ce-b654-9107b6c1166d",
+  "created": "2020-04-10T17:00:15.892Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:L-plate (learners plate for car)",
+      "classification:tetraskelion",
+      "classification:window envelope",
+      "classification:spatula",
+      "classification:tool",
+      "classification:concave polygon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:octagon",
+      "classification:lemon yellow color",
+      "classification:yellow color"
+    ],
+    "declined": [
+      "classification:L-plate (learners plate for car)",
+      "classification:tetraskelion",
+      "classification:window envelope",
+      "classification:spatula",
+      "classification:tool",
+      "classification:concave polygon",
+      "classification:polygon",
+      "classification:figure",
+      "classification:octagon",
+      "classification:lemon yellow color"
+    ],
+    "values": [
+      "classification:yellow color",
+      "user:yellow",
+      "user:shelter"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "L-plate (learners plate for car)",
+      "tetraskelion",
+      "window envelope",
+      "spatula",
+      "tool",
+      "concave polygon",
+      "polygon",
+      "figure",
+      "octagon",
+      "lemon yellow color",
+      "yellow color"
+    ],
+    "colors": {
+      "lightMuted": "#918207",
+      "darkMuted": "#967302",
+      "lightVibrant": "#f9ee90",
+      "vibrant": "#f4bc04",
+      "muted": "#967302",
+      "darkVibrant": "#826402"
+    },
+    "status": "complete"
+  },
+  "fileSize": 28569,
+  "name": "IconsYellowSet_Shelter.png",
+  "lastModified": "2020-04-15T18:11:09.391Z",
+  "status": "ready"
+}

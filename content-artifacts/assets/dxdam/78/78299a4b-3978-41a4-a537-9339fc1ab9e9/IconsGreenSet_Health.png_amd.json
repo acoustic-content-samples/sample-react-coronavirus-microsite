@@ -1,0 +1,85 @@
+{
+  "fileName": "IconsGreenSet_Health.png",
+  "metadata": {
+    "width": 2001,
+    "height": 2001
+  },
+  "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "description": "",
+  "caption": "",
+  "mediaId": "8f040567-9b44-4f73-9bb6-59c5238221e8",
+  "path": "/dxdam/78/78299a4b-3978-41a4-a537-9339fc1ab9e9/IconsGreenSet_Health.png",
+  "digest": "1kDfGwyFerZyiIYcM/waVw==",
+  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "renditions": {
+    "default": {
+      "id": "r=f269808c-c452-4ee1-9763-42023f7828ea&a=78299a4b-3978-41a4-a537-9339fc1ab9e9",
+      "source": "/authoring/v1/resources/f269808c-c452-4ee1-9763-42023f7828ea"
+    }
+  },
+  "id": "78299a4b-3978-41a4-a537-9339fc1ab9e9",
+  "usageRights": {
+    "categories": [
+      {
+        "id": "00000000-0000-0000-0000-032300c8e20"
+      },
+      {
+        "id": "00000000-0000-0000-0000-023000c8e20"
+      }
+    ]
+  },
+  "systemModified": "2020-04-15T18:07:09.570Z",
+  "profileRenditions": [],
+  "rev": "2-2bf3eb27ee6f2ddc18e5201c743f1053",
+  "altText": "",
+  "resource": "f269808c-c452-4ee1-9763-42023f7828ea",
+  "created": "2020-04-10T17:18:38.802Z",
+  "profiles": [],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "assetType": "image",
+  "tags": {
+    "suggested": [
+      "classification:religious symbol",
+      "classification:figure",
+      "classification:blue color",
+      "classification:emerald color"
+    ],
+    "declined": [
+      "classification:religious symbol",
+      "classification:figure",
+      "classification:blue color",
+      "classification:emerald color"
+    ],
+    "values": [
+      "user:health",
+      "user:green",
+      "user:green color"
+    ],
+    "analysis": "complete"
+  },
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious symbol",
+      "figure",
+      "blue color",
+      "emerald color"
+    ],
+    "colors": {
+      "lightMuted": "#05935f",
+      "darkMuted": "#049481",
+      "lightVibrant": "#7efacd",
+      "vibrant": "#14f7a4",
+      "muted": "#05935f",
+      "darkVibrant": "#047c6c"
+    },
+    "status": "complete"
+  },
+  "fileSize": 19641,
+  "name": "IconsGreenSet_Health.png",
+  "lastModified": "2020-04-15T18:07:09.570Z",
+  "status": "ready"
+}
