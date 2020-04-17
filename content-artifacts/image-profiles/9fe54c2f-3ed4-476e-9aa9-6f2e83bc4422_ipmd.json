@@ -1,12 +1,14 @@
 {
   "id": "9fe54c2f-3ed4-476e-9aa9-6f2e83bc4422",
-  "rev": "6-562967a8cbbc4f73fcd84f5be059e78b",
+  "rev": "1-180799b4beab03595ab387c5959c9138",
   "name": "Banner Image",
   "classification": "image-profile",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creator": "David Klages",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "created": "2020-04-12T09:42:43.137Z",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
-  "lastModified": "2020-04-12T09:58:10.141Z",
+  "lastModifier": "David Klages",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModified": "2020-04-17T15:22:50.756Z",
   "tags": [],
   "dimensions": [
     {

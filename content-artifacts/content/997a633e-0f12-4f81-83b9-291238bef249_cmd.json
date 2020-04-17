@@ -1,15 +1,19 @@
 {
-  "rev": "3-d1410158609f1ee76375c3c030d75be1",
+  "rev": "1-b4c7f7b7744000eb434c183934f4d9a0",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "f35a9c5b-8626-41a2-b276-c34f96d96378"
+    "id": "f35a9c5b-8626-41a2-b276-c34f96d96378",
+    "url": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0?fit=inside%7C220:145"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-14T22:19:37.388Z",
+  "created": "2020-04-17T15:24:28.777Z",
   "libraryId": "default",
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Mortgage",
@@ -21,8 +25,36 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
+      "renditions": {
+        "article": {
+          "source": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0?resize=825px:464px&crop=825:320;0,0",
+          "width": 825,
+          "height": 320,
+          "transform": {
+            "scale": 0.20625,
+            "crop": {
+              "x": 0,
+              "y": 0,
+              "width": 825,
+              "height": 320
+            }
+          }
+        },
+        "default": {
+          "width": 4000,
+          "source": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0",
+          "height": 2250
+        }
+      },
       "asset": {
-        "id": "f35a9c5b-8626-41a2-b276-c34f96d96378"
+        "fileName": "mortgage_assistance_article_sample.jpg",
+        "altText": "",
+        "fileSize": 1368540,
+        "width": 4000,
+        "mediaType": "image/jpeg",
+        "id": "f35a9c5b-8626-41a2-b276-c34f96d96378",
+        "resourceUri": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0",
+        "height": 2250
       },
       "elementType": "image"
     },
@@ -35,6 +67,11 @@
         "431db788-41ac-4c21-91cf-392cab835dfb",
         "19f57336-3e2d-4948-9200-5d91aed618f0",
         "8820dfba-01a4-4676-86ea-aa895528b1f3"
+      ],
+      "categories": [
+        "Content Categories/Customer Service",
+        "Content Categories/Services",
+        "Content Categories/Billing"
       ],
       "elementType": "category"
     },
@@ -58,8 +95,50 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
+      "renditions": {
+        "tile": {
+          "source": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295?resize=510px:510px&crop=510:192;0,159",
+          "width": 510,
+          "height": 192,
+          "transform": {
+            "scale": 0.25487,
+            "crop": {
+              "x": 0,
+              "y": 159,
+              "width": 510,
+              "height": 192
+            }
+          }
+        },
+        "block": {
+          "source": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295?resize=350px:350px&crop=350:240;0,55",
+          "width": 350,
+          "height": 240,
+          "transform": {
+            "scale": 0.17491,
+            "crop": {
+              "x": 0,
+              "y": 55,
+              "width": 350,
+              "height": 240
+            }
+          }
+        },
+        "default": {
+          "width": 2001,
+          "source": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295",
+          "height": 2001
+        }
+      },
       "asset": {
-        "id": "febd5f44-5342-4e1e-80a2-0b678afc507d"
+        "fileName": "IconsBlueSet_Shelter.png",
+        "altText": "",
+        "fileSize": 29246,
+        "width": 2001,
+        "mediaType": "image/png",
+        "id": "febd5f44-5342-4e1e-80a2-0b678afc507d",
+        "resourceUri": "/authoring/v1/resources/5a5cc379-bdce-47a6-b856-50e9dea90295",
+        "height": 2001
       },
       "elementType": "image"
     },
@@ -71,10 +150,30 @@
     }
   },
   "name": "Sample: Mortgage Assistance Update",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/997a633e-0f12-4f81-83b9-291238bef249/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/997a633e-0f12-4f81-83b9-291238bef249/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/997a633e-0f12-4f81-83b9-291238bef249"
+    },
+    "type": {
+      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
+    }
+  },
   "id": "997a633e-0f12-4f81-83b9-291238bef249",
-  "lastModified": "2020-04-15T12:56:28.122Z",
-  "systemModified": "2020-04-15T12:56:28.122Z",
+  "lastModified": "2020-04-17T15:24:28.777Z",
+  "systemModified": "2020-04-17T15:24:28.777Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

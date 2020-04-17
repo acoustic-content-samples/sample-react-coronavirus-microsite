@@ -5,49 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "c01b3867-fd56-49f2-9327-6e876d670591",
+  "lastModifier": "David Klages",
+  "mediaId": "71523c6b-50cd-449b-a2f2-97a5c7ef147f",
   "path": "/dxdam/98/98625e43-7510-430b-bc26-296f4262e080/IconsRedSet_Schdule.png",
   "digest": "t/cGsLL9I5Y8tU7uMRbpoQ==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=12dd241a-d801-42d3-b116-b7cf485f2ee3&a=98625e43-7510-430b-bc26-296f4262e080",
       "source": "/authoring/v1/resources/12dd241a-d801-42d3-b116-b7cf485f2ee3"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/98625e43-7510-430b-bc26-296f4262e080"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/12dd241a-d801-42d3-b116-b7cf485f2ee3.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/12dd241a-d801-42d3-b116-b7cf485f2ee3?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/98625e43-7510-430b-bc26-296f4262e080/status/retire"
+    }
+  },
   "id": "98625e43-7510-430b-bc26-296f4262e080",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:08:25.411Z",
+  "systemModified": "2020-04-17T15:23:28.436Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-459782e93d3338b49151268c28697b12",
+  "rev": "1-875db0b3fa30be8461c29429108281d3",
+  "creator": "David Klages",
   "altText": "",
   "resource": "12dd241a-d801-42d3-b116-b7cf485f2ee3",
-  "created": "2020-04-10T17:04:20.044Z",
+  "created": "2020-04-17T15:23:28.408Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:L-plate (learners plate for car)",
-      "classification:flag",
-      "classification:figure",
-      "classification:memory device",
-      "classification:alizarine red color",
-      "classification:claret red color"
-    ],
     "declined": [
       "classification:L-plate (learners plate for car)",
       "classification:flag",
@@ -61,31 +74,16 @@
       "user:schedule",
       "user:red color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "L-plate (learners plate for car)",
-      "flag",
-      "figure",
-      "memory device",
-      "alizarine red color",
-      "claret red color"
-    ],
-    "colors": {
-      "lightMuted": "#95030c",
-      "darkMuted": "#90080e",
-      "lightVibrant": "#fc7c84",
-      "vibrant": "#cc0414",
-      "muted": "#96020e",
-      "darkVibrant": "#c40c14"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 26904,
   "name": "IconsRedSet_Schdule.png",
-  "lastModified": "2020-04-15T18:08:25.411Z",
+  "lastModified": "2020-04-17T15:23:28.436Z",
   "status": "ready"
 }

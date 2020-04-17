@@ -1,12 +1,15 @@
 {
-  "rev": "2-9511259ebed8b6a198f440a67065df82",
+  "rev": "1-4aa83af79c5963c7a2fc9c5bebc3cae2",
+  "creator": "David Klages",
   "keywords": [],
   "kind": [],
-  "created": "2020-04-09T17:37:15.594Z",
+  "created": "2020-04-17T15:24:28.317Z",
   "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "Company Statement",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -20,10 +23,27 @@
     }
   },
   "name": "Company Statement",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "60acca58-56cd-47f5-9f82-6a8563993571",
+  "links": {
+    "createDraft": {
+      "href": "/authoring/v1/content/7fe7d48e-6665-408b-84ee-6515628073f0/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/7fe7d48e-6665-408b-84ee-6515628073f0/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/7fe7d48e-6665-408b-84ee-6515628073f0"
+    },
+    "type": {
+      "href": "/authoring/v1/types/60acca58-56cd-47f5-9f82-6a8563993571"
+    }
+  },
   "id": "7fe7d48e-6665-408b-84ee-6515628073f0",
-  "lastModified": "2020-04-14T14:18:56.816Z",
-  "systemModified": "2020-04-14T14:18:56.816Z",
+  "lastModified": "2020-04-17T15:24:28.317Z",
+  "systemModified": "2020-04-17T15:24:28.317Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

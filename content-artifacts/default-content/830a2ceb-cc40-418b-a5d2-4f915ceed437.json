@@ -1,20 +1,34 @@
 {
-  "rev": "4-a5b7bd0b3408fc97075b48db6e869a42",
+  "rev": "1-a52095f4e6c03965943af0149d80a318",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+    "url": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
   },
   "keywords": [],
-  "created": "2020-04-10T07:26:24.576Z",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "created": "2020-04-17T15:24:26.762Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "default-content",
+  "type": "Twitter",
   "locale": "en",
   "tags": [],
   "elements": {
     "socialIcon": {
       "mode": "shared",
+      "renditions": {
+        "default": {
+          "source": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+        }
+      },
       "asset": {
-        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+        "fileName": "TW_Color.svg",
+        "altText": "",
+        "fileSize": 825,
+        "mediaType": "image/svg+xml",
+        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+        "resourceUri": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
       },
       "elementType": "image"
     },
@@ -24,10 +38,20 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "526ab219-de68-4f1d-8b66-5007ffaafe74",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+    },
+    "self": {
+      "href": "/authoring/v1/default-content/830a2ceb-cc40-418b-a5d2-4f915ceed437"
+    },
+    "type": {
+      "href": "/authoring/v1/types/526ab219-de68-4f1d-8b66-5007ffaafe74"
+    }
+  },
   "id": "830a2ceb-cc40-418b-a5d2-4f915ceed437",
-  "lastModified": "2020-04-10T07:38:46.680Z",
-  "systemModified": "2020-04-10T07:38:46.680Z",
-  "status": "ready"
+  "lastModified": "2020-04-17T15:24:26.762Z",
+  "systemModified": "2020-04-17T15:24:26.762Z"
 }

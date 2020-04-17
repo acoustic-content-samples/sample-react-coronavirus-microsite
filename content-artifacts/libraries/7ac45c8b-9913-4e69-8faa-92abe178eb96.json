@@ -1,20 +1,18 @@
 {
-  "name": "Configurable Fixed Site Components",
-  "lastModified": "2020-04-14T22:29:16.562Z",
+  "rev": "1-08efa3febfdd844f5686931a3b9f184b",
+  "creator": "David Klages",
+  "access": "public",
+  "created": "2020-04-17T15:22:50.356Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "Modify these content items to configure the site, but do not delete or replace them, as these are directly connected to components on the site.",
-  "tags": [],
-  "owners": [
-    {
-      "id": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d"
-    }
-  ],
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "systemModified": "2020-04-14T22:29:16.562Z",
-  "rev": "9-f44b7b5021a47a7abb42d99684b7378a",
-  "id": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifier": "David Klages",
+  "owners": [],
   "classification": "library",
+  "tags": [],
+  "name": "Configurable Fixed Site Components",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModified": "2020-04-17T15:22:50.356Z",
   "contributors": [],
-  "created": "2020-04-14T13:55:01.561Z",
-  "access": "public"
+  "id": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
+  "systemModified": "2020-04-17T15:22:50.356Z"
 }

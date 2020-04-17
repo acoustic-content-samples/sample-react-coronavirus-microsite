@@ -1,8 +1,8 @@
 {
   "id": "04734168-ee3d-4942-8269-9578b554ed75",
-  "rev": "1-781ce01ae58c3120dd05fe3c6308ded3",
+  "rev": "1-f03c4b4071d5a19b8c36aca99803dbe3",
   "name": "Sans-Serif",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -25,6 +25,7 @@
       "href": "/authoring/v1/categories/38f8dea6-5055-4e3f-9093-3306c6831bde"
     }
   },
-  "created": "2020-04-08T19:41:32.504Z",
-  "lastModified": "2020-04-08T19:41:32.504Z"
+  "created": "2020-04-17T15:22:54.433Z",
+  "lastModified": "2020-04-17T15:22:54.433Z",
+  "code": 201
 }

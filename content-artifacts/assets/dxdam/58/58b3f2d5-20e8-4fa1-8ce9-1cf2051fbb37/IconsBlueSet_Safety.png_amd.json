@@ -5,35 +5,58 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "bd95a5b2-ff1e-47e7-bee7-1a52dc49b53c",
+  "lastModifier": "David Klages",
+  "mediaId": "24bd79f1-a44f-477d-9b26-1a744ade3470",
   "path": "/dxdam/58/58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37/IconsBlueSet_Safety.png",
   "digest": "Me9n+uc7QapvI7VvDhzahg==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=49bdbe6a-6121-48ea-9464-d10739d2bd5f&a=58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37",
       "source": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37/status/retire"
+    }
+  },
   "id": "58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:01:57.525Z",
+  "systemModified": "2020-04-17T15:23:24.144Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "tile",
+      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -49,7 +72,9 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "block",
+      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -64,32 +89,17 @@
       "height": 240
     }
   ],
-  "rev": "3-aba927f640f3b934964a0857b7326d5e",
+  "rev": "1-3a71f4647df3b79d3edd07d12ce61f6b",
+  "creator": "David Klages",
   "altText": "",
   "resource": "49bdbe6a-6121-48ea-9464-d10739d2bd5f",
-  "created": "2020-04-10T17:21:04.326Z",
+  "created": "2020-04-17T15:23:24.138Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:clevis (coupler)",
-      "classification:mechanical device",
-      "classification:fluorescent lamp",
-      "classification:lamp",
-      "classification:adhesive plaster",
-      "classification:open-end wrench",
-      "classification:wrench",
-      "classification:tool",
-      "classification:Stillson wrench",
-      "classification:adjustable wrench",
-      "classification:razorblade",
-      "classification:mechanism",
-      "classification:blue color"
-    ],
     "declined": [
       "classification:clevis (coupler)",
       "classification:mechanical device",
@@ -110,38 +120,16 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "clevis (coupler)",
-      "mechanical device",
-      "fluorescent lamp",
-      "lamp",
-      "adhesive plaster",
-      "open-end wrench",
-      "wrench",
-      "tool",
-      "Stillson wrench",
-      "adjustable wrench",
-      "razorblade",
-      "mechanism",
-      "blue color"
-    ],
-    "colors": {
-      "lightMuted": "#037595",
-      "darkMuted": "#034f95",
-      "lightVibrant": "#8ce4fc",
-      "vibrant": "#045cb4",
-      "muted": "#034c95",
-      "darkVibrant": "#045cac"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 33351,
   "name": "IconsBlueSet_Safety.png",
-  "lastModified": "2020-04-15T18:01:57.525Z",
+  "lastModified": "2020-04-17T15:23:24.144Z",
   "status": "ready"
 }

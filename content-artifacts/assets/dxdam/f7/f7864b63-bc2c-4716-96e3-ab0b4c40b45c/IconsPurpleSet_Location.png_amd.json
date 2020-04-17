@@ -5,46 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "6b3db2dd-3975-430b-99ca-659ce1b7dc9b",
+  "lastModifier": "David Klages",
+  "mediaId": "8a551b1a-8935-4a35-ad8d-af00334f48f9",
   "path": "/dxdam/f7/f7864b63-bc2c-4716-96e3-ab0b4c40b45c/IconsPurpleSet_Location.png",
   "digest": "EdyyBQJ2R3fu++X2ickoEw==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=19dd68b9-af2b-4f3a-85a7-b6daf787e9b3&a=f7864b63-bc2c-4716-96e3-ab0b4c40b45c",
       "source": "/authoring/v1/resources/19dd68b9-af2b-4f3a-85a7-b6daf787e9b3"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/f7864b63-bc2c-4716-96e3-ab0b4c40b45c"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/19dd68b9-af2b-4f3a-85a7-b6daf787e9b3.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/19dd68b9-af2b-4f3a-85a7-b6daf787e9b3?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/f7864b63-bc2c-4716-96e3-ab0b4c40b45c/status/retire"
+    }
+  },
   "id": "f7864b63-bc2c-4716-96e3-ab0b4c40b45c",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:13:39.531Z",
+  "systemModified": "2020-04-17T15:23:35.188Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-7164e9989bf3b1bfcb9682fd5cd67dba",
+  "rev": "1-eaa5a3c2b641492556297e3b56d753e4",
+  "creator": "David Klages",
   "altText": "",
   "resource": "19dd68b9-af2b-4f3a-85a7-b6daf787e9b3",
-  "created": "2020-04-10T17:07:18.256Z",
+  "created": "2020-04-17T15:23:35.166Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:diskette",
-      "classification:memory device",
-      "classification:purple color"
-    ],
     "declined": [
       "classification:diskette",
       "classification:memory device"
@@ -54,28 +70,16 @@
       "user:location",
       "user:purple"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "diskette",
-      "memory device",
-      "purple color"
-    ],
-    "colors": {
-      "lightMuted": "#cc91c6",
-      "darkMuted": "#940493",
-      "lightVibrant": "#ee8bea",
-      "vibrant": "#c43cbc",
-      "muted": "#a959a6",
-      "darkVibrant": "#7c047b"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 35467,
   "name": "IconsPurpleSet_Location.png",
-  "lastModified": "2020-04-15T18:13:39.531Z",
+  "lastModified": "2020-04-17T15:23:35.188Z",
   "status": "ready"
 }

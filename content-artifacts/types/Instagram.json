@@ -1,6 +1,6 @@
 {
   "id": "170596b8-828d-4321-93a8-bf606b9f9456",
-  "rev": "7-03d80cd2b058daa0da37dc686a714a69",
+  "rev": "1-7b772b844d58d811435ae2ceb3e265b6",
   "name": "Instagram",
   "classification": "content-type",
   "kind": [],
@@ -13,6 +13,9 @@
   "tags": [],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "categories": [
+    "Social Media/Social Media"
   ],
   "elements": [
     {

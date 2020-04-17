@@ -5,46 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "5bd602d5-a1a9-4bd2-95f8-4048b42247f6",
+  "lastModifier": "David Klages",
+  "mediaId": "95e3f4b8-73f8-4242-b961-3bff2e2097d2",
   "path": "/dxdam/b8/b8d0032c-88c9-4ebd-b173-1d789e23fe0b/IconsRedSet_Location.png",
   "digest": "N5Pp5rRIQLrIwwBcCKwqZA==",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=8d268593-cab3-46f0-8dce-75060d6e70da&a=b8d0032c-88c9-4ebd-b173-1d789e23fe0b",
       "source": "/authoring/v1/resources/8d268593-cab3-46f0-8dce-75060d6e70da"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/b8d0032c-88c9-4ebd-b173-1d789e23fe0b"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/8d268593-cab3-46f0-8dce-75060d6e70da.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/8d268593-cab3-46f0-8dce-75060d6e70da?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/b8d0032c-88c9-4ebd-b173-1d789e23fe0b/status/retire"
+    }
+  },
   "id": "b8d0032c-88c9-4ebd-b173-1d789e23fe0b",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-10T17:23:09.313Z",
+  "systemModified": "2020-04-17T15:23:29.593Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "1-b56c1e7815b5aa579ce8af6e011d4a4a",
+  "rev": "1-10ca0e55a5c73c59c202515593153236",
+  "creator": "David Klages",
   "altText": "",
   "resource": "8d268593-cab3-46f0-8dce-75060d6e70da",
-  "created": "2020-04-10T17:04:21.784Z",
+  "created": "2020-04-17T15:23:29.549Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:fire alarm",
-      "classification:alarm",
-      "classification:dark red color"
-    ],
     "declined": [
       "classification:fire alarm",
       "classification:alarm",
@@ -55,28 +71,16 @@
       "user:red color",
       "user:location"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "fire alarm",
-      "alarm",
-      "dark red color"
-    ],
-    "colors": {
-      "lightMuted": "#951d03",
-      "darkMuted": "#94040e",
-      "lightVibrant": "#fc8c74",
-      "vibrant": "#cc0414",
-      "muted": "#96020e",
-      "darkVibrant": "#d40615"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 34738,
   "name": "IconsRedSet_Location.png",
-  "lastModified": "2020-04-10T17:23:09.313Z",
+  "lastModified": "2020-04-17T15:23:29.593Z",
   "status": "ready"
 }

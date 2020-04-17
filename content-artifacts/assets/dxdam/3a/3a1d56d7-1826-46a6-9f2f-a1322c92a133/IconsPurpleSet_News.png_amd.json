@@ -5,50 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "b905f90a-731a-4927-bdd8-4a48f6c90e76",
+  "lastModifier": "David Klages",
+  "mediaId": "96c87db0-a3a0-4171-ba75-c6462493de3d",
   "path": "/dxdam/3a/3a1d56d7-1826-46a6-9f2f-a1322c92a133/IconsPurpleSet_News.png",
   "digest": "AfjhBPobD2jm75k8P8afZQ==",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=5753fa7d-bace-4bc9-bbcb-25772812b720&a=3a1d56d7-1826-46a6-9f2f-a1322c92a133",
       "source": "/authoring/v1/resources/5753fa7d-bace-4bc9-bbcb-25772812b720"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/3a1d56d7-1826-46a6-9f2f-a1322c92a133"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/5753fa7d-bace-4bc9-bbcb-25772812b720.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/5753fa7d-bace-4bc9-bbcb-25772812b720?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/3a1d56d7-1826-46a6-9f2f-a1322c92a133/status/retire"
+    }
+  },
   "id": "3a1d56d7-1826-46a6-9f2f-a1322c92a133",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-10T17:23:09.312Z",
+  "systemModified": "2020-04-17T15:23:22.393Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "1-02f15a2b546ecc415030d30569a49478",
+  "rev": "1-18ca4d7e72700af50275aa1b4d50fade",
+  "creator": "David Klages",
   "altText": "",
   "resource": "5753fa7d-bace-4bc9-bbcb-25772812b720",
-  "created": "2020-04-10T17:07:18.248Z",
+  "created": "2020-04-17T15:23:22.387Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:quadrate",
-      "classification:polygon",
-      "classification:figure",
-      "classification:diskette",
-      "classification:memory device",
-      "classification:L-plate (learners plate for car)",
-      "classification:purple color"
-    ],
     "declined": [
       "classification:quadrate",
       "classification:polygon",
@@ -62,32 +74,16 @@
       "user:news",
       "user:purple"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "quadrate",
-      "polygon",
-      "figure",
-      "diskette",
-      "memory device",
-      "L-plate (learners plate for car)",
-      "purple color"
-    ],
-    "colors": {
-      "lightMuted": "#bc7cb4",
-      "darkMuted": "#940494",
-      "lightVibrant": "#f474f1",
-      "vibrant": "#c644c4",
-      "muted": "#944494",
-      "darkVibrant": "#7c047c"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 21994,
   "name": "IconsPurpleSet_News.png",
-  "lastModified": "2020-04-10T17:23:09.312Z",
+  "lastModified": "2020-04-17T15:23:22.393Z",
   "status": "ready"
 }

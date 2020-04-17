@@ -5,53 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "d478e7f7-8480-41f4-a2d3-704a5463219c",
+  "lastModifier": "David Klages",
+  "mediaId": "7788c163-af50-4b9c-bb29-0801ca505cd5",
   "path": "/dxdam/cb/cba478c7-f78d-4705-84c5-257190d12d03/IconsOrangeSet_Connection_Research.png",
   "digest": "hyesB63TQr+hhrQJNX06aw==",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=af8c71ee-3e6a-4ec6-b75f-05425a171e78&a=cba478c7-f78d-4705-84c5-257190d12d03",
       "source": "/authoring/v1/resources/af8c71ee-3e6a-4ec6-b75f-05425a171e78"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/cba478c7-f78d-4705-84c5-257190d12d03"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/af8c71ee-3e6a-4ec6-b75f-05425a171e78.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/af8c71ee-3e6a-4ec6-b75f-05425a171e78?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/cba478c7-f78d-4705-84c5-257190d12d03/status/retire"
+    }
+  },
   "id": "cba478c7-f78d-4705-84c5-257190d12d03",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-10T17:23:09.313Z",
+  "systemModified": "2020-04-17T15:23:30.600Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "1-1d2d30584f12a4fb3c8c9253af86ce0a",
+  "rev": "1-c6fe986b3c18ea4a60a34356ab50eada",
+  "creator": "David Klages",
   "altText": "",
   "resource": "af8c71ee-3e6a-4ec6-b75f-05425a171e78",
-  "created": "2020-04-10T17:11:00.778Z",
+  "created": "2020-04-17T15:23:30.595Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:sconce (lighting)",
-      "classification:light source",
-      "classification:electric switch",
-      "classification:controller",
-      "classification:doorbell",
-      "classification:push button",
-      "classification:source of illumination",
-      "classification:lamp",
-      "classification:reddish orange color",
-      "classification:pale yellow color"
-    ],
     "declined": [
       "classification:sconce (lighting)",
       "classification:light source",
@@ -69,35 +78,16 @@
       "user:orange",
       "user:orange color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "sconce (lighting)",
-      "light source",
-      "electric switch",
-      "controller",
-      "doorbell",
-      "push button",
-      "source of illumination",
-      "lamp",
-      "reddish orange color",
-      "pale yellow color"
-    ],
-    "colors": {
-      "lightMuted": "#955e03",
-      "darkMuted": "#913507",
-      "lightVibrant": "#fcd088",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 36332,
   "name": "IconsOrangeSet_Connection_Research.png",
-  "lastModified": "2020-04-10T17:23:09.313Z",
+  "lastModified": "2020-04-17T15:23:30.600Z",
   "status": "ready"
 }

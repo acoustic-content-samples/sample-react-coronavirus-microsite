@@ -5,55 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "a9b80b40-c3d1-445c-bff4-015e09cbb6e8",
+  "lastModifier": "David Klages",
+  "mediaId": "72e47825-2d96-4d08-a92c-a0da2ac88243",
   "path": "/dxdam/10/10b0144c-8df1-4266-90b7-40f451cef3ff/IconsOrangeSet_Connection_Give.png",
   "digest": "7NEqP50/wOG4cQwYvaGTtQ==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=0368f9fa-6cc9-4662-958f-b17635a1bc49&a=10b0144c-8df1-4266-90b7-40f451cef3ff",
       "source": "/authoring/v1/resources/0368f9fa-6cc9-4662-958f-b17635a1bc49"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/10b0144c-8df1-4266-90b7-40f451cef3ff"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/0368f9fa-6cc9-4662-958f-b17635a1bc49.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/0368f9fa-6cc9-4662-958f-b17635a1bc49?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/10b0144c-8df1-4266-90b7-40f451cef3ff/status/retire"
+    }
+  },
   "id": "10b0144c-8df1-4266-90b7-40f451cef3ff",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:09:36.599Z",
+  "systemModified": "2020-04-17T15:23:18.284Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-6f8ca0898fada28505786444faf96711",
+  "rev": "1-1fbb709a25df20c9449bb6762fda581b",
+  "creator": "David Klages",
   "altText": "",
   "resource": "0368f9fa-6cc9-4662-958f-b17635a1bc49",
-  "created": "2020-04-10T17:10:55.961Z",
+  "created": "2020-04-17T15:23:18.254Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:telephone jack",
-      "classification:electrical device",
-      "classification:mouthpiece",
-      "classification:key",
-      "classification:earplug",
-      "classification:plug",
-      "classification:L-plate (learners plate for car)",
-      "classification:whistle",
-      "classification:musical instrument",
-      "classification:tool",
-      "classification:alizarine red color",
-      "classification:reddish orange color"
-    ],
     "declined": [
       "classification:telephone jack",
       "classification:electrical device",
@@ -74,37 +81,16 @@
       "user:orange",
       "user:orange color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "telephone jack",
-      "electrical device",
-      "mouthpiece",
-      "key",
-      "earplug",
-      "plug",
-      "L-plate (learners plate for car)",
-      "whistle",
-      "musical instrument",
-      "tool",
-      "alizarine red color",
-      "reddish orange color"
-    ],
-    "colors": {
-      "lightMuted": "#953703",
-      "darkMuted": "#913507",
-      "lightVibrant": "#fcb48c",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 29689,
   "name": "IconsOrangeSet_Connection_Give.png",
-  "lastModified": "2020-04-15T18:09:36.599Z",
+  "lastModified": "2020-04-17T15:23:18.284Z",
   "status": "ready"
 }

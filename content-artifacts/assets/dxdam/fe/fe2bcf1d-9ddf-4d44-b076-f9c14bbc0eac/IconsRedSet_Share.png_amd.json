@@ -5,49 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "ebb27a8f-164a-4a3f-9648-54c1210a10be",
+  "lastModifier": "David Klages",
+  "mediaId": "d2a17f35-2a2a-4c09-b225-bc4dbacced78",
   "path": "/dxdam/fe/fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac/IconsRedSet_Share.png",
   "digest": "NvVjlSEpL//j0NsJoDUtEA==",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=3b93f370-d004-4598-8833-77a72714242d&a=fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac",
       "source": "/authoring/v1/resources/3b93f370-d004-4598-8833-77a72714242d"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/3b93f370-d004-4598-8833-77a72714242d.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/3b93f370-d004-4598-8833-77a72714242d?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac/status/retire"
+    }
+  },
   "id": "fe2bcf1d-9ddf-4d44-b076-f9c14bbc0eac",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-10T17:23:09.313Z",
+  "systemModified": "2020-04-17T15:23:37.125Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "1-3fa0f413db9b3cd64239bfef40efeef7",
+  "rev": "1-bd2df3be4ce005db84f03e9f9d7a53eb",
+  "creator": "David Klages",
   "altText": "",
   "resource": "3b93f370-d004-4598-8833-77a72714242d",
-  "created": "2020-04-10T17:04:22.306Z",
+  "created": "2020-04-17T15:23:37.112Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:electric switch",
-      "classification:controller",
-      "classification:telephone jack",
-      "classification:electrical device",
-      "classification:push button",
-      "classification:pink color"
-    ],
     "declined": [
       "classification:electric switch",
       "classification:controller",
@@ -61,31 +74,16 @@
       "user:red color",
       "user:share"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "electric switch",
-      "controller",
-      "telephone jack",
-      "electrical device",
-      "push button",
-      "pink color"
-    ],
-    "colors": {
-      "lightMuted": "#941704",
-      "darkMuted": "#90080e",
-      "lightVibrant": "#fb8a79",
-      "vibrant": "#cc0414",
-      "muted": "#96020e",
-      "darkVibrant": "#c40c14"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 33171,
   "name": "IconsRedSet_Share.png",
-  "lastModified": "2020-04-10T17:23:09.313Z",
+  "lastModified": "2020-04-17T15:23:37.125Z",
   "status": "ready"
 }

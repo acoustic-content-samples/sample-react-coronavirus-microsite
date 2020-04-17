@@ -1,22 +1,20 @@
 {
-  "name": "Social Media Configuration",
-  "lastModified": "2020-04-14T14:26:31.205Z",
+  "rev": "1-c47d3156c76ca1dceff0e49fb39eb9bf",
+  "creator": "David Klages",
+  "access": "public",
+  "created": "2020-04-17T15:22:50.370Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "Includes all social media icons",
+  "lastModifier": "David Klages",
+  "owners": [],
+  "classification": "library",
   "tags": [
     "social media"
   ],
-  "owners": [
-    {
-      "id": "ab9f9ba5-3215-4f12-a053-2b2a9927311d"
-    }
-  ],
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
-  "systemModified": "2020-04-14T14:26:31.205Z",
-  "rev": "3-8f2b13dfb6fd3a576b7d6e93636a5452",
-  "id": "51797f7c-589c-431e-9437-a4d3fd1ea560",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "classification": "library",
+  "name": "Social Media Configuration",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModified": "2020-04-17T15:22:50.371Z",
   "contributors": [],
-  "created": "2020-04-11T22:47:52.147Z",
-  "access": "public"
+  "id": "51797f7c-589c-431e-9437-a4d3fd1ea560",
+  "systemModified": "2020-04-17T15:22:50.371Z"
 }

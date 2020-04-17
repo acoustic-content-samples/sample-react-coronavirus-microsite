@@ -2,33 +2,55 @@
   "fileName": "YT_Color.svg",
   "metadata": {},
   "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "2c331fc6-7260-4b3f-9bbe-aa19f4c2a0a7",
+  "lastModifier": "David Klages",
+  "mediaId": "e51ce32f-6630-46f4-84c5-7697056eb0f3",
   "path": "/dxdam/02/024e51e2-f544-4b57-ad18-0d13e09706bd/YT_Color.svg",
   "digest": "+SPbgJT/Jv4/bKIKEeeMLg==",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=000de2a3-7c21-4dfd-9874-f9fc3492e894&a=024e51e2-f544-4b57-ad18-0d13e09706bd",
       "source": "/authoring/v1/resources/000de2a3-7c21-4dfd-9874-f9fc3492e894"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/024e51e2-f544-4b57-ad18-0d13e09706bd"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/000de2a3-7c21-4dfd-9874-f9fc3492e894.svg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/000de2a3-7c21-4dfd-9874-f9fc3492e894"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/024e51e2-f544-4b57-ad18-0d13e09706bd/status/retire"
+    }
+  },
   "id": "024e51e2-f544-4b57-ad18-0d13e09706bd",
+  "categories": [
+    "Social Media/Social Media",
+    "Social Media/Social Media/YouTube"
+  ],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-11T22:50:04.871Z",
+  "systemModified": "2020-04-17T15:23:17.771Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-1ff1c30c761186a8bd73ded51a9c5767",
+  "rev": "1-156bcd4931f82662f81332d85962f629",
+  "creator": "David Klages",
   "altText": "",
   "resource": "000de2a3-7c21-4dfd-9874-f9fc3492e894",
-  "created": "2020-04-10T06:55:06.764Z",
+  "created": "2020-04-17T15:23:17.766Z",
   "profiles": [],
   "mediaType": "image/svg+xml",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
     "declined": [],
     "values": [
@@ -36,6 +58,7 @@
     ],
     "analysis": "none"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a",
@@ -46,6 +69,6 @@
   },
   "fileSize": 651,
   "name": "YT_Color.svg",
-  "lastModified": "2020-04-11T22:50:04.871Z",
+  "lastModified": "2020-04-17T15:23:17.771Z",
   "status": "ready"
 }

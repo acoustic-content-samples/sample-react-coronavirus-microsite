@@ -5,52 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "8ff94cc8-2cae-4a4e-8c48-fa6eb21f2d5f",
+  "lastModifier": "David Klages",
+  "mediaId": "b7965f20-29b3-40d1-b466-dd4a6327a3ad",
   "path": "/dxdam/95/959ada14-4582-405f-8e5a-7e83615660ed/IconsGreenSet_Shelter.png",
   "digest": "qKTDpQkaniliqEemK3W21w==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=ee866c29-3d92-457d-860a-22380cca5017&a=959ada14-4582-405f-8e5a-7e83615660ed",
       "source": "/authoring/v1/resources/ee866c29-3d92-457d-860a-22380cca5017"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/959ada14-4582-405f-8e5a-7e83615660ed"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/ee866c29-3d92-457d-860a-22380cca5017.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/ee866c29-3d92-457d-860a-22380cca5017?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/959ada14-4582-405f-8e5a-7e83615660ed/status/retire"
+    }
+  },
   "id": "959ada14-4582-405f-8e5a-7e83615660ed",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:12:34.878Z",
+  "systemModified": "2020-04-17T15:23:28.402Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-7d395f955a04f33c3b39b0571ab02d52",
+  "rev": "1-00e639aee3627a5160bcc041a589f0c0",
+  "creator": "David Klages",
   "altText": "",
   "resource": "ee866c29-3d92-457d-860a-22380cca5017",
-  "created": "2020-04-10T17:18:40.372Z",
+  "created": "2020-04-17T15:23:28.381Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:octagon",
-      "classification:polygon",
-      "classification:figure",
-      "classification:convex polygon",
-      "classification:diskette",
-      "classification:memory device",
-      "classification:concave polygon",
-      "classification:blue color",
-      "classification:emerald color"
-    ],
     "declined": [
       "classification:octagon",
       "classification:polygon",
@@ -67,34 +77,16 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "octagon",
-      "polygon",
-      "figure",
-      "convex polygon",
-      "diskette",
-      "memory device",
-      "concave polygon",
-      "blue color",
-      "emerald color"
-    ],
-    "colors": {
-      "lightMuted": "#7cc4b4",
-      "darkMuted": "#049481",
-      "lightVibrant": "#b6eedf",
-      "vibrant": "#14f9ac",
-      "muted": "#74bcb4",
-      "darkVibrant": "#047c6c"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 29170,
   "name": "IconsGreenSet_Shelter.png",
-  "lastModified": "2020-04-15T18:12:34.878Z",
+  "lastModified": "2020-04-17T15:23:28.402Z",
   "status": "ready"
 }

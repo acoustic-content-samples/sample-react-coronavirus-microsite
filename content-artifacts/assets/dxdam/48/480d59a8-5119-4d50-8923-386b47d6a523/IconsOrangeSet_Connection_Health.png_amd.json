@@ -5,46 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "206cf723-ebf6-4cd6-88a3-41ddfa9869a0",
+  "lastModifier": "David Klages",
+  "mediaId": "51891853-305d-494b-8bf3-b31ad5f07958",
   "path": "/dxdam/48/480d59a8-5119-4d50-8923-386b47d6a523/IconsOrangeSet_Connection_Health.png",
   "digest": "TGuqN8KSTdkGUkKMbjyk8g==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=4aac2ac5-dad6-418f-a113-5e291fd2032c&a=480d59a8-5119-4d50-8923-386b47d6a523",
       "source": "/authoring/v1/resources/4aac2ac5-dad6-418f-a113-5e291fd2032c"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/480d59a8-5119-4d50-8923-386b47d6a523"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/4aac2ac5-dad6-418f-a113-5e291fd2032c.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/4aac2ac5-dad6-418f-a113-5e291fd2032c?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/480d59a8-5119-4d50-8923-386b47d6a523/status/retire"
+    }
+  },
   "id": "480d59a8-5119-4d50-8923-386b47d6a523",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:11:53.910Z",
+  "systemModified": "2020-04-17T15:23:22.786Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-f97067c232df7d9ae909df9f6361d160",
+  "rev": "1-136d2c24f6e9feb1745996c6234d88d5",
+  "creator": "David Klages",
   "altText": "",
   "resource": "4aac2ac5-dad6-418f-a113-5e291fd2032c",
-  "created": "2020-04-10T17:10:58.812Z",
+  "created": "2020-04-17T15:23:22.681Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:religious symbol",
-      "classification:alizarine red color",
-      "classification:reddish orange color"
-    ],
     "declined": [
       "classification:religious symbol",
       "classification:alizarine red color",
@@ -55,28 +71,16 @@
       "user:orange",
       "user:orange color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "religious symbol",
-      "alizarine red color",
-      "reddish orange color"
-    ],
-    "colors": {
-      "lightMuted": "#8d3f0b",
-      "darkMuted": "#913507",
-      "lightVibrant": "#f4ac7c",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 19651,
   "name": "IconsOrangeSet_Connection_Health.png",
-  "lastModified": "2020-04-15T18:11:53.910Z",
+  "lastModified": "2020-04-17T15:23:22.786Z",
   "status": "ready"
 }

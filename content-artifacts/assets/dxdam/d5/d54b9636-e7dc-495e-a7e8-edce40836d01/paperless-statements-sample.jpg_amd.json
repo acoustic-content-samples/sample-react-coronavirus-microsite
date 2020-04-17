@@ -5,28 +5,49 @@
     "height": 2177
   },
   "libraryId": "default",
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "c476b7a8-87a0-4762-9e49-95c1f5deadf1",
+  "lastModifier": "David Klages",
+  "mediaId": "c67bd782-764e-47b9-8e8b-a30047702693",
   "path": "/dxdam/d5/d54b9636-e7dc-495e-a7e8-edce40836d01/paperless-statements-sample.jpg",
   "digest": "mNldVel/OLU016KomatT9Q==",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=4cb04cd9-9807-408e-884d-10bd6932f494&a=d54b9636-e7dc-495e-a7e8-edce40836d01",
       "source": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/d54b9636-e7dc-495e-a7e8-edce40836d01"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494.jpg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/4cb04cd9-9807-408e-884d-10bd6932f494?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/d54b9636-e7dc-495e-a7e8-edce40836d01/status/retire"
+    }
+  },
   "id": "d54b9636-e7dc-495e-a7e8-edce40836d01",
+  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-15T12:50:18.385Z",
+  "systemModified": "2020-04-17T15:23:32.572Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "profileName": "Update Article Profile",
       "key": "article",
+      "label": "Article",
       "transform": {
         "scale": 0.2742686170212766,
         "crop": {
@@ -41,35 +62,17 @@
       "height": 320
     }
   ],
-  "rev": "1-50a3d8078e9b9031fff97c25b6022798",
+  "rev": "1-88426c1d8a3eec949e3a6ba0d5fe7692",
+  "creator": "David Klages",
   "altText": "",
   "resource": "4cb04cd9-9807-408e-884d-10bd6932f494",
-  "created": "2020-04-15T12:45:50.669Z",
+  "created": "2020-04-17T15:23:32.565Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:computer user",
-      "classification:person",
-      "classification:touch screen",
-      "classification:video display",
-      "classification:electronic device",
-      "classification:personal digital assistant",
-      "classification:appliance (gadget)",
-      "classification:communication system",
-      "classification:system",
-      "classification:portable computer",
-      "classification:personal computer",
-      "classification:digital computer",
-      "classification:computer",
-      "classification:machine",
-      "classification:blue color",
-      "classification:jade green color"
-    ],
     "declined": [],
     "values": [
       "classification:computer user",
@@ -89,41 +92,16 @@
       "classification:blue color",
       "classification:jade green color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "computer user",
-      "person",
-      "touch screen",
-      "video display",
-      "electronic device",
-      "personal digital assistant",
-      "appliance (gadget)",
-      "communication system",
-      "system",
-      "portable computer",
-      "personal computer",
-      "digital computer",
-      "computer",
-      "machine",
-      "blue color",
-      "jade green color"
-    ],
-    "colors": {
-      "lightMuted": "#c7c0ae",
-      "darkMuted": "#633c2b",
-      "lightVibrant": "#98e0d5",
-      "vibrant": "#2c9484",
-      "muted": "#886c5b",
-      "darkVibrant": "#5c1c14"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 523915,
   "name": "paperless-statements-sample.jpg",
-  "lastModified": "2020-04-15T12:50:18.385Z",
+  "lastModified": "2020-04-17T15:23:32.572Z",
   "status": "ready"
 }

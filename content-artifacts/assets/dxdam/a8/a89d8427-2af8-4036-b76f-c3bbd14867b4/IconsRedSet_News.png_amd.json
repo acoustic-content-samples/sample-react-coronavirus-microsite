@@ -5,48 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "16921be9-b922-4ae6-adec-6a42cb68fe35",
+  "lastModifier": "David Klages",
+  "mediaId": "14edd86f-44e6-4065-a604-36d523feec3a",
   "path": "/dxdam/a8/a89d8427-2af8-4036-b76f-c3bbd14867b4/IconsRedSet_News.png",
   "digest": "3z217R30yBGbyuDDtORCoQ==",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=1932dec6-26b1-46e5-99b6-583d9c3719f9&a=a89d8427-2af8-4036-b76f-c3bbd14867b4",
       "source": "/authoring/v1/resources/1932dec6-26b1-46e5-99b6-583d9c3719f9"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/a89d8427-2af8-4036-b76f-c3bbd14867b4"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/1932dec6-26b1-46e5-99b6-583d9c3719f9.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/1932dec6-26b1-46e5-99b6-583d9c3719f9?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/a89d8427-2af8-4036-b76f-c3bbd14867b4/status/retire"
+    }
+  },
   "id": "a89d8427-2af8-4036-b76f-c3bbd14867b4",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-10T17:23:09.312Z",
+  "systemModified": "2020-04-17T15:23:30.317Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "1-3cd8c575560d99050352f4642e3b5c42",
+  "rev": "1-fbd9c54a37b36b7ea853d7352b50dc4f",
+  "creator": "David Klages",
   "altText": "",
   "resource": "1932dec6-26b1-46e5-99b6-583d9c3719f9",
-  "created": "2020-04-10T17:04:17.285Z",
+  "created": "2020-04-17T15:23:30.307Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:L-plate (learners plate for car)",
-      "classification:fire alarm",
-      "classification:figure",
-      "classification:alarm",
-      "classification:alizarine red color"
-    ],
     "declined": [
       "classification:L-plate (learners plate for car)",
       "classification:fire alarm",
@@ -59,30 +73,16 @@
       "user:news",
       "user:red color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "L-plate (learners plate for car)",
-      "fire alarm",
-      "figure",
-      "alarm",
-      "alizarine red color"
-    ],
-    "colors": {
-      "lightMuted": "#951e03",
-      "darkMuted": "#90080e",
-      "lightVibrant": "#fc947c",
-      "vibrant": "#cc0414",
-      "muted": "#96020e",
-      "darkVibrant": "#c40c14"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 21856,
   "name": "IconsRedSet_News.png",
-  "lastModified": "2020-04-10T17:23:09.312Z",
+  "lastModified": "2020-04-17T15:23:30.317Z",
   "status": "ready"
 }

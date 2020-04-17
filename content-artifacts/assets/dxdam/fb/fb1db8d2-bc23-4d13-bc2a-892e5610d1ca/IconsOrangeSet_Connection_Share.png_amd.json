@@ -5,49 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "a333c7ce-decf-4597-a028-f3e6325592c4",
+  "lastModifier": "David Klages",
+  "mediaId": "d6709a76-179a-4eea-9e78-5b0bbf2f4f00",
   "path": "/dxdam/fb/fb1db8d2-bc23-4d13-bc2a-892e5610d1ca/IconsOrangeSet_Connection_Share.png",
   "digest": "hCz+HGQLVeOP3tdASEfaVw==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=ef24bd8d-b812-43da-b2f4-e5d2caba1564&a=fb1db8d2-bc23-4d13-bc2a-892e5610d1ca",
       "source": "/authoring/v1/resources/ef24bd8d-b812-43da-b2f4-e5d2caba1564"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/fb1db8d2-bc23-4d13-bc2a-892e5610d1ca"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/ef24bd8d-b812-43da-b2f4-e5d2caba1564.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/ef24bd8d-b812-43da-b2f4-e5d2caba1564?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/fb1db8d2-bc23-4d13-bc2a-892e5610d1ca/status/retire"
+    }
+  },
   "id": "fb1db8d2-bc23-4d13-bc2a-892e5610d1ca",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:10:51.993Z",
+  "systemModified": "2020-04-17T15:23:36.043Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-353e46ecba85b4cd6895a3ca76027189",
+  "rev": "1-ad3c50800e3fc7f700f4fa6164cf186d",
+  "creator": "David Klages",
   "altText": "",
   "resource": "ef24bd8d-b812-43da-b2f4-e5d2caba1564",
-  "created": "2020-04-10T17:11:01.311Z",
+  "created": "2020-04-17T15:23:36.038Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:electric switch",
-      "classification:controller",
-      "classification:electrical device",
-      "classification:push button",
-      "classification:reddish orange color",
-      "classification:orange color"
-    ],
     "declined": [
       "classification:electric switch",
       "classification:controller",
@@ -60,31 +73,16 @@
       "user:orange",
       "user:share"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "electric switch",
-      "controller",
-      "electrical device",
-      "push button",
-      "reddish orange color",
-      "orange color"
-    ],
-    "colors": {
-      "lightMuted": "#935505",
-      "darkMuted": "#913507",
-      "lightVibrant": "#fbcc8f",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 32943,
   "name": "IconsOrangeSet_Connection_Share.png",
-  "lastModified": "2020-04-15T18:10:51.993Z",
+  "lastModified": "2020-04-17T15:23:36.043Z",
   "status": "ready"
 }

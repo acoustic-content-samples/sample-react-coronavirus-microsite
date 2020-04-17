@@ -1,20 +1,18 @@
 {
-  "name": "Icons and Clip Art",
-  "lastModified": "2020-04-14T22:21:27.681Z",
+  "rev": "1-1a7415d936b94385caf023d91a696b63",
+  "creator": "David Klages",
+  "access": "public",
+  "created": "2020-04-17T15:22:50.342Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "Icon Sets in various colors to use in your Updates",
-  "tags": [],
-  "owners": [
-    {
-      "id": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d"
-    }
-  ],
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "systemModified": "2020-04-14T22:21:27.681Z",
-  "rev": "2-d1a563b30caee3340ac71e521e19b49e",
-  "id": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "lastModifierId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "lastModifier": "David Klages",
+  "owners": [],
   "classification": "library",
+  "tags": [],
+  "name": "Icons and Clip Art",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModified": "2020-04-17T15:22:50.342Z",
   "contributors": [],
-  "created": "2020-04-10T13:42:08.539Z",
-  "access": "public"
+  "id": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
+  "systemModified": "2020-04-17T15:22:50.342Z"
 }

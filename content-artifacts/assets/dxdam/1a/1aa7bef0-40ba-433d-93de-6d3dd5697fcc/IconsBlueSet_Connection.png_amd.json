@@ -5,35 +5,58 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "c29810fe-00a7-420b-876f-7447d6577ac2",
+  "lastModifier": "David Klages",
+  "mediaId": "e6ac2a12-1d63-418c-a3cb-7760d24d6531",
   "path": "/dxdam/1a/1aa7bef0-40ba-433d-93de-6d3dd5697fcc/IconsBlueSet_Connection.png",
   "digest": "7nkzCRckFlsgmG/qFHh/Vw==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2&a=1aa7bef0-40ba-433d-93de-6d3dd5697fcc",
       "source": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/1aa7bef0-40ba-433d-93de-6d3dd5697fcc"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/1aa7bef0-40ba-433d-93de-6d3dd5697fcc/status/retire"
+    }
+  },
   "id": "1aa7bef0-40ba-433d-93de-6d3dd5697fcc",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:01:16.631Z",
+  "systemModified": "2020-04-17T15:23:19.139Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "tile",
+      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -49,7 +72,9 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "block",
+      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -64,28 +89,17 @@
       "height": 240
     }
   ],
-  "rev": "3-0aa8bcae0b9983ed2402d5eb269cbcc9",
+  "rev": "1-da47623f92de8fa9988e6779755a7d0e",
+  "creator": "David Klages",
   "altText": "",
   "resource": "cdaaae0c-3f83-4d6a-b1a4-c76d63a14cb2",
-  "created": "2020-04-10T17:21:00.899Z",
+  "created": "2020-04-17T15:23:19.126Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:triangle",
-      "classification:polygon",
-      "classification:figure",
-      "classification:coffee filter",
-      "classification:filter",
-      "classification:rhombus",
-      "classification:convex polygon",
-      "classification:rescue equipment",
-      "classification:blue color"
-    ],
     "declined": [
       "classification:triangle",
       "classification:polygon",
@@ -103,34 +117,16 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "triangle",
-      "polygon",
-      "figure",
-      "coffee filter",
-      "filter",
-      "rhombus",
-      "convex polygon",
-      "rescue equipment",
-      "blue color"
-    ],
-    "colors": {
-      "lightMuted": "#037495",
-      "darkMuted": "#034f95",
-      "lightVibrant": "#8de3fc",
-      "vibrant": "#045cb4",
-      "muted": "#034c95",
-      "darkVibrant": "#045cac"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 31365,
   "name": "IconsBlueSet_Connection.png",
-  "lastModified": "2020-04-15T18:01:16.631Z",
+  "lastModified": "2020-04-17T15:23:19.139Z",
   "status": "ready"
 }

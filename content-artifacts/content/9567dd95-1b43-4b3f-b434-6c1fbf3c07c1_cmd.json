@@ -1,14 +1,18 @@
 {
-  "rev": "5-e5ba1be740c143789177657ccede3ac5",
+  "rev": "1-71a204bb56a03a126b02208efbb8a320",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e"
+    "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e",
+    "url": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a?fit=inside%7C220:145"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-15T02:23:07.957Z",
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "created": "2020-04-17T15:24:28.701Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Local"
@@ -19,8 +23,36 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
+      "renditions": {
+        "article": {
+          "source": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a?resize=825px:1238px&crop=825:320;0,515",
+          "width": 825,
+          "height": 320,
+          "transform": {
+            "scale": 0.20625,
+            "crop": {
+              "x": 0,
+              "y": 515,
+              "width": 825,
+              "height": 320
+            }
+          }
+        },
+        "default": {
+          "width": 4000,
+          "source": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a",
+          "height": 6000
+        }
+      },
       "asset": {
-        "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e"
+        "fileName": "town_sample.jpg",
+        "altText": "",
+        "fileSize": 3984770,
+        "width": 4000,
+        "mediaType": "image/jpeg",
+        "id": "f56ee7fa-5e51-4a48-8122-6e0da259da5e",
+        "resourceUri": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a",
+        "height": 6000
       },
       "elementType": "image"
     },
@@ -32,6 +64,10 @@
       "categoryIds": [
         "0e0eecee-724e-4544-b3c6-de7bd356889d",
         "431db788-41ac-4c21-91cf-392cab835dfb"
+      ],
+      "categories": [
+        "Content Categories/General",
+        "Content Categories/Customer Service"
       ],
       "elementType": "category"
     },
@@ -55,8 +91,50 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
+      "renditions": {
+        "tile": {
+          "source": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951?resize=510px:510px&crop=510:192;0,159",
+          "width": 510,
+          "height": 192,
+          "transform": {
+            "scale": 0.25487,
+            "crop": {
+              "x": 0,
+              "y": 159,
+              "width": 510,
+              "height": 192
+            }
+          }
+        },
+        "block": {
+          "source": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951?resize=350px:350px&crop=350:240;0,55",
+          "width": 350,
+          "height": 240,
+          "transform": {
+            "scale": 0.17491,
+            "crop": {
+              "x": 0,
+              "y": 55,
+              "width": 350,
+              "height": 240
+            }
+          }
+        },
+        "default": {
+          "width": 2001,
+          "source": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951",
+          "height": 2001
+        }
+      },
       "asset": {
-        "id": "dc0a0720-072f-418f-af71-0598f39a8e8e"
+        "fileName": "IconsBlueSet_Location.png",
+        "altText": "",
+        "fileSize": 35350,
+        "width": 2001,
+        "mediaType": "image/png",
+        "id": "dc0a0720-072f-418f-af71-0598f39a8e8e",
+        "resourceUri": "/authoring/v1/resources/cd8941a1-5f1f-498f-a3c1-06299f911951",
+        "height": 2001
       },
       "elementType": "image"
     },
@@ -68,10 +146,30 @@
     }
   },
   "name": "Sample: Local communities",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/7d0cf40a-f9c5-4bdf-bea7-dbfdbe39b93a?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/9567dd95-1b43-4b3f-b434-6c1fbf3c07c1/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/9567dd95-1b43-4b3f-b434-6c1fbf3c07c1/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/9567dd95-1b43-4b3f-b434-6c1fbf3c07c1"
+    },
+    "type": {
+      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
+    }
+  },
   "id": "9567dd95-1b43-4b3f-b434-6c1fbf3c07c1",
-  "lastModified": "2020-04-15T12:55:05.933Z",
-  "systemModified": "2020-04-15T12:55:05.933Z",
+  "lastModified": "2020-04-17T15:24:28.701Z",
+  "systemModified": "2020-04-17T15:24:28.701Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

@@ -1,8 +1,8 @@
 {
   "id": "f0298c62-b331-482c-bc63-22e0e97ac85e",
-  "rev": "1-09b28a061ef40f152f43548b1e44a752",
+  "rev": "1-77b4efce6f012f2d16064c144008c4cd",
   "name": "Merriweather",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -27,6 +27,7 @@
       "href": "/authoring/v1/categories/8e8ecad2-11e2-42c5-87da-d0642381af3a"
     }
   },
-  "created": "2020-04-14T23:08:36.987Z",
-  "lastModified": "2020-04-14T23:08:36.987Z"
+  "created": "2020-04-17T15:22:54.758Z",
+  "lastModified": "2020-04-17T15:22:54.758Z",
+  "code": 201
 }

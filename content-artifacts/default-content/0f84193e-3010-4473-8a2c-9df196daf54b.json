@@ -1,20 +1,34 @@
 {
-  "rev": "3-0d8ece654b00b2b479ec968eb72b76b2",
+  "rev": "1-7e25e0e40852780fa3123a876384a412",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "3bad9a25-fc66-419a-8f30-db96d02b25d5"
+    "id": "3bad9a25-fc66-419a-8f30-db96d02b25d5",
+    "url": "/authoring/v1/resources/681dfa53-6028-41f7-8331-82b5d6911172"
   },
   "keywords": [],
-  "created": "2020-04-10T07:24:31.901Z",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "created": "2020-04-17T15:24:26.787Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "default-content",
+  "type": "Pintrest",
   "locale": "en",
   "tags": [],
   "elements": {
     "socialIcon": {
       "mode": "shared",
+      "renditions": {
+        "default": {
+          "source": "/authoring/v1/resources/681dfa53-6028-41f7-8331-82b5d6911172"
+        }
+      },
       "asset": {
-        "id": "3bad9a25-fc66-419a-8f30-db96d02b25d5"
+        "fileName": "PI_Color.svg",
+        "altText": "",
+        "fileSize": 916,
+        "mediaType": "image/svg+xml",
+        "id": "3bad9a25-fc66-419a-8f30-db96d02b25d5",
+        "resourceUri": "/authoring/v1/resources/681dfa53-6028-41f7-8331-82b5d6911172"
       },
       "elementType": "image"
     },
@@ -24,10 +38,20 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "457e97ef-3fdc-4281-868d-b7382b286b19",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/681dfa53-6028-41f7-8331-82b5d6911172"
+    },
+    "self": {
+      "href": "/authoring/v1/default-content/0f84193e-3010-4473-8a2c-9df196daf54b"
+    },
+    "type": {
+      "href": "/authoring/v1/types/457e97ef-3fdc-4281-868d-b7382b286b19"
+    }
+  },
   "id": "0f84193e-3010-4473-8a2c-9df196daf54b",
-  "lastModified": "2020-04-10T07:25:02.650Z",
-  "systemModified": "2020-04-10T07:25:02.650Z",
-  "status": "ready"
+  "lastModified": "2020-04-17T15:24:26.787Z",
+  "systemModified": "2020-04-17T15:24:26.787Z"
 }

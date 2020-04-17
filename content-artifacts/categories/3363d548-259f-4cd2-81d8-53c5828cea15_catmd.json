@@ -1,9 +1,9 @@
 {
   "id": "3363d548-259f-4cd2-81d8-53c5828cea15",
-  "rev": "3-e9ef6ac9e5e3526070cb0f9fa338748e",
+  "rev": "1-48d48563abcba2aa020ba789448a786b",
   "name": "Cancellations",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "creator": "Alex Sanielevici",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creator": "David Klages",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,6 +25,7 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-09T01:19:52.220Z",
-  "lastModified": "2020-04-09T01:19:52.220Z"
+  "created": "2020-04-17T15:22:51.319Z",
+  "lastModified": "2020-04-17T15:22:51.319Z",
+  "code": 201
 }

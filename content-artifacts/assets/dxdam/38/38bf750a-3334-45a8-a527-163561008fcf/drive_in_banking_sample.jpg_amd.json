@@ -4,28 +4,49 @@
     "width": 4502,
     "height": 2924
   },
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "a2b5f053-deb8-4260-b7fd-fe92cc94ca73",
+  "lastModifier": "David Klages",
+  "mediaId": "809e4c41-911d-4b41-95c7-cd22f1a6ac66",
   "path": "/dxdam/38/38bf750a-3334-45a8-a527-163561008fcf/drive_in_banking_sample.jpg",
   "digest": "86VhfjpItFRlJOZnCqGKkA==",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=de09612e-c3ff-4a8d-8092-b2bedacb8e37&a=38bf750a-3334-45a8-a527-163561008fcf",
       "source": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/38bf750a-3334-45a8-a527-163561008fcf"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37.jpg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/38bf750a-3334-45a8-a527-163561008fcf/status/retire"
+    }
+  },
   "id": "38bf750a-3334-45a8-a527-163561008fcf",
+  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-15T02:19:22.677Z",
+  "systemModified": "2020-04-17T15:23:21.580Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "profileName": "Update Article Profile",
       "key": "article",
+      "label": "Article",
       "transform": {
         "scale": 0.18325188804975567,
         "crop": {
@@ -40,23 +61,17 @@
       "height": 320
     }
   ],
-  "rev": "1-d7a52a2e0ed85d8ad5c8960ef9bf7f1e",
+  "rev": "1-e2523e07c48a988e64a62d9a6838f880",
+  "creator": "David Klages",
   "altText": "",
   "resource": "de09612e-c3ff-4a8d-8092-b2bedacb8e37",
-  "created": "2020-04-15T02:18:17.089Z",
+  "created": "2020-04-17T15:23:21.563Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:doorplate",
-      "classification:building",
-      "classification:brick red color",
-      "classification:beige color"
-    ],
     "declined": [],
     "values": [
       "classification:doorplate",
@@ -64,29 +79,16 @@
       "classification:brick red color",
       "classification:beige color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "doorplate",
-      "building",
-      "brick red color",
-      "beige color"
-    ],
-    "colors": {
-      "lightMuted": "#b9b5a5",
-      "darkMuted": "#513b2c",
-      "lightVibrant": "#bc8e66",
-      "vibrant": "#b98449",
-      "muted": "#97775a",
-      "darkVibrant": "#4f3724"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 1136967,
   "name": "drive_in_banking_sample.jpg",
-  "lastModified": "2020-04-15T02:19:22.677Z",
+  "lastModified": "2020-04-17T15:23:21.580Z",
   "status": "ready"
 }

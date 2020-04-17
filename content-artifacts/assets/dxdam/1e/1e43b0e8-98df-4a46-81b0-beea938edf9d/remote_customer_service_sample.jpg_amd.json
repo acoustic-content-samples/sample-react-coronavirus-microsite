@@ -4,28 +4,49 @@
     "width": 3302,
     "height": 4953
   },
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "11113334-57d9-4c30-bcf8-fd95709500b2",
+  "lastModifier": "David Klages",
+  "mediaId": "ab3c04c9-5746-4f24-aef7-89a01c6810c4",
   "path": "/dxdam/1e/1e43b0e8-98df-4a46-81b0-beea938edf9d/remote_customer_service_sample.jpg",
   "digest": "kWB0FyR9F7EO+H+Du1LUCQ==",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=fc92954f-7246-4fb1-92b6-3d3d98ad70d9&a=1e43b0e8-98df-4a46-81b0-beea938edf9d",
       "source": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/1e43b0e8-98df-4a46-81b0-beea938edf9d"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9.jpg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/fc92954f-7246-4fb1-92b6-3d3d98ad70d9?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/1e43b0e8-98df-4a46-81b0-beea938edf9d/status/retire"
+    }
+  },
   "id": "1e43b0e8-98df-4a46-81b0-beea938edf9d",
+  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-15T02:58:45.067Z",
+  "systemModified": "2020-04-17T15:23:20.136Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "profileName": "Update Article Profile",
       "key": "article",
+      "label": "Article",
       "transform": {
         "scale": 0.24984857662023016,
         "crop": {
@@ -40,27 +61,17 @@
       "height": 320
     }
   ],
-  "rev": "1-a06350b280256fca96fb6342c3c8a94e",
+  "rev": "1-9e728dfaeaba98dc0a35a80e8ec0ad44",
+  "creator": "David Klages",
   "altText": "",
   "resource": "fc92954f-7246-4fb1-92b6-3d3d98ad70d9",
-  "created": "2020-04-15T02:52:13.821Z",
+  "created": "2020-04-17T15:23:20.129Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:double bed",
-      "classification:bed",
-      "classification:furniture",
-      "classification:hospital bed",
-      "classification:bedside",
-      "classification:indoors",
-      "classification:ash grey color",
-      "classification:sage green color"
-    ],
     "declined": [],
     "values": [
       "classification:double bed",
@@ -72,33 +83,16 @@
       "classification:ash grey color",
       "classification:sage green color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "double bed",
-      "bed",
-      "furniture",
-      "hospital bed",
-      "bedside",
-      "indoors",
-      "ash grey color",
-      "sage green color"
-    ],
-    "colors": {
-      "lightMuted": "#bcb4c4",
-      "darkMuted": "#51443f",
-      "lightVibrant": "#bcb4c4",
-      "vibrant": "#7f708e",
-      "muted": "#81797e",
-      "darkVibrant": "#423a4a"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 1908671,
   "name": "remote_customer_service_sample.jpg",
-  "lastModified": "2020-04-15T02:58:45.067Z",
+  "lastModified": "2020-04-17T15:23:20.136Z",
   "status": "ready"
 }

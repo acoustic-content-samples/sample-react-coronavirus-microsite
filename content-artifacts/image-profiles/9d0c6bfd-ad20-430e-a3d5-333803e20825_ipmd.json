@@ -1,12 +1,14 @@
 {
   "id": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
-  "rev": "12-cc54b0f9a6c573d2b773be053b71c385",
+  "rev": "1-da2c3702c052c6450ec6aa1ba3d3b04f",
   "name": "Update Article Profile",
   "classification": "image-profile",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creator": "David Klages",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "created": "2020-04-10T17:35:29.077Z",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
-  "lastModified": "2020-04-10T17:40:54.854Z",
+  "lastModifier": "David Klages",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "lastModified": "2020-04-17T15:22:50.728Z",
   "tags": [],
   "dimensions": [
     {

@@ -1,6 +1,6 @@
 {
   "id": "9d511325-3063-48af-8e15-753cc402bbd2",
-  "rev": "4-220a0a1f8e5cbfd52979023b5cf0c62f",
+  "rev": "1-02ea4b40c2564e343d89ccd1bf997499",
   "name": "LinkedIn",
   "classification": "content-type",
   "kind": [],
@@ -14,6 +14,10 @@
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a",
     "09f2d993-4934-451c-963d-4b36cbb971ad"
+  ],
+  "categories": [
+    "Social Media/Social Media/LinkedIn",
+    "Social Media/Social Media"
   ],
   "elements": [
     {

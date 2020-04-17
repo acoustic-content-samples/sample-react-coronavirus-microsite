@@ -1,9 +1,9 @@
 {
   "id": "2f650b9a-5e08-474a-861a-a4c7e0e8b71d",
-  "rev": "3-acd60b2a2966ac7374ccc5fee334c1ff",
+  "rev": "1-8ac3950902a21789a364aa711e9d837f",
   "name": "Service Hours",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "creator": "Alex Sanielevici",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creator": "David Klages",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,6 +25,7 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-09T01:19:31.458Z",
-  "lastModified": "2020-04-09T01:19:31.458Z"
+  "created": "2020-04-17T15:22:52.352Z",
+  "lastModified": "2020-04-17T15:22:52.352Z",
+  "code": 201
 }

@@ -1,10 +1,13 @@
 {
-  "rev": "3-ef14b41feed722cacb4675f4f732e55e",
+  "rev": "1-5f19f333831adb2f8c6f794bb06a146b",
+  "creator": "David Klages",
   "keywords": [],
-  "created": "2020-04-10T07:28:45.040Z",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "created": "2020-04-17T15:24:27.289Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "default-content",
+  "type": "Custom Social Channel",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -17,10 +20,17 @@
     }
   },
   "name": "Facebook",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "013e3bab-f6b3-4f8c-9630-3f43a885c0de",
+  "links": {
+    "self": {
+      "href": "/authoring/v1/default-content/ccebabad-4113-433c-b2cf-e067e5c0a6ce"
+    },
+    "type": {
+      "href": "/authoring/v1/types/013e3bab-f6b3-4f8c-9630-3f43a885c0de"
+    }
+  },
   "id": "ccebabad-4113-433c-b2cf-e067e5c0a6ce",
-  "lastModified": "2020-04-10T07:29:02.012Z",
-  "systemModified": "2020-04-10T07:29:02.012Z",
-  "status": "ready"
+  "lastModified": "2020-04-17T15:24:27.289Z",
+  "systemModified": "2020-04-17T15:24:27.289Z"
 }

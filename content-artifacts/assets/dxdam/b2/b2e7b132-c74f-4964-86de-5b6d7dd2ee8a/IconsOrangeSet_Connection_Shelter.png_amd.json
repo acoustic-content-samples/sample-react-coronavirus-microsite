@@ -5,52 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "c3192c0d-6ce3-441a-9d64-d8cb3e871878",
+  "lastModifier": "David Klages",
+  "mediaId": "7fa9ca4e-0a66-4563-a3fc-cac06e4820e8",
   "path": "/dxdam/b2/b2e7b132-c74f-4964-86de-5b6d7dd2ee8a/IconsOrangeSet_Connection_Shelter.png",
   "digest": "l5NOzTZawZi5xPgva921UA==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3&a=b2e7b132-c74f-4964-86de-5b6d7dd2ee8a",
       "source": "/authoring/v1/resources/986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/b2e7b132-c74f-4964-86de-5b6d7dd2ee8a"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/b2e7b132-c74f-4964-86de-5b6d7dd2ee8a/status/retire"
+    }
+  },
   "id": "b2e7b132-c74f-4964-86de-5b6d7dd2ee8a",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:14:44.612Z",
+  "systemModified": "2020-04-17T15:23:30.401Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-8eddd81cfc5bbd8ddfff7f2e84b2513b",
+  "rev": "1-1f3f89b7754eda68dcf7ebb6e7c12d98",
+  "creator": "David Klages",
   "altText": "",
   "resource": "986c0b9c-8561-4fb3-b3e8-eba68b0e8ad3",
-  "created": "2020-04-10T17:11:02.385Z",
+  "created": "2020-04-17T15:23:30.395Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:tetraskelion",
-      "classification:octagon",
-      "classification:polygon",
-      "classification:figure",
-      "classification:eraser",
-      "classification:rubber eraser",
-      "classification:tangram (chinese puzzle)",
-      "classification:reddish orange color",
-      "classification:orange color"
-    ],
     "declined": [
       "classification:tetraskelion",
       "classification:octagon",
@@ -66,34 +76,16 @@
       "user:orange",
       "user:shelter"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "tetraskelion",
-      "octagon",
-      "polygon",
-      "figure",
-      "eraser",
-      "rubber eraser",
-      "tangram (chinese puzzle)",
-      "reddish orange color",
-      "orange color"
-    ],
-    "colors": {
-      "lightMuted": "#8e4c0a",
-      "darkMuted": "#913507",
-      "lightVibrant": "#f6be86",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 28937,
   "name": "IconsOrangeSet_Connection_Shelter.png",
-  "lastModified": "2020-04-15T18:14:44.612Z",
+  "lastModified": "2020-04-17T15:23:30.401Z",
   "status": "ready"
 }

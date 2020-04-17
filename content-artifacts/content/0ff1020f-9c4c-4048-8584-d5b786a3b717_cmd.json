@@ -1,22 +1,36 @@
 {
-  "rev": "5-da94637f703998164435e24f814b65cb",
+  "rev": "1-0b45191611d1ce62ffbcb074012b1f86",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+    "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+    "url": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-10T07:33:02.016Z",
+  "created": "2020-04-17T15:24:27.872Z",
   "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "Twitter",
   "locale": "en",
   "tags": [],
   "elements": {
     "socialIcon": {
       "mode": "shared",
+      "renditions": {
+        "default": {
+          "source": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+        }
+      },
       "asset": {
-        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+        "fileName": "TW_Color.svg",
+        "altText": "",
+        "fileSize": 825,
+        "mediaType": "image/svg+xml",
+        "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+        "resourceUri": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
       },
       "elementType": "image"
     },
@@ -27,10 +41,30 @@
     }
   },
   "name": "Twitter",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "526ab219-de68-4f1d-8b66-5007ffaafe74",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/0ff1020f-9c4c-4048-8584-d5b786a3b717/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/0ff1020f-9c4c-4048-8584-d5b786a3b717/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/0ff1020f-9c4c-4048-8584-d5b786a3b717"
+    },
+    "type": {
+      "href": "/authoring/v1/types/526ab219-de68-4f1d-8b66-5007ffaafe74"
+    }
+  },
   "id": "0ff1020f-9c4c-4048-8584-d5b786a3b717",
-  "lastModified": "2020-04-15T00:23:43.612Z",
-  "systemModified": "2020-04-15T00:23:43.612Z",
+  "lastModified": "2020-04-17T15:24:27.872Z",
+  "systemModified": "2020-04-17T15:24:27.872Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

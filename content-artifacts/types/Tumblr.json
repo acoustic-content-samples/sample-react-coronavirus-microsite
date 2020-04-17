@@ -1,6 +1,6 @@
 {
   "id": "88783c10-7050-4af7-b072-71fe42ccf56f",
-  "rev": "4-2f01b6ea024b458267e58a0f567e1b4e",
+  "rev": "1-6b68dc0e23e49303261c53d59b37bf74",
   "name": "Tumblr",
   "classification": "content-type",
   "kind": [],
@@ -15,6 +15,9 @@
   ],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "categories": [
+    "Social Media/Social Media"
   ],
   "elements": [
     {

@@ -5,49 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "e3c19c79-d295-4fe8-ac0d-061783be0fe7",
+  "lastModifier": "David Klages",
+  "mediaId": "c71eb244-0004-4121-b594-b8f857af13bd",
   "path": "/dxdam/40/404c81e8-666a-4f99-95ff-07a0a861bcfa/IconsGreenSet_Location1.png",
   "digest": "QVSKj5GAThB+uhSnPTxAJA==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=63aafe94-7fd1-4038-8f5e-f5abcd4c420f&a=404c81e8-666a-4f99-95ff-07a0a861bcfa",
       "source": "/authoring/v1/resources/63aafe94-7fd1-4038-8f5e-f5abcd4c420f"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/404c81e8-666a-4f99-95ff-07a0a861bcfa"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/63aafe94-7fd1-4038-8f5e-f5abcd4c420f.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/63aafe94-7fd1-4038-8f5e-f5abcd4c420f?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/404c81e8-666a-4f99-95ff-07a0a861bcfa/status/retire"
+    }
+  },
   "id": "404c81e8-666a-4f99-95ff-07a0a861bcfa",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:13:13.704Z",
+  "systemModified": "2020-04-17T15:23:22.486Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-69646db1bda96c37dfbdae39680f6979",
+  "rev": "1-aef20e47817a8afbe2e1d265ad3892c1",
+  "creator": "David Klages",
   "altText": "",
   "resource": "63aafe94-7fd1-4038-8f5e-f5abcd4c420f",
-  "created": "2020-04-10T17:18:38.959Z",
+  "created": "2020-04-17T15:23:22.477Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:diskette",
-      "classification:memory device",
-      "classification:gasoline gauge",
-      "classification:measuring instrument",
-      "classification:blue color",
-      "classification:jade green color"
-    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -61,31 +74,16 @@
       "user:green",
       "user:green color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "diskette",
-      "memory device",
-      "gasoline gauge",
-      "measuring instrument",
-      "blue color",
-      "jade green color"
-    ],
-    "colors": {
-      "lightMuted": "#7cbcb4",
-      "darkMuted": "#049481",
-      "lightVibrant": "#ccfbec",
-      "vibrant": "#14efa5",
-      "muted": "#57aba1",
-      "darkVibrant": "#047c6c"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 35161,
   "name": "IconsGreenSet_Location1.png",
-  "lastModified": "2020-04-15T18:13:13.704Z",
+  "lastModified": "2020-04-17T15:23:22.486Z",
   "status": "ready"
 }

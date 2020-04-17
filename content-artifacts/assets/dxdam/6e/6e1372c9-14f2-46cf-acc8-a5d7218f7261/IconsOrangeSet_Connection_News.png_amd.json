@@ -5,55 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "1d96a6c9-11c0-439d-aa25-a942ec9a1f0b",
+  "lastModifier": "David Klages",
+  "mediaId": "21134832-6a69-43c7-a123-131608f4f93d",
   "path": "/dxdam/6e/6e1372c9-14f2-46cf-acc8-a5d7218f7261/IconsOrangeSet_Connection_News.png",
   "digest": "vzjrf8vjN/hYWewyJGLn4A==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=e0e73144-7bd2-4403-9bcc-18cb47261329&a=6e1372c9-14f2-46cf-acc8-a5d7218f7261",
       "source": "/authoring/v1/resources/e0e73144-7bd2-4403-9bcc-18cb47261329"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/6e1372c9-14f2-46cf-acc8-a5d7218f7261"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/e0e73144-7bd2-4403-9bcc-18cb47261329.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/e0e73144-7bd2-4403-9bcc-18cb47261329?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/6e1372c9-14f2-46cf-acc8-a5d7218f7261/status/retire"
+    }
+  },
   "id": "6e1372c9-14f2-46cf-acc8-a5d7218f7261",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:06:12.915Z",
+  "systemModified": "2020-04-17T15:23:25.081Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-84ecbca59129212e3a777015093b0364",
+  "rev": "1-34f26652c5a45ca959106483ab9561b7",
+  "creator": "David Klages",
   "altText": "",
   "resource": "e0e73144-7bd2-4403-9bcc-18cb47261329",
-  "created": "2020-04-10T17:10:56.088Z",
+  "created": "2020-04-17T15:23:25.070Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:quadrate",
-      "classification:polygon",
-      "classification:figure",
-      "classification:L-plate (learners plate for car)",
-      "classification:electric switch",
-      "classification:controller",
-      "classification:telephone jack",
-      "classification:electrical device",
-      "classification:fire alarm",
-      "classification:alarm",
-      "classification:push button",
-      "classification:orange color"
-    ],
     "declined": [
       "classification:quadrate",
       "classification:polygon",
@@ -72,37 +79,16 @@
       "user:news",
       "user:orange"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "quadrate",
-      "polygon",
-      "figure",
-      "L-plate (learners plate for car)",
-      "electric switch",
-      "controller",
-      "telephone jack",
-      "electrical device",
-      "fire alarm",
-      "alarm",
-      "push button",
-      "orange color"
-    ],
-    "colors": {
-      "lightMuted": "#945004",
-      "darkMuted": "#913507",
-      "lightVibrant": "#fbc181",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 21810,
   "name": "IconsOrangeSet_Connection_News.png",
-  "lastModified": "2020-04-15T18:06:12.915Z",
+  "lastModified": "2020-04-17T15:23:25.081Z",
   "status": "ready"
 }

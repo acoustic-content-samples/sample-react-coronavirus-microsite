@@ -5,51 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "3a6a1926-b6d4-414c-b4b4-8aae8f422063",
+  "lastModifier": "David Klages",
+  "mediaId": "1ee34725-2131-4dda-9507-1471479d3660",
   "path": "/dxdam/a1/a17c072a-cd2d-4f23-8b47-7e2d35ac164f/IconsPurpleSet_Schedule.png",
   "digest": "rZ3OD5guJFQibYCu77b4Lw==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=fb80ffbf-31c3-41e1-8c50-16625570acb0&a=a17c072a-cd2d-4f23-8b47-7e2d35ac164f",
       "source": "/authoring/v1/resources/fb80ffbf-31c3-41e1-8c50-16625570acb0"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/a17c072a-cd2d-4f23-8b47-7e2d35ac164f"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/fb80ffbf-31c3-41e1-8c50-16625570acb0.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/fb80ffbf-31c3-41e1-8c50-16625570acb0?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/a17c072a-cd2d-4f23-8b47-7e2d35ac164f/status/retire"
+    }
+  },
   "id": "a17c072a-cd2d-4f23-8b47-7e2d35ac164f",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:12:07.333Z",
+  "systemModified": "2020-04-17T15:23:29.275Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-759068fb11422a8d60a2bb4b33872f34",
+  "rev": "1-381d72aefddb4c55c88ee12c3663a0d2",
+  "creator": "David Klages",
   "altText": "",
   "resource": "fb80ffbf-31c3-41e1-8c50-16625570acb0",
-  "created": "2020-04-10T17:07:20.464Z",
+  "created": "2020-04-17T15:23:29.269Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:spectrum of colors",
-      "classification:diskette",
-      "classification:memory device",
-      "classification:quadrate",
-      "classification:polygon",
-      "classification:figure",
-      "classification:L-plate (learners plate for car)",
-      "classification:purple color"
-    ],
     "declined": [
       "classification:spectrum of colors",
       "classification:diskette",
@@ -64,33 +75,16 @@
       "user:schedule",
       "user:purple"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "spectrum of colors",
-      "diskette",
-      "memory device",
-      "quadrate",
-      "polygon",
-      "figure",
-      "L-plate (learners plate for car)",
-      "purple color"
-    ],
-    "colors": {
-      "lightMuted": "#8c0c84",
-      "darkMuted": "#940494",
-      "lightVibrant": "#f485ed",
-      "vibrant": "#cc44bc",
-      "muted": "#78206d",
-      "darkVibrant": "#7c047c"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 27446,
   "name": "IconsPurpleSet_Schedule.png",
-  "lastModified": "2020-04-15T18:12:07.333Z",
+  "lastModified": "2020-04-17T15:23:29.275Z",
   "status": "ready"
 }

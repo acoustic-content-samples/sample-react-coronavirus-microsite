@@ -5,47 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "2174ab80-c476-4d29-9070-c744f8cdcace",
+  "lastModifier": "David Klages",
+  "mediaId": "7ff80580-022b-480b-a6a3-6c40199dd07e",
   "path": "/dxdam/65/65a02661-665f-4fa9-bc61-6e40f12afe7a/IconsBlueSet_Give.png",
   "digest": "KtVBWEE8kQWXy613V0W9oA==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=035505c7-d87e-4ad5-b8d0-af92421a5865&a=65a02661-665f-4fa9-bc61-6e40f12afe7a",
       "source": "/authoring/v1/resources/035505c7-d87e-4ad5-b8d0-af92421a5865"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/65a02661-665f-4fa9-bc61-6e40f12afe7a"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/035505c7-d87e-4ad5-b8d0-af92421a5865.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/035505c7-d87e-4ad5-b8d0-af92421a5865?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/65a02661-665f-4fa9-bc61-6e40f12afe7a/status/retire"
+    }
+  },
   "id": "65a02661-665f-4fa9-bc61-6e40f12afe7a",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:14:30.955Z",
+  "systemModified": "2020-04-17T15:23:25.205Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-4a4822321c9ead95e23ee69a71fb6dd4",
+  "rev": "1-9a7a445db57fcecbd943bddbb722e1ca",
+  "creator": "David Klages",
   "altText": "",
   "resource": "035505c7-d87e-4ad5-b8d0-af92421a5865",
-  "created": "2020-04-10T17:21:00.753Z",
+  "created": "2020-04-17T15:23:25.198Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:mouthpiece",
-      "classification:fluorescent lamp",
-      "classification:lamp",
-      "classification:blue color"
-    ],
     "declined": [
       "classification:mouthpiece",
       "classification:fluorescent lamp",
@@ -58,29 +73,16 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "mouthpiece",
-      "fluorescent lamp",
-      "lamp",
-      "blue color"
-    ],
-    "colors": {
-      "lightMuted": "#0c6e8c",
-      "darkMuted": "#034f95",
-      "lightVibrant": "#88dbf4",
-      "vibrant": "#045cb4",
-      "muted": "#034c95",
-      "darkVibrant": "#045cac"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 30072,
   "name": "IconsBlueSet_Give.png",
-  "lastModified": "2020-04-15T18:14:30.955Z",
+  "lastModified": "2020-04-17T15:23:25.205Z",
   "status": "ready"
 }

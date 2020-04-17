@@ -1,9 +1,9 @@
 {
   "id": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
-  "rev": "4-53e37509365e41cba236c67f52f1eccf",
+  "rev": "1-4612b1195e1bc1d4d95c19eb8de4272d",
   "name": "Content Categories",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "creator": "Alex Sanielevici",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creator": "David Klages",
   "classification": "taxonomy",
   "firstClassFor": [
     ""
@@ -16,6 +16,7 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-09T01:19:05.121Z",
-  "lastModified": "2020-04-09T13:10:23.798Z"
+  "created": "2020-04-17T15:22:51.245Z",
+  "lastModified": "2020-04-17T15:22:51.245Z",
+  "code": 201
 }

@@ -1,6 +1,6 @@
 {
   "id": "d83bcaa9-e3b5-4944-9f1a-c2f1dbb72604",
-  "rev": "5-cba413dff15b4097ae5fe458b6be481d",
+  "rev": "1-0df4698b614434ee599fb0f13b2e3339",
   "name": "Facebook",
   "classification": "content-type",
   "kind": [],
@@ -13,6 +13,9 @@
   "tags": [],
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a"
+  ],
+  "categories": [
+    "Social Media/Social Media"
   ],
   "elements": [
     {

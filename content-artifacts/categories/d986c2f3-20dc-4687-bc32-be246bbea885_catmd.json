@@ -1,9 +1,9 @@
 {
   "id": "d986c2f3-20dc-4687-bc32-be246bbea885",
-  "rev": "1-25ff1f8f0b4fdb2e2a01f85e49c1f448",
+  "rev": "1-da97a24167119873d393e24092dfe9d4",
   "name": "Products",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
-  "creator": "Alex Sanielevici",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
+  "creator": "David Klages",
   "classification": "category",
   "taxonomy": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
   "parent": "afd4e172-0bb1-40eb-a687-8a625f9dcc9c",
@@ -25,6 +25,7 @@
       "href": "/authoring/v1/categories/afd4e172-0bb1-40eb-a687-8a625f9dcc9c"
     }
   },
-  "created": "2020-04-09T14:27:42.251Z",
-  "lastModified": "2020-04-09T14:27:42.251Z"
+  "created": "2020-04-17T15:22:52.669Z",
+  "lastModified": "2020-04-17T15:22:52.669Z",
+  "code": 201
 }

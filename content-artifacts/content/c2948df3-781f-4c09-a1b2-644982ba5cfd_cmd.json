@@ -1,14 +1,18 @@
 {
-  "rev": "3-2e9c2e11e7ff49992d1f834241a4de23",
+  "rev": "1-e1ea1986e9f4e4cbf9a9e12920ff3ff4",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "38bf750a-3334-45a8-a527-163561008fcf"
+    "id": "38bf750a-3334-45a8-a527-163561008fcf",
+    "url": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37?fit=inside%7C220:145"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-15T02:05:29.844Z",
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "created": "2020-04-17T15:24:29.293Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "COVID Update",
   "locale": "en",
   "tags": [
     "user:Branch"
@@ -19,8 +23,36 @@
       "profiles": [
         "9d0c6bfd-ad20-430e-a3d5-333803e20825"
       ],
+      "renditions": {
+        "article": {
+          "source": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37?resize=825px:536px&crop=825:320;0,112",
+          "width": 825,
+          "height": 320,
+          "transform": {
+            "scale": 0.18325188804975567,
+            "crop": {
+              "x": 0,
+              "y": 112,
+              "width": 825,
+              "height": 320
+            }
+          }
+        },
+        "default": {
+          "width": 4502,
+          "source": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37",
+          "height": 2924
+        }
+      },
       "asset": {
-        "id": "38bf750a-3334-45a8-a527-163561008fcf"
+        "fileName": "drive_in_banking_sample.jpg",
+        "altText": "",
+        "fileSize": 1136967,
+        "width": 4502,
+        "mediaType": "image/jpeg",
+        "id": "38bf750a-3334-45a8-a527-163561008fcf",
+        "resourceUri": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37",
+        "height": 2924
       },
       "elementType": "image"
     },
@@ -34,6 +66,12 @@
         "2f650b9a-5e08-474a-861a-a4c7e0e8b71d",
         "19f57336-3e2d-4948-9200-5d91aed618f0",
         "dbc5f62e-763c-4787-9975-128054ee5761"
+      ],
+      "categories": [
+        "Content Categories/Customer Service",
+        "Content Categories/Service Hours",
+        "Content Categories/Services",
+        "Content Categories/Safeguards"
       ],
       "elementType": "category"
     },
@@ -57,8 +95,50 @@
       "profiles": [
         "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
       ],
+      "renditions": {
+        "tile": {
+          "source": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f?resize=510px:510px&crop=510:192;0,159",
+          "width": 510,
+          "height": 192,
+          "transform": {
+            "scale": 0.25487,
+            "crop": {
+              "x": 0,
+              "y": 159,
+              "width": 510,
+              "height": 192
+            }
+          }
+        },
+        "block": {
+          "source": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f?resize=350px:350px&crop=350:240;0,55",
+          "width": 350,
+          "height": 240,
+          "transform": {
+            "scale": 0.17491,
+            "crop": {
+              "x": 0,
+              "y": 55,
+              "width": 350,
+              "height": 240
+            }
+          }
+        },
+        "default": {
+          "width": 2001,
+          "source": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f",
+          "height": 2001
+        }
+      },
       "asset": {
-        "id": "58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37"
+        "fileName": "IconsBlueSet_Safety.png",
+        "altText": "",
+        "fileSize": 33351,
+        "width": 2001,
+        "mediaType": "image/png",
+        "id": "58b3f2d5-20e8-4fa1-8ce9-1cf2051fbb37",
+        "resourceUri": "/authoring/v1/resources/49bdbe6a-6121-48ea-9464-d10739d2bd5f",
+        "height": 2001
       },
       "elementType": "image"
     },
@@ -70,10 +150,30 @@
     }
   },
   "name": "Sample: Branch banking safety",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "14b10af1-f907-43eb-8acd-504761b38097",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/de09612e-c3ff-4a8d-8092-b2bedacb8e37?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/c2948df3-781f-4c09-a1b2-644982ba5cfd/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/c2948df3-781f-4c09-a1b2-644982ba5cfd/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/c2948df3-781f-4c09-a1b2-644982ba5cfd"
+    },
+    "type": {
+      "href": "/authoring/v1/types/14b10af1-f907-43eb-8acd-504761b38097"
+    }
+  },
   "id": "c2948df3-781f-4c09-a1b2-644982ba5cfd",
-  "lastModified": "2020-04-15T12:56:51.957Z",
-  "systemModified": "2020-04-15T12:56:51.957Z",
+  "lastModified": "2020-04-17T15:24:29.293Z",
+  "systemModified": "2020-04-17T15:24:29.293Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

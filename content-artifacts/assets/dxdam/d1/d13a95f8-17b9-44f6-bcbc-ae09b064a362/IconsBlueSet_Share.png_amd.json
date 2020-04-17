@@ -1,39 +1,62 @@
 {
-  "fileName": "Covid19_Content_BlueSet_Share.png",
+  "fileName": "IconsBlueSet_Share.png",
   "metadata": {
     "width": 2001,
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "122d3851-fbdb-4d3a-96a6-eed9fbb4cd47",
+  "lastModifier": "David Klages",
+  "mediaId": "691f0706-65ac-4502-8a3f-82910b95b44b",
   "path": "/dxdam/d1/d13a95f8-17b9-44f6-bcbc-ae09b064a362/IconsBlueSet_Share.png",
   "digest": "FXExq3t79yaVk2IskpDDgQ==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=846ccb89-840c-4845-8d45-27b385a21614&a=d13a95f8-17b9-44f6-bcbc-ae09b064a362",
       "source": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/d13a95f8-17b9-44f6-bcbc-ae09b064a362"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/846ccb89-840c-4845-8d45-27b385a21614?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/d13a95f8-17b9-44f6-bcbc-ae09b064a362/status/retire"
+    }
+  },
   "id": "d13a95f8-17b9-44f6-bcbc-ae09b064a362",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T17:56:09.184Z",
+  "systemModified": "2020-04-17T15:23:32.618Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "tile",
+      "label": "Tile",
       "transform": {
         "scale": 0.25487,
         "crop": {
@@ -49,7 +72,9 @@
     },
     {
       "profileId": "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8",
+      "profileName": "List View Profile",
       "key": "block",
+      "label": "Block",
       "transform": {
         "scale": 0.17491,
         "crop": {
@@ -64,29 +89,17 @@
       "height": 240
     }
   ],
-  "rev": "4-c82381a40cc298c8baf404e6e77c0fa2",
+  "rev": "1-b943cbb88f729475b0800545c5e04126",
+  "creator": "David Klages",
   "altText": "",
   "resource": "846ccb89-840c-4845-8d45-27b385a21614",
-  "created": "2020-04-10T17:21:06.646Z",
+  "created": "2020-04-17T15:23:32.613Z",
   "profiles": [
     "90ab7548-6760-4fd7-8c5f-53ae6c46f2f8"
   ],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:diskette",
-      "classification:memory device",
-      "classification:electric switch",
-      "classification:controller",
-      "classification:telephone jack",
-      "classification:electrical device",
-      "classification:jack (electrical)",
-      "classification:recording",
-      "classification:push button",
-      "classification:blue color"
-    ],
     "declined": [
       "classification:diskette",
       "classification:memory device",
@@ -104,35 +117,16 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "diskette",
-      "memory device",
-      "electric switch",
-      "controller",
-      "telephone jack",
-      "electrical device",
-      "jack (electrical)",
-      "recording",
-      "push button",
-      "blue color"
-    ],
-    "colors": {
-      "lightMuted": "#027296",
-      "darkMuted": "#035395",
-      "lightVibrant": "#2ecafc",
-      "vibrant": "#045cb4",
-      "muted": "#034c95",
-      "darkVibrant": "#0464b4"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 33437,
   "name": "IconsBlueSet_Share.png",
-  "lastModified": "2020-04-15T17:56:09.184Z",
+  "lastModified": "2020-04-17T15:23:32.618Z",
   "status": "ready"
 }

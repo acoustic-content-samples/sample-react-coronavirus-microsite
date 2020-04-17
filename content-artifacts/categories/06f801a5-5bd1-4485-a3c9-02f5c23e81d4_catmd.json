@@ -1,8 +1,8 @@
 {
   "id": "06f801a5-5bd1-4485-a3c9-02f5c23e81d4",
-  "rev": "2-6424bff221968d6b435cdcba37c09ccd",
+  "rev": "1-441763efc6862e3c442f0efa0b7e0220",
   "name": "Tahoma, Geneva, sans-serif",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "creator": "David Klages",
   "classification": "category",
   "taxonomy": "38f8dea6-5055-4e3f-9093-3306c6831bde",
@@ -27,6 +27,7 @@
       "href": "/authoring/v1/categories/04734168-ee3d-4942-8269-9578b554ed75"
     }
   },
-  "created": "2020-04-08T19:42:37.304Z",
-  "lastModified": "2020-04-08T21:40:13.874Z"
+  "created": "2020-04-17T15:22:54.539Z",
+  "lastModified": "2020-04-17T15:22:54.539Z",
+  "code": 201
 }

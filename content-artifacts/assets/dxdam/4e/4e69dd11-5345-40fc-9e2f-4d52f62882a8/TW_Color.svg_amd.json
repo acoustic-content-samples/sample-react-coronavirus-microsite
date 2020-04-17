@@ -2,33 +2,55 @@
   "fileName": "TW_Color.svg",
   "metadata": {},
   "libraryId": "51797f7c-589c-431e-9437-a4d3fd1ea560",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "07f68154-2d50-437b-ad7b-749cf796058f",
+  "lastModifier": "David Klages",
+  "mediaId": "aea5be7b-9785-4b79-b222-a983451874b4",
   "path": "/dxdam/4e/4e69dd11-5345-40fc-9e2f-4d52f62882a8/TW_Color.svg",
   "digest": "M6awxvVq6v6/cS243rnNGA==",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=aa1c4fce-9e1a-4aee-a2ec-42163036840c&a=4e69dd11-5345-40fc-9e2f-4d52f62882a8",
       "source": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/4e69dd11-5345-40fc-9e2f-4d52f62882a8"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c.svg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/aa1c4fce-9e1a-4aee-a2ec-42163036840c"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/4e69dd11-5345-40fc-9e2f-4d52f62882a8/status/retire"
+    }
+  },
   "id": "4e69dd11-5345-40fc-9e2f-4d52f62882a8",
+  "categories": [
+    "Social Media/Social Media",
+    "Social Media/Social Media/Twitter"
+  ],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-11T22:50:34.755Z",
+  "systemModified": "2020-04-17T15:23:23.899Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-13a9a1b401f32a1f078d4da1366178fc",
+  "rev": "1-e2b18636d115d199bdb7cd0016e01f52",
+  "creator": "David Klages",
   "altText": "",
   "resource": "aa1c4fce-9e1a-4aee-a2ec-42163036840c",
-  "created": "2020-04-10T06:55:06.164Z",
+  "created": "2020-04-17T15:23:23.894Z",
   "profiles": [],
   "mediaType": "image/svg+xml",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
     "declined": [],
     "values": [
@@ -36,6 +58,7 @@
     ],
     "analysis": "none"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [
     "c8158dbf-1ebd-4b94-8901-3d146696924a",
@@ -46,6 +69,6 @@
   },
   "fileSize": 825,
   "name": "TW_Color.svg",
-  "lastModified": "2020-04-11T22:50:34.755Z",
+  "lastModified": "2020-04-17T15:23:23.899Z",
   "status": "ready"
 }

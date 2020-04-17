@@ -1,15 +1,19 @@
 {
-  "rev": "9-4740cdaaafb2d0477d0edb086392959b",
+  "rev": "1-531beb06fc5b4cc532b2fdaf3d154db1",
+  "creator": "David Klages",
   "thumbnail": {
-    "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55"
+    "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55",
+    "url": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3?fit=inside%7C220:145"
   },
   "keywords": [],
   "kind": [],
-  "created": "2020-04-08T18:21:58.535Z",
+  "created": "2020-04-17T15:24:29.139Z",
   "libraryId": "7ac45c8b-9913-4e69-8faa-92abe178eb96",
-  "creatorId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "content",
+  "type": "Banner",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -25,17 +29,51 @@
       "profiles": [
         "9fe54c2f-3ed4-476e-9aa9-6f2e83bc4422"
       ],
+      "renditions": {
+        "default": {
+          "width": 3888,
+          "source": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3",
+          "height": 2810
+        }
+      },
       "asset": {
-        "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55"
+        "fileName": "buildingsbanner.jpg",
+        "altText": "",
+        "fileSize": 1258159,
+        "width": 3888,
+        "mediaType": "image/jpeg",
+        "id": "43e6d357-d4e1-4d0c-b0f9-435b5c9d9b55",
+        "resourceUri": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3",
+        "height": 2810
       },
       "elementType": "image"
     }
   },
   "name": "Sample Banner",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "fd795aaa-be67-47d2-89d8-d019280cf18c",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/d911accf-a20d-43e5-bf15-82f53f3763c3?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/9ad99f88-07e4-4247-89a6-ba5bf908e0ac/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/9ad99f88-07e4-4247-89a6-ba5bf908e0ac/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/9ad99f88-07e4-4247-89a6-ba5bf908e0ac"
+    },
+    "type": {
+      "href": "/authoring/v1/types/fd795aaa-be67-47d2-89d8-d019280cf18c"
+    }
+  },
   "id": "9ad99f88-07e4-4247-89a6-ba5bf908e0ac",
-  "lastModified": "2020-04-14T21:54:27.792Z",
-  "systemModified": "2020-04-14T21:54:27.792Z",
+  "lastModified": "2020-04-17T15:24:29.139Z",
+  "systemModified": "2020-04-17T15:24:29.139Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "status": "ready"
 }

@@ -5,58 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "1d81e6c7-1155-445a-94cb-3312584ba277",
+  "lastModifier": "David Klages",
+  "mediaId": "231d4ca1-24cd-4f39-a132-1b83abf6f904",
   "path": "/dxdam/fd/fde52fdf-0b07-46be-aee7-fd472cfe905f/IconsOrangeSet_Connection_Safety.png",
   "digest": "tSf2XIMAqT47YUVici953A==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda&a=fde52fdf-0b07-46be-aee7-fd472cfe905f",
       "source": "/authoring/v1/resources/bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/fde52fdf-0b07-46be-aee7-fd472cfe905f"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/fde52fdf-0b07-46be-aee7-fd472cfe905f/status/retire"
+    }
+  },
   "id": "fde52fdf-0b07-46be-aee7-fd472cfe905f",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       },
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:05:48.756Z",
+  "systemModified": "2020-04-17T15:23:36.749Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-f3edc37a6500cb1cb850aa50e699ee38",
+  "rev": "1-0fad232f29e58ff88ee27b8a26b5ac28",
+  "creator": "David Klages",
   "altText": "",
   "resource": "bbb3cb31-b9f2-4f7c-ad7d-3d91344cfdda",
-  "created": "2020-04-10T17:11:00.826Z",
+  "created": "2020-04-17T15:23:36.727Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:towel rack",
-      "classification:rack",
-      "classification:framework",
-      "classification:supporting structure",
-      "classification:tongue depressor",
-      "classification:whistle",
-      "classification:acoustic device",
-      "classification:cookie cutter",
-      "classification:utensil",
-      "classification:earplug",
-      "classification:plug",
-      "classification:tool",
-      "classification:pin",
-      "classification:reddish orange color",
-      "classification:orange color"
-    ],
     "declined": [
       "classification:towel rack",
       "classification:rack",
@@ -78,40 +82,16 @@
       "user:safety",
       "user:orange"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "towel rack",
-      "rack",
-      "framework",
-      "supporting structure",
-      "tongue depressor",
-      "whistle",
-      "acoustic device",
-      "cookie cutter",
-      "utensil",
-      "earplug",
-      "plug",
-      "tool",
-      "pin",
-      "reddish orange color",
-      "orange color"
-    ],
-    "colors": {
-      "lightMuted": "#954803",
-      "darkMuted": "#913507",
-      "lightVibrant": "#fcb474",
-      "vibrant": "#f4641c",
-      "muted": "#913507",
-      "darkVibrant": "#7e2e06"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 32820,
   "name": "IconsOrangeSet_Connection_Safety.png",
-  "lastModified": "2020-04-15T18:05:48.756Z",
+  "lastModified": "2020-04-17T15:23:36.749Z",
   "status": "ready"
 }

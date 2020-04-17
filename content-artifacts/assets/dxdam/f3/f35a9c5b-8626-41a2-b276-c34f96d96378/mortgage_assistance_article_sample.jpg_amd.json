@@ -5,28 +5,49 @@
     "height": 2250
   },
   "libraryId": "default",
-  "creatorId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "3f267c2d-d484-43a3-b7c6-52d5e475af32",
+  "lastModifier": "David Klages",
+  "mediaId": "3041d545-a62d-4cb3-a038-5244648361e6",
   "path": "/dxdam/f3/f35a9c5b-8626-41a2-b276-c34f96d96378/mortgage_assistance_article_sample.jpg",
   "digest": "gmr7cch/3hVPLhZF1R1sjA==",
-  "lastModifierId": "23a28130-fd02-45c2-9d96-6fbe1c2c86f8",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=01ea8818-92cd-4186-a6e1-b370d94395b0&a=f35a9c5b-8626-41a2-b276-c34f96d96378",
       "source": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/f35a9c5b-8626-41a2-b276-c34f96d96378"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0.jpg"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/01ea8818-92cd-4186-a6e1-b370d94395b0?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/f35a9c5b-8626-41a2-b276-c34f96d96378/status/retire"
+    }
+  },
   "id": "f35a9c5b-8626-41a2-b276-c34f96d96378",
+  "categories": [],
   "usageRights": {
     "categories": []
   },
-  "systemModified": "2020-04-14T22:46:18.491Z",
+  "systemModified": "2020-04-17T15:23:34.021Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [
     {
       "profileId": "9d0c6bfd-ad20-430e-a3d5-333803e20825",
+      "profileName": "Update Article Profile",
       "key": "article",
+      "label": "Article",
       "transform": {
         "scale": 0.20625,
         "crop": {
@@ -41,33 +62,17 @@
       "height": 320
     }
   ],
-  "rev": "1-6cd28a23b833d9ca8bc38e75e239a2ad",
+  "rev": "1-e42443d0e00300bd7c09b481d80439eb",
+  "creator": "David Klages",
   "altText": "",
   "resource": "01ea8818-92cd-4186-a6e1-b370d94395b0",
-  "created": "2020-04-14T22:30:10.526Z",
+  "created": "2020-04-17T15:23:34.016Z",
   "profiles": [
     "9d0c6bfd-ad20-430e-a3d5-333803e20825"
   ],
   "mediaType": "image/jpeg",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:tennis",
-      "classification:court game",
-      "classification:athletic game",
-      "classification:sport",
-      "classification:Demonstration",
-      "classification:person",
-      "classification:mall",
-      "classification:retail store",
-      "classification:building",
-      "classification:display window",
-      "classification:window",
-      "classification:framework",
-      "classification:supporting structure",
-      "classification:greenishness color"
-    ],
     "declined": [],
     "values": [
       "classification:tennis",
@@ -85,39 +90,16 @@
       "classification:supporting structure",
       "classification:greenishness color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "tennis",
-      "court game",
-      "athletic game",
-      "sport",
-      "Demonstration",
-      "person",
-      "mall",
-      "retail store",
-      "building",
-      "display window",
-      "window",
-      "framework",
-      "supporting structure",
-      "greenishness color"
-    ],
-    "colors": {
-      "lightMuted": "#af9f98",
-      "darkMuted": "#2d3a47",
-      "lightVibrant": "#a2bcd7",
-      "vibrant": "#4c7fb2",
-      "muted": "#8e786c",
-      "darkVibrant": "#243c54"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 1368540,
   "name": "mortgage_assistance_article_sample.jpg",
-  "lastModified": "2020-04-14T22:46:18.491Z",
+  "lastModified": "2020-04-17T15:23:34.021Z",
   "status": "ready"
 }

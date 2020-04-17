@@ -5,46 +5,62 @@
     "height": 2001
   },
   "libraryId": "a4226673-f1b0-4cd1-80d9-7d51607d7276",
-  "creatorId": "ab07fa0d-ee97-4f74-bca9-cf39133ea88d",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
   "caption": "",
-  "mediaId": "66880126-d7bd-4d3c-8fae-47cd98fa7afb",
+  "lastModifier": "David Klages",
+  "mediaId": "4770b287-9104-4fba-8139-ac699f566da4",
   "path": "/dxdam/6a/6a724565-18a4-4e5c-b692-ee5820b028af/IconsBlueSet_Health.png",
   "digest": "qVtx5uxj5ikYu9jHOcnn6Q==",
-  "lastModifierId": "1584362b-abd7-4913-aa0b-652a2f701d8d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "renditions": {
     "default": {
       "id": "r=9781fb92-b029-4a72-93aa-b12730d09b01&a=6a724565-18a4-4e5c-b692-ee5820b028af",
       "source": "/authoring/v1/resources/9781fb92-b029-4a72-93aa-b12730d09b01"
     }
   },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/6a724565-18a4-4e5c-b692-ee5820b028af"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/9781fb92-b029-4a72-93aa-b12730d09b01.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/9781fb92-b029-4a72-93aa-b12730d09b01?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/6a724565-18a4-4e5c-b692-ee5820b028af/status/retire"
+    }
+  },
   "id": "6a724565-18a4-4e5c-b692-ee5820b028af",
+  "categories": [],
   "usageRights": {
     "categories": [
       {
-        "id": "00000000-0000-0000-0000-032300c8e20"
+        "id": "00000000-0000-0000-0000-032300c8e20",
+        "path": "Usage rights/Rights managed/Media/Digital/Website"
       },
       {
-        "id": "00000000-0000-0000-0000-023000c8e20"
+        "id": "00000000-0000-0000-0000-023000c8e20",
+        "path": "Usage rights/Rights managed/Usage realm/Public relations"
       }
     ]
   },
-  "systemModified": "2020-04-15T18:09:00.127Z",
+  "systemModified": "2020-04-17T15:23:25.290Z",
+  "publishing": {
+    "status": "not-available"
+  },
   "profileRenditions": [],
-  "rev": "2-811373f3766567637116fb667895f62f",
+  "rev": "1-7efd7761ef26466eda625d26c4158471",
+  "creator": "David Klages",
   "altText": "",
   "resource": "9781fb92-b029-4a72-93aa-b12730d09b01",
-  "created": "2020-04-10T17:21:04.280Z",
+  "created": "2020-04-17T15:23:25.256Z",
   "profiles": [],
   "mediaType": "image/png",
   "classification": "asset",
-  "assetType": "image",
   "tags": {
-    "suggested": [
-      "classification:religious symbol",
-      "classification:blue color",
-      "classification:ultramarine color"
-    ],
     "declined": [
       "classification:religious symbol",
       "classification:blue color",
@@ -55,28 +71,16 @@
       "user:blue",
       "user:blue color"
     ],
-    "analysis": "complete"
+    "analysis": "pending"
   },
+  "assetType": "image",
   "isManaged": true,
   "categoryIds": [],
   "cognitive": {
-    "classifications": [
-      "religious symbol",
-      "blue color",
-      "ultramarine color"
-    ],
-    "colors": {
-      "lightMuted": "#0a6d8e",
-      "darkMuted": "#034995",
-      "lightVibrant": "#89dbf6",
-      "vibrant": "#045cb3",
-      "muted": "#034c95",
-      "darkVibrant": "#045cbc"
-    },
-    "status": "complete"
+    "status": "pending"
   },
   "fileSize": 19650,
   "name": "IconsBlueSet_Health.png",
-  "lastModified": "2020-04-15T18:09:00.127Z",
+  "lastModified": "2020-04-17T15:23:25.290Z",
   "status": "ready"
 }

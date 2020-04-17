@@ -1,10 +1,13 @@
 {
-  "rev": "6-24d732830e7237c2da1a3e1ca0858da7",
+  "rev": "1-a86feb441cad6f6f6868b972f3759ced",
+  "creator": "David Klages",
   "keywords": [],
-  "created": "2020-04-10T07:34:25.560Z",
-  "creatorId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "created": "2020-04-17T15:24:27.156Z",
+  "creatorId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "description": "",
+  "lastModifier": "David Klages",
   "classification": "default-content",
+  "type": "Company Information",
   "locale": "en",
   "tags": [],
   "elements": {
@@ -26,10 +29,17 @@
     }
   },
   "name": "Company Information",
-  "lastModifierId": "ab9f9ba5-3215-4f12-a053-2b2a9927311d",
+  "lastModifierId": "3f5ae853-d7ee-41b5-92f5-c903c69b1125",
   "typeId": "44391995-a017-4946-b6dd-98509014c8ec",
+  "links": {
+    "self": {
+      "href": "/authoring/v1/default-content/95a2175a-c971-4bc0-8a2c-040f0e219cd2"
+    },
+    "type": {
+      "href": "/authoring/v1/types/44391995-a017-4946-b6dd-98509014c8ec"
+    }
+  },
   "id": "95a2175a-c971-4bc0-8a2c-040f0e219cd2",
-  "lastModified": "2020-04-11T22:52:32.504Z",
-  "systemModified": "2020-04-11T22:52:32.504Z",
-  "status": "ready"
+  "lastModified": "2020-04-17T15:24:27.156Z",
+  "systemModified": "2020-04-17T15:24:27.156Z"
 }
