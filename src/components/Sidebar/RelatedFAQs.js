@@ -14,7 +14,7 @@ import { DOMAIN_NAME } from 'api/endpoints';
 import './styles.scss';
 import { useSearch } from 'utils/hooks';
 import { types, searchKeys } from 'api/content';
-import { sortMapper, documentsSelector } from 'utils/helpers';
+import { faqSortMapper, documentsSelector } from 'utils/helpers';
 import { HashLink as Link } from 'react-router-hash-link';
 
 const RelatedFAQs = ({ categories, styleGuide }) => {
@@ -34,7 +34,7 @@ const RelatedFAQs = ({ categories, styleGuide }) => {
 
     const documents = useSearch(
         {
-            sort: sortMapper(searchKeys.displayOrder),
+            sort: faqSortMapper(searchKeys.displayOrder),
             fq: `type:(${types.faqItem}) AND ( ${query} )`,
             fl: 'document:[json]&rows=5',
         },

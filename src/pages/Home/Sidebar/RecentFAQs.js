@@ -14,30 +14,30 @@ import { DOMAIN_NAME } from 'api/endpoints';
 import './styles.scss';
 import { useSearch } from 'utils/hooks';
 import { types, searchKeys } from 'api/content';
-import { sortMapper, documentsSelector } from 'utils/helpers';
+import { faqSortMapper, documentsSelector } from 'utils/helpers';
 
-const RecentFAQs = ({styleGuide}) => {
+const RecentFAQs = ({ styleGuide }) => {
 
     const documents = useSearch(
         {
-          sort: sortMapper(searchKeys.displayOrder),
-          fq: `type:(${types.faqItem})`,
-          fl: 'document:[json]&rows=5',
+            sort: faqSortMapper(searchKeys.displayOrder),
+            fq: `type:(${types.faqItem})`,
+            fl: 'document:[json]&rows=5',
         },
         documentsSelector
-      );
+    );
 
-    if(!documents?.length){
+    if (!documents?.length) {
         return null;
     }
-    return(
+    return (
         <div className="sidebarSection">
-        <div className="sidebarTitle" style={{color:styleGuide.titleText, fontFamily:styleGuide.fontFamily}}>Recently added FAQs</div>
-            <ul style={{color:styleGuide.bodyText, fontFamily:styleGuide.fontFamily}}>
-                {documents?.map((document, index)=>
+            <div className="sidebarTitle" style={{ color: styleGuide.titleText, fontFamily: styleGuide.fontFamily }}>Recently added FAQs</div>
+            <ul style={{ color: styleGuide.bodyText, fontFamily: styleGuide.fontFamily }}>
+                {documents?.map((document, index) =>
                     <li key={index}>{document?.elements.question.value}</li>
                 )}
-                <li><a href="#/faq" style={{color:styleGuide.link, fontFamily:styleGuide.fontFamily}}>view all FAQs </a></li>
+                <li><a href="#/faq" style={{ color: styleGuide.link, fontFamily: styleGuide.fontFamily }}>view all FAQs </a></li>
             </ul>
         </div>
     )

@@ -13,14 +13,14 @@ import { useRouteMatch } from 'react-router-dom';
 
 import ArticlesPreviewCard from 'components/ArticlesPreviewCard/ArticlesPreviewCard';
 import FAQItem from 'components/FAQItem/FAQItem'
-import { sortMapper, documentsSelector } from 'utils/helpers';
+import { faqSortMapper, documentsSelector } from 'utils/helpers';
 import { useSearch } from 'utils/hooks';
 import { types, searchKeys } from 'api/content';
 
 const FAQPreview = ({ styleGuide }) => {
   const documents = useSearch(
     {
-      sort: sortMapper(searchKeys.displayOrder),
+      sort: faqSortMapper(searchKeys.displayOrder),
       fq: `type:(${types.faqItem}) AND ${searchKeys.topUpdate}:true`,
       fl: 'document:[json]',
     },

@@ -96,6 +96,9 @@ export const removeDuplicates = array => Array.from(new Set(array));
 export const sortMapper = value =>
   `sortableDate1 ${value === 'Most Recent' ? 'desc' : 'asc'}`;
 
+export const faqSortMapper = value =>
+  `lastModified ${value === 'Most Recent' ? 'desc' : 'asc'}`;
+
 //get Date string in MMM DD YYYY format
 const getFormattedDate = dateString =>
   dateString
