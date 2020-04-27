@@ -1,6 +1,6 @@
 {
   "id": "14b10af1-f907-43eb-8acd-504761b38097",
-  "rev": "28-146779b894343ebbaed270956ec5baa7",
+  "rev": "30-8747b61f45523cb0a1c40d1b9418c1f2",
   "name": "COVID Update",
   "classification": "content-type",
   "kind": [
@@ -76,7 +76,8 @@
       },
       "allowMultipleValues": true,
       "minimumValues": 1,
-      "fieldLabel": "Formatted Text"
+      "fieldLabel": "Article section",
+      "helpText": "Here you can add one to many article text sections for the update"
     },
     {
       "elementType": "text",
